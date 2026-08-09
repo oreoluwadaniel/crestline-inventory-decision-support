@@ -1,0 +1,6 @@
+WarehouseID,WarehouseName,State,Region,CapacityUnits
+WH-LAG1,Lagos Main,Lagos,South-West,18000
+WH-LAG2,Lagos Annex,Lagos,South-West,14000
+WH-IBD,Ibadan,Oyo,South-West,13000
+WH-ABJ,Abuja,Abuja (FCT),North-Central,18000
+WH-PHC,Port Harcourt,Rivers,South-South,21000

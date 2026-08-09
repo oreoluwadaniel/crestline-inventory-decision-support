@@ -1,0 +1,171 @@
+ProductID,ProductName,Category,SupplierID,UnitCostNGN,UnitPriceNGN,UnitsPerCarton
+PRD-0001,Coca-Cola 50cl PET x12,Beverages,SUP-24,4200,4970,12
+PRD-0002,Fanta Orange 50cl PET x12,Beverages,SUP-24,4100,5180,12
+PRD-0003,Sprite 50cl PET x12,Beverages,SUP-04,4100,4840,12
+PRD-0004,Pepsi 50cl PET x12,Beverages,SUP-12,3900,4490,12
+PRD-0005,Eva Water 75cl x12,Beverages,SUP-24,2600,3110,12
+PRD-0006,Aquafina Water 75cl x12,Beverages,SUP-24,2500,3060,12
+PRD-0007,Chivita 100% Orange 1L x12,Beverages,SUP-20,13800,17070,12
+PRD-0008,Chivita Active 1L x12,Beverages,SUP-20,13500,16360,12
+PRD-0009,Hollandia Yoghurt 1L x12,Beverages,SUP-04,14200,18390,12
+PRD-0010,5Alive Pulpy 1L x12,Beverages,SUP-24,13200,16050,12
+PRD-0011,Maltina Can 33cl x24,Beverages,SUP-16,13900,17170,24
+PRD-0012,Amstel Malta 33cl x24,Beverages,SUP-12,14400,18410,24
+PRD-0013,Lucozade Boost 50cl x12,Beverages,SUP-08,9800,11970,12
+PRD-0014,Ribena Blackcurrant 50cl x12,Beverages,SUP-08,11200,13790,12
+PRD-0015,Nescafe Classic 50x2g Sachet,Beverages,SUP-24,6900,8500,50
+PRD-0016,Milo Refill 500g x12,Beverages,SUP-08,34500,42680,12
+PRD-0017,Bournvita Refill 500g x12,Beverages,SUP-04,31800,39680,12
+PRD-0018,Peak Milk Powder 400g Tin x12,Beverages,SUP-12,48200,62570,12
+PRD-0019,Peak Evap 160g x48,Beverages,SUP-04,26400,31240,48
+PRD-0020,Three Crowns Evap 160g x48,Beverages,SUP-24,23800,29210,48
+PRD-0021,Cowbell Powder Sachet 60x14g,Beverages,SUP-16,14800,19390,60
+PRD-0022,Top Tea 100 Bags x12,Beverages,SUP-20,9600,11680,12
+PRD-0023,Lipton Yellow Label 100s x12,Beverages,SUP-24,13400,16940,12
+PRD-0024,Zobo Concentrate 1L x6,Beverages,SUP-24,7800,9800,6
+PRD-0025,La Casera Apple 50cl x12,Beverages,SUP-04,4300,5090,12
+PRD-0026,Bigi Cola 60cl x12,Beverages,SUP-04,3600,4150,12
+PRD-0027,Bigi Chapman 60cl x12,Beverages,SUP-04,3800,4920,12
+PRD-0028,Teem Bitter Lemon 50cl x12,Beverages,SUP-24,4000,4910,12
+PRD-0029,Schweppes Chapman 33cl x24,Beverages,SUP-20,8900,11070,24
+PRD-0030,Monster Energy 44cl x12,Beverages,SUP-16,21500,25250,12
+PRD-0031,Power Horse 25cl x24,Beverages,SUP-16,30200,36660,24
+PRD-0032,Viju Milk Drink 40cl x24,Beverages,SUP-04,16800,20370,24
+PRD-0033,Nutri Milk Choco 18cl x24,Beverages,SUP-08,9400,11040,24
+PRD-0034,Exotic Multifruit 1L x12,Beverages,SUP-08,12900,15350,12
+PRD-0035,Frutta Juice 1L x12,Beverages,SUP-20,11800,13660,12
+PRD-0036,Capri-Sun Orange 20cl x40,Beverages,SUP-04,15600,20500,40
+PRD-0037,Vitamilk Soy 30cl x24,Beverages,SUP-08,19800,25650,24
+PRD-0038,Hi-Malt 33cl x24,Beverages,SUP-04,11900,15680,24
+PRD-0039,Grand Malt 33cl x24,Beverages,SUP-16,12400,14770,24
+PRD-0040,Dubic Malt 33cl x24,Beverages,SUP-20,11200,14100,24
+PRD-0041,Smoov Chapman 40cl x12,Beverages,SUP-08,5200,6830,12
+PRD-0042,Nescafe 3in1 30 Sachets x12,Beverages,SUP-24,21900,26200,12
+PRD-0043,Ovaltine Sachet 65x18g,Beverages,SUP-20,15200,17760,65
+PRD-0044,Fearless Energy 50cl x12,Beverages,SUP-24,6800,8810,12
+PRD-0045,Predator Energy 40cl x12,Beverages,SUP-20,6200,7340,12
+PRD-0046,Golden Penny Spaghetti 500g x20,Food Staples,SUP-13,13800,17360,20
+PRD-0047,Golden Penny Semovita 1kg x10,Food Staples,SUP-09,16200,19060,10
+PRD-0048,Golden Penny Flour 2kg x5,Food Staples,SUP-13,14500,16870,5
+PRD-0049,Dangote Sugar 1kg x10,Food Staples,SUP-25,13900,18190,10
+PRD-0050,Dangote Salt 500g x24,Food Staples,SUP-17,4600,5420,24
+PRD-0051,Mama Gold Rice 5kg x4,Food Staples,SUP-25,34800,43070,4
+PRD-0052,Royal Stallion Rice 5kg x4,Food Staples,SUP-21,33900,43630,4
+PRD-0053,Big Bull Rice 5kg x4,Food Staples,SUP-05,32800,38950,4
+PRD-0054,Indomie Chicken 70g x40,Food Staples,SUP-05,13600,17260,40
+PRD-0055,Indomie Onion Chicken 70g x40,Food Staples,SUP-09,13800,16990,40
+PRD-0056,Indomie Hungry Man 200g x24,Food Staples,SUP-09,21400,25020,24
+PRD-0057,Honeywell Semolina 1kg x10,Food Staples,SUP-17,15800,18040,10
+PRD-0058,Honeywell Wheat Meal 1kg x10,Food Staples,SUP-25,14900,17980,10
+PRD-0059,Titus Sardines 125g x50,Food Staples,SUP-01,42500,50810,50
+PRD-0060,Geisha Mackerel 155g x50,Food Staples,SUP-01,47800,57540,50
+PRD-0061,Gino Tomato Paste 70g x50,Food Staples,SUP-17,12800,16320,50
+PRD-0062,Gino Pepper & Onion 70g x50,Food Staples,SUP-05,13600,17890,50
+PRD-0063,Sonia Tomato Paste 70g x50,Food Staples,SUP-25,11900,15070,50
+PRD-0064,Devon Kings Oil 3L x4,Food Staples,SUP-13,30800,36350,4
+PRD-0065,Power Oil 1L x12,Food Staples,SUP-09,26400,34000,12
+PRD-0066,Kings Veg Oil 5L x4,Food Staples,SUP-21,44200,51920,4
+PRD-0067,Knorr Chicken Cubes 50x8g x24,Food Staples,SUP-25,10400,12380,24
+PRD-0068,Maggi Star Cubes 100x4g x12,Food Staples,SUP-25,13200,16320,12
+PRD-0069,Maggi Crayfish 100x4g x12,Food Staples,SUP-01,13800,17210,12
+PRD-0070,Ijebu Garri 2kg x10,Food Staples,SUP-13,15400,19240,10
+PRD-0071,Yellow Garri 2kg x10,Food Staples,SUP-17,14800,17380,10
+PRD-0072,Honey Beans (Oloyin) 2kg x10,Food Staples,SUP-17,32600,42600,10
+PRD-0073,Brown Beans 2kg x10,Food Staples,SUP-21,29800,37930,10
+PRD-0074,Semovita 2kg x10,Food Staples,SUP-21,29400,38390,10
+PRD-0075,Ayoola Poundo Yam 1.8kg x6,Food Staples,SUP-01,26800,34020,6
+PRD-0076,Ola-Ola Poundo 0.9kg x12,Food Staples,SUP-13,23400,28050,12
+PRD-0077,Checkers Custard 2kg x6,Food Staples,SUP-05,25600,31120,6
+PRD-0078,Quaker Oats 500g x12,Food Staples,SUP-09,27800,33720,12
+PRD-0079,Golden Morn 900g x10,Food Staples,SUP-05,38500,46870,10
+PRD-0080,Nasco Cornflakes 350g x12,Food Staples,SUP-13,19600,23900,12
+PRD-0081,Kelloggs Cornflakes 500g x10,Food Staples,SUP-25,32400,42190,10
+PRD-0082,Uncle Palm Oil 1L x12,Food Staples,SUP-01,25800,30730,12
+PRD-0083,Tomato Mix Tin 400g x24,Food Staples,SUP-01,18400,23690,24
+PRD-0084,Bonita Baked Beans 400g x24,Food Staples,SUP-05,21600,27760,24
+PRD-0085,Peak Butter 250g x24,Food Staples,SUP-21,26200,32580,24
+PRD-0086,Blue Band Spread 450g x12,Food Staples,SUP-13,23800,28180,12
+PRD-0087,St Louis Sugar Cubes 500g x20,Food Staples,SUP-01,18800,24070,20
+PRD-0088,Golden Penny Noodles 70g x40,Food Staples,SUP-21,12400,15290,40
+PRD-0089,Mimee Noodles 70g x40,Food Staples,SUP-25,11200,13010,40
+PRD-0090,Dano Milk Refill 360g x12,Food Staples,SUP-17,28600,37690,12
+PRD-0091,Omo Multi-Active 900g x12,Home Care,SUP-14,21600,27010,12
+PRD-0092,Ariel Detergent 900g x12,Home Care,SUP-18,24800,30260,12
+PRD-0093,Sunlight Detergent 900g x12,Home Care,SUP-22,19400,23080,12
+PRD-0094,Klin Detergent 900g x12,Home Care,SUP-06,18800,22360,12
+PRD-0095,Waw Detergent 900g x12,Home Care,SUP-10,16900,20290,12
+PRD-0096,So Klin White 900g x12,Home Care,SUP-06,18200,23060,12
+PRD-0097,Morning Fresh 500ml x12,Home Care,SUP-18,17800,21780,12
+PRD-0098,Mama Lemon 750ml x12,Home Care,SUP-22,13400,15320,12
+PRD-0099,Hypo Bleach 500ml x24,Home Care,SUP-14,12600,14380,24
+PRD-0100,Jik Bleach 500ml x24,Home Care,SUP-14,16800,20780,24
+PRD-0101,Harpic Toilet Cleaner 500ml x12,Home Care,SUP-06,18400,22590,12
+PRD-0102,Izal Disinfectant 500ml x12,Home Care,SUP-14,14200,17050,12
+PRD-0103,Dettol Liquid 500ml x12,Home Care,SUP-06,29800,38480,12
+PRD-0104,Vim Scouring Powder 500g x24,Home Care,SUP-18,13800,17130,24
+PRD-0105,Mortein Spray 600ml x12,Home Care,SUP-02,34600,41060,12
+PRD-0106,Raid Insecticide 600ml x12,Home Care,SUP-10,32800,41890,12
+PRD-0107,Baygon Spray 600ml x12,Home Care,SUP-14,33400,39590,12
+PRD-0108,Rambo Insecticide 300ml x24,Home Care,SUP-22,26800,30750,24
+PRD-0109,Air Wick Freshener 300ml x12,Home Care,SUP-06,26400,30700,12
+PRD-0110,Glade Air Freshener 300ml x12,Home Care,SUP-06,24800,30350,12
+PRD-0111,Sponge & Scourer Pack x48,Home Care,SUP-18,9800,12240,48
+PRD-0112,Hypo Toilet Cleaner 500ml x12,Home Care,SUP-06,11800,15500,12
+PRD-0113,Zip Detergent Sachet 60x40g,Home Care,SUP-14,8600,10420,60
+PRD-0114,Sunlight Dishwash 400ml x12,Home Care,SUP-22,12200,15730,12
+PRD-0115,Canoe Bar Soap 190g x48,Home Care,SUP-10,16400,21210,48
+PRD-0116,Key Bar Soap 200g x36,Home Care,SUP-18,13800,17680,36
+PRD-0117,B29 Bar Soap 190g x48,Home Care,SUP-10,15200,17520,48
+PRD-0118,Duck Toilet Gel 500ml x12,Home Care,SUP-14,17600,23110,12
+PRD-0119,Domestos Bleach 500ml x12,Home Care,SUP-22,18800,21950,12
+PRD-0120,Scrubbing Brush Heavy x24,Home Care,SUP-22,12400,14740,24
+PRD-0121,Mop & Bucket Set x6,Home Care,SUP-14,21600,26430,6
+PRD-0122,Bin Liners 50pc Roll x24,Home Care,SUP-10,14800,19140,24
+PRD-0123,Ola Candles 6pk x24,Home Care,SUP-14,11600,14410,24
+PRD-0124,Matches Safety 10bx x48,Home Care,SUP-14,6800,8790,48
+PRD-0125,Insecticide Coil 10pk x30,Home Care,SUP-10,12800,15380,30
+PRD-0126,Fabric Softener 1L x12,Home Care,SUP-10,23600,29270,12
+PRD-0127,Starch Spray 300ml x12,Home Care,SUP-06,13200,16760,12
+PRD-0128,Toilet Paper 12-Roll x6,Home Care,SUP-22,16800,20590,6
+PRD-0129,Kitchen Towel 4-Roll x12,Home Care,SUP-02,15400,17810,12
+PRD-0130,Serviettes 100pc x24,Home Care,SUP-10,10800,13600,24
+PRD-0131,Close-Up Red Hot 140g x36,Personal Care,SUP-11,25600,31140,36
+PRD-0132,Oral-B Toothpaste 140g x36,Personal Care,SUP-23,31400,38360,36
+PRD-0133,Macleans 125g x36,Personal Care,SUP-23,23800,27960,36
+PRD-0134,Colgate Max Fresh 140g x36,Personal Care,SUP-23,29800,34970,36
+PRD-0135,Lux Soap 170g x48,Personal Care,SUP-23,26400,32900,48
+PRD-0136,Dove Beauty Bar 135g x48,Personal Care,SUP-03,42600,54950,48
+PRD-0137,Premier Cool Soap 175g x48,Personal Care,SUP-11,24200,27650,48
+PRD-0138,Joy Soap 175g x48,Personal Care,SUP-03,21800,27020,48
+PRD-0139,Dudu Osun Black Soap 150g x48,Personal Care,SUP-15,28800,33360,48
+PRD-0140,Tetmosol Soap 75g x48,Personal Care,SUP-03,23400,27740,48
+PRD-0141,Vaseline Blue Seal 250ml x24,Personal Care,SUP-19,30800,38600,24
+PRD-0142,Nivea Body Lotion 400ml x12,Personal Care,SUP-07,44800,52030,12
+PRD-0143,Jergens Lotion 400ml x12,Personal Care,SUP-19,41200,48640,12
+PRD-0144,Sure Deodorant 150ml x12,Personal Care,SUP-15,26800,31990,12
+PRD-0145,Rexona Roll-On 50ml x24,Personal Care,SUP-19,25400,31800,24
+PRD-0146,Nivea Roll-On 50ml x24,Personal Care,SUP-07,27800,34820,24
+PRD-0147,Always Ultra 8pads x24,Personal Care,SUP-07,27600,32330,24
+PRD-0148,Molped Pads 8pc x24,Personal Care,SUP-11,23800,27270,24
+PRD-0149,Pampers Baby Dry 44pc x4,Personal Care,SUP-15,39800,45880,4
+PRD-0150,Huggies Gold 44pc x4,Personal Care,SUP-23,38400,47850,4
+PRD-0151,Molfix Diapers 44pc x4,Personal Care,SUP-03,34600,42840,4
+PRD-0152,Gillette Blue II x48,Personal Care,SUP-07,21600,24900,48
+PRD-0153,Schick Razor Twin x48,Personal Care,SUP-23,18800,24220,48
+PRD-0154,Dax Hair Pomade 213g x24,Personal Care,SUP-15,33600,42470,24
+PRD-0155,Cantu Curling Cream 340g x12,Personal Care,SUP-03,52800,65880,12
+PRD-0156,ORS Relaxer Kit x12,Personal Care,SUP-07,44600,58570,12
+PRD-0157,Venus Hair Cream 260ml x12,Personal Care,SUP-03,18800,24810,12
+PRD-0158,Sporting Waves 200g x24,Personal Care,SUP-03,26400,33720,24
+PRD-0159,Delta Soap 160g x48,Personal Care,SUP-15,19800,25840,48
+PRD-0160,Safeguard Soap 175g x48,Personal Care,SUP-23,25600,32940,48
+PRD-0161,Irish Spring 105g x48,Personal Care,SUP-15,27200,32640,48
+PRD-0162,Cussons Baby Jelly 200ml x24,Personal Care,SUP-11,23800,28900,24
+PRD-0163,Cussons Baby Powder 200g x24,Personal Care,SUP-15,21600,27790,24
+PRD-0164,My My Powder 250g x24,Personal Care,SUP-11,16800,19920,24
+PRD-0165,Robb Ointment 23ml x48,Personal Care,SUP-19,19400,23380,48
+PRD-0166,Aboniki Balm 25g x48,Personal Care,SUP-03,21800,25650,48
+PRD-0167,Cotton Buds 200pc x36,Personal Care,SUP-15,10800,14020,36
+PRD-0168,Wet Wipes 80pc x12,Personal Care,SUP-23,15600,19490,12
+PRD-0169,Sanitary Wipes 10pc x48,Personal Care,SUP-19,13400,15310,48
+PRD-0170,Shaving Powder 90g x36,Personal Care,SUP-03,14200,17370,36

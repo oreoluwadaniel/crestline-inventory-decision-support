@@ -1,0 +1,2501 @@
+CustomerID,CustomerName,Region,City,Phone,CustomerSince
+CUS-00001,Rabiu Ventures,North-Central,Minna,08071308842,2021-04-30
+CUS-00002,Garba Hotel,South-West,Badagry,08019369750,2022-11-14
+CUS-00003,Uyo Hotel,South-South,Asaba,07047962005,2020-05-07
+CUS-00004,Epe Ventures,South-West,Alimosho,08069934576,2021-05-25
+CUS-00005,Hassan Hotel,South-West,Mushin,09053188224,2019-07-18
+CUS-00006,Abeokuta Cash & Carry,South-West,Yaba,09015858241,2022-08-20
+CUS-00007,Lokoja Cash & Carry,North-Central,Gwarinpa,09014968688,2023-09-17
+CUS-00008,Garki Ventures,North-Central,Garki,09012059919,2020-05-14
+CUS-00009,Surulere Stores,South-West,Ibadan North,08155440919,2020-12-03
+CUS-00010,Jabi Superstores,North-Central,Jos,09052501540,2020-11-26
+CUS-00011,Jos Supermarket,North-Central,Makurdi,07041510328,2020-11-17
+CUS-00012,Ogunleye Foods,North-Central,Garki,09023212812,2020-02-26
+CUS-00013,Minna Mart,North-Central,Lugbe,07016172803,2022-08-07
+CUS-00014,Chukwu Cash & Carry,South-South,Eleme,08081291936,2022-02-09
+CUS-00015,Gwarinpa Mart,North-Central,Garki,09093176117,2020-08-02
+CUS-00016,Surulere Provisions,South-West,Ibadan North,08171682508,2022-12-27
+CUS-00017,Minna Wholesale,North-Central,Jos,08019913576,2021-12-10
+CUS-00018,Asaba Superstores,South-South,Calabar,08171315464,2019-09-05
+CUS-00019,Alimosho Ventures,South-West,Lekki,08061185849,2021-03-18
+CUS-00020,Abdullahi Wholesale,South-West,Ikeja,09046840133,2024-05-16
+CUS-00021,Wuse Enterprises,North-Central,Minna,08140885967,2021-01-05
+CUS-00022,Lawal Enterprises,South-South,Asaba,08094322033,2023-11-16
+CUS-00023,Asaba Ventures,South-South,Port Harcourt,08127637794,2023-11-30
+CUS-00024,Uba Mart,South-South,Warri,08082398083,2019-07-04
+CUS-00025,Oladipo Mart,South-South,Asaba,09049613214,2020-03-26
+CUS-00026,Yenagoa Stores,South-South,Eleme,08063339667,2019-09-04
+CUS-00027,Idris Cash & Carry,South-South,Port Harcourt,08182017516,2023-09-22
+CUS-00028,Epe Wholesale,South-West,Abeokuta,09095704631,2019-02-23
+CUS-00029,Ibadan North Supermarket,South-West,Abeokuta,08191883846,2023-03-06
+CUS-00030,Minna Foods,North-Central,Lugbe,09025659979,2023-08-20
+CUS-00031,Nwankwo Stores,South-West,Lekki,08082148284,2023-08-29
+CUS-00032,Mohammed Foods,South-West,Ogbomoso,09088831486,2020-04-03
+CUS-00033,Garki Ventures,North-Central,Makurdi,09047546086,2024-03-26
+CUS-00034,Uche Provisions,North-Central,Jabi,07059302863,2021-05-13
+CUS-00035,Port Harcourt Cash & Carry,South-South,Asaba,08026395999,2019-02-05
+CUS-00036,Ibrahim Provisions,South-South,Sapele,07016788532,2020-01-03
+CUS-00037,Oshodi Enterprises,South-West,Yaba,07084384510,2023-04-04
+CUS-00038,Kubwa Trading Co,North-Central,Gwarinpa,07047215199,2019-08-09
+CUS-00039,Bonny Wholesale,South-South,Eleme,07098725654,2019-07-24
+CUS-00040,Idris Provisions,South-West,Abeokuta,08112118101,2023-06-11
+CUS-00041,Uba Hotel,South-West,Lekki,07073920651,2021-11-26
+CUS-00042,Akinola Ventures,South-South,Bonny,08092558242,2024-03-05
+CUS-00043,Jos Wholesale,North-Central,Minna,07018163847,2021-09-25
+CUS-00044,Akinola Ventures,South-South,Yenagoa,07020843514,2022-08-12
+CUS-00045,Oladipo Enterprises,North-Central,Makurdi,08161124122,2021-01-25
+CUS-00046,Garba Cash & Carry,North-Central,Garki,07097874085,2020-10-07
+CUS-00047,Warri Cash & Carry,South-South,Yenagoa,08065541117,2022-07-08
+CUS-00048,Suleiman Stores,South-South,Uyo,09051946203,2020-09-08
+CUS-00049,Epe Ventures,South-West,Lekki,07021457410,2023-11-24
+CUS-00050,Agege Mart,South-West,Ogbomoso,07088714010,2019-01-20
+CUS-00051,Adesanya Cash & Carry,North-Central,Jabi,09016904975,2022-10-21
+CUS-00052,Aliyu Hotel,North-Central,Kubwa,08098145654,2021-09-18
+CUS-00053,Musa Trading Co,South-West,Lekki,08187054398,2023-02-24
+CUS-00054,Sapele Enterprises,South-South,Bonny,07091737913,2019-03-18
+CUS-00055,Wuse Mart,North-Central,Lugbe,08155610493,2022-06-14
+CUS-00056,Abeokuta Superstores,South-West,Mushin,07029042093,2020-04-06
+CUS-00057,Mohammed Hotel,North-Central,Kubwa,09066348963,2021-11-15
+CUS-00058,Suleiman Trading Co,South-West,Oshodi,07017061037,2023-07-19
+CUS-00059,Epe Stores,South-West,Ikorodu,09098843907,2022-01-15
+CUS-00060,Oladipo Provisions,South-West,Oshodi,07056328316,2022-01-03
+CUS-00061,Abeokuta Ventures,South-West,Ogbomoso,08116095815,2023-03-08
+CUS-00062,Ikeja Provisions,South-West,Ikorodu,08028419343,2020-02-18
+CUS-00063,Adeyemi Ventures,South-West,Badagry,09033581357,2023-09-11
+CUS-00064,Ogbomoso Hotel,South-West,Alimosho,08119673809,2022-03-11
+CUS-00065,Adebayo Ventures,South-South,Obio-Akpor,08187277086,2022-01-04
+CUS-00066,Lokoja Wholesale,North-Central,Garki,09012799319,2022-08-06
+CUS-00067,Ibadan North Foods,South-West,Agege,07068614462,2019-09-07
+CUS-00068,Obi Hotel,South-West,Lekki,09051644346,2020-03-27
+CUS-00069,Fashola Stores,South-West,Ogbomoso,07081216573,2021-07-23
+CUS-00070,Agege Foods,South-West,Alimosho,08041711468,2023-11-04
+CUS-00071,Garba Mart,South-West,Oshodi,07033776150,2019-01-31
+CUS-00072,Hassan Enterprises,South-South,Sapele,09085764804,2020-10-24
+CUS-00073,Jabi Mart,North-Central,Minna,07072937522,2021-12-09
+CUS-00074,Makurdi Supermarket,North-Central,Jabi,07051662236,2021-10-30
+CUS-00075,Rabiu Wholesale,South-West,Lekki,07092545028,2021-02-01
+CUS-00076,Musa Foods,North-Central,Wuse,09086726461,2020-10-06
+CUS-00077,Ogbomoso Mart,South-West,Ikeja,09023891786,2019-11-15
+CUS-00078,Haruna Stores,South-South,Bonny,08015253567,2023-01-11
+CUS-00079,Jos Hotel,North-Central,Makurdi,08058841557,2022-04-30
+CUS-00080,Yusuf Trading Co,South-South,Sapele,07094676162,2020-10-15
+CUS-00081,Musa Superstores,South-West,Mushin,08143822301,2020-05-11
+CUS-00082,Sapele Mart,South-South,Uyo,07088213973,2020-09-11
+CUS-00083,Yakubu Foods,South-West,Epe,09027307598,2021-01-30
+CUS-00084,Musa Cash & Carry,North-Central,Jabi,08099941500,2020-06-23
+CUS-00085,Bonny Stores,South-South,Calabar,08112446861,2022-05-21
+CUS-00086,Agege Ventures,South-West,Yaba,08028463709,2023-07-20
+CUS-00087,Lekki Hotel,South-West,Oshodi,07098842638,2022-07-13
+CUS-00088,Sapele Cash & Carry,South-South,Eleme,08034272734,2019-10-04
+CUS-00089,Gwarinpa Foods,North-Central,Minna,07065144509,2022-05-17
+CUS-00090,Uche Enterprises,North-Central,Lugbe,09041407343,2021-06-04
+CUS-00091,Oshodi Ventures,South-West,Alimosho,08059370777,2020-08-12
+CUS-00092,Yenagoa Wholesale,South-South,Calabar,09031751079,2019-11-03
+CUS-00093,Alimosho Wholesale,South-West,Ikeja,09059823245,2021-04-23
+CUS-00094,Bonny Stores,South-South,Asaba,07031516757,2022-11-21
+CUS-00095,Rabiu Cash & Carry,South-West,Lekki,08070549373,2019-06-17
+CUS-00096,Adeleke Cash & Carry,South-West,Ogbomoso,08141645597,2022-04-03
+CUS-00097,Adebayo Trading Co,South-South,Obio-Akpor,08129602406,2023-08-25
+CUS-00098,Ibadan North Foods,South-West,Alimosho,08072962895,2021-11-26
+CUS-00099,Wuse Wholesale,North-Central,Kubwa,08083659258,2019-02-23
+CUS-00100,Adesanya Wholesale,North-Central,Kubwa,08126354208,2024-02-25
+CUS-00101,Abeokuta Ventures,South-West,Lekki,07077085942,2021-01-26
+CUS-00102,Makurdi Provisions,North-Central,Gwarinpa,08167611469,2024-05-29
+CUS-00103,Uba Mart,North-Central,Garki,08119083764,2019-01-27
+CUS-00104,Orji Hotel,North-Central,Wuse,09073100462,2024-03-04
+CUS-00105,Lugbe Foods,North-Central,Wuse,08119067690,2022-06-26
+CUS-00106,Lekki Enterprises,South-West,Badagry,08127905932,2024-03-03
+CUS-00107,Yakubu Mart,South-West,Alimosho,09074227366,2020-11-16
+CUS-00108,Haruna Ventures,South-West,Ikeja,08137057085,2024-03-04
+CUS-00109,Uyo Wholesale,South-South,Bonny,09082884346,2021-10-06
+CUS-00110,Yaba Wholesale,South-West,Agege,07098010774,2022-07-23
+CUS-00111,Mushin Cash & Carry,South-West,Badagry,09061894582,2022-07-08
+CUS-00112,Nwankwo Trading Co,South-South,Bonny,08121087928,2020-05-04
+CUS-00113,Magaji Mart,South-West,Ogbomoso,08153112268,2023-11-04
+CUS-00114,Ikorodu Ventures,South-West,Abeokuta,09032366682,2020-07-20
+CUS-00115,Suleiman Trading Co,South-West,Abeokuta,09046850196,2020-10-31
+CUS-00116,Obio-Akpor Superstores,South-South,Calabar,08178865239,2019-12-05
+CUS-00117,Adebayo Mart,North-Central,Makurdi,09014670638,2023-09-17
+CUS-00118,Agege Trading Co,South-West,Mushin,07091214453,2023-07-23
+CUS-00119,Jabi Ventures,North-Central,Garki,08081062902,2022-05-12
+CUS-00120,Yaba Stores,South-West,Ikeja,08076980546,2021-07-07
+CUS-00121,Ikorodu Wholesale,South-West,Badagry,09038799154,2020-12-26
+CUS-00122,Ibadan North Provisions,South-West,Lekki,08019939096,2021-11-19
+CUS-00123,Lekki Superstores,South-West,Alimosho,08199635939,2022-06-21
+CUS-00124,Olawale Wholesale,North-Central,Gwarinpa,08058518659,2021-07-26
+CUS-00125,Oshodi Mart,South-West,Yaba,09013527782,2022-05-24
+CUS-00126,Danjuma Hotel,North-Central,Gwarinpa,07018824561,2022-09-07
+CUS-00127,Ibadan North Hotel,South-West,Mushin,09087161840,2024-01-02
+CUS-00128,Adewale Ventures,South-West,Ibadan North,08127224779,2019-06-30
+CUS-00129,Sapele Mart,South-South,Eleme,09077493234,2019-04-24
+CUS-00130,Bonny Mart,South-South,Asaba,08031738837,2022-08-11
+CUS-00131,Nnaji Wholesale,South-South,Obio-Akpor,08136347197,2020-11-09
+CUS-00132,Sani Wholesale,South-South,Sapele,07077454225,2020-10-28
+CUS-00133,Surulere Mart,South-West,Epe,08185647532,2024-03-09
+CUS-00134,Okonkwo Superstores,South-South,Sapele,08197393186,2023-03-28
+CUS-00135,Sani Supermarket,South-South,Yenagoa,08196155337,2019-01-20
+CUS-00136,Danjuma Superstores,South-West,Mushin,08170873663,2024-01-04
+CUS-00137,Uba Ventures,North-Central,Minna,08055659873,2021-01-06
+CUS-00138,Agege Foods,South-West,Alimosho,08163514837,2023-09-08
+CUS-00139,Akinola Trading Co,South-South,Warri,09026444612,2022-12-02
+CUS-00140,Adeleke Wholesale,South-West,Mushin,09043322272,2019-07-26
+CUS-00141,Sapele Foods,South-South,Uyo,08031386576,2021-08-16
+CUS-00142,Salami Ventures,South-South,Port Harcourt,07062780072,2021-08-01
+CUS-00143,Bello Trading Co,South-West,Ikeja,07047763008,2021-08-23
+CUS-00144,Minna Wholesale,North-Central,Jos,07024428014,2022-01-01
+CUS-00145,Chukwu Cash & Carry,South-West,Agege,07063765155,2024-02-18
+CUS-00146,Musa Wholesale,North-Central,Garki,09077680031,2021-11-22
+CUS-00147,Usman Superstores,South-South,Sapele,07027268907,2023-11-16
+CUS-00148,Agege Hotel,South-West,Agege,08036717096,2021-01-15
+CUS-00149,Okonkwo Supermarket,North-Central,Gwarinpa,08173584863,2021-07-04
+CUS-00150,Ogbomoso Mart,South-West,Agege,08131810655,2022-03-20
+CUS-00151,Asaba Enterprises,South-South,Uyo,09085554415,2022-09-27
+CUS-00152,Eze Superstores,South-West,Lekki,09088343175,2022-09-10
+CUS-00153,Port Harcourt Enterprises,South-South,Yenagoa,08197991930,2020-01-11
+CUS-00154,Warri Foods,South-South,Port Harcourt,09032885741,2021-06-24
+CUS-00155,Lokoja Mart,North-Central,Kubwa,07086849080,2019-02-07
+CUS-00156,Uche Trading Co,North-Central,Lokoja,08065426567,2020-07-18
+CUS-00157,Usman Ventures,South-West,Alimosho,07028533117,2021-07-05
+CUS-00158,Ibrahim Ventures,South-West,Ogbomoso,09052111160,2019-01-20
+CUS-00159,Agege Hotel,South-West,Agege,08191883092,2021-09-14
+CUS-00160,Musa Wholesale,South-West,Yaba,08148789478,2020-06-19
+CUS-00161,Agege Ventures,South-West,Agege,08148626436,2023-09-26
+CUS-00162,Obi Trading Co,North-Central,Gwarinpa,08115646068,2022-10-21
+CUS-00163,Uche Superstores,South-South,Asaba,09038720823,2023-04-15
+CUS-00164,Musa Foods,South-South,Asaba,08024660143,2020-12-19
+CUS-00165,Adeleke Superstores,North-Central,Jos,08095623471,2023-02-11
+CUS-00166,Haruna Ventures,South-West,Lekki,08010695441,2021-05-01
+CUS-00167,Yakubu Ventures,South-South,Yenagoa,08048553376,2022-08-14
+CUS-00168,Yusuf Stores,South-West,Epe,08081826922,2020-04-11
+CUS-00169,Gwarinpa Cash & Carry,North-Central,Gwarinpa,07063283709,2020-01-01
+CUS-00170,Alimosho Wholesale,South-West,Ikeja,07050049524,2021-03-26
+CUS-00171,Jabi Wholesale,North-Central,Minna,09028012011,2019-08-25
+CUS-00172,Danjuma Stores,North-Central,Jabi,08071594457,2020-10-13
+CUS-00173,Mohammed Trading Co,South-West,Oshodi,08186206305,2020-08-20
+CUS-00174,Sani Cash & Carry,North-Central,Lokoja,08121641746,2022-03-04
+CUS-00175,Balogun Ventures,North-Central,Jabi,08010916723,2022-12-15
+CUS-00176,Oladipo Trading Co,South-West,Ikorodu,07045105069,2020-10-02
+CUS-00177,Ibrahim Stores,South-West,Ibadan North,08131436829,2022-02-22
+CUS-00178,Lugbe Foods,North-Central,Garki,08159330907,2020-12-21
+CUS-00179,Ibadan North Mart,South-West,Ibadan North,08165813853,2020-06-25
+CUS-00180,Ugwu Superstores,North-Central,Kubwa,08089968863,2019-07-10
+CUS-00181,Nnaji Foods,South-South,Uyo,07085721444,2023-10-16
+CUS-00182,Orji Provisions,South-West,Abeokuta,08032083803,2022-07-31
+CUS-00183,Abubakar Provisions,South-South,Sapele,09022205980,2019-05-19
+CUS-00184,Minna Mart,North-Central,Jos,09071310453,2021-04-04
+CUS-00185,Danjuma Wholesale,South-West,Badagry,07063143336,2022-12-28
+CUS-00186,Sapele Stores,South-South,Port Harcourt,09056241881,2020-06-28
+CUS-00187,Lekki Ventures,South-West,Ikeja,08164877191,2023-05-30
+CUS-00188,Calabar Trading Co,South-South,Calabar,09060666702,2022-04-24
+CUS-00189,Alimosho Hotel,South-West,Surulere,08125922674,2023-06-02
+CUS-00190,Balogun Foods,South-South,Warri,07013051483,2022-09-29
+CUS-00191,Mushin Hotel,South-West,Mushin,08043220503,2021-11-01
+CUS-00192,Suleiman Stores,South-West,Ikeja,09092533595,2020-02-15
+CUS-00193,Warri Provisions,South-South,Obio-Akpor,07089717834,2024-03-25
+CUS-00194,Alimosho Supermarket,South-West,Yaba,07063991141,2021-12-16
+CUS-00195,Yusuf Supermarket,South-West,Surulere,08141428626,2019-11-05
+CUS-00196,Sapele Enterprises,South-South,Uyo,08050502136,2019-07-04
+CUS-00197,Yaba Cash & Carry,South-West,Ikorodu,08118181595,2021-04-18
+CUS-00198,Eleme Superstores,South-South,Calabar,09016292676,2022-06-27
+CUS-00199,Bonny Trading Co,South-South,Calabar,09030027648,2022-09-26
+CUS-00200,Ibadan North Provisions,South-West,Alimosho,08050364158,2019-08-11
+CUS-00201,Wuse Hotel,North-Central,Lokoja,09084797762,2021-06-12
+CUS-00202,Makinde Trading Co,South-West,Epe,07070369365,2019-09-02
+CUS-00203,Rabiu Provisions,South-West,Ikeja,08160622628,2020-08-22
+CUS-00204,Adewale Provisions,North-Central,Makurdi,08074343201,2023-04-01
+CUS-00205,Adeyemi Provisions,South-South,Warri,07074279671,2019-04-17
+CUS-00206,Yaba Cash & Carry,South-West,Yaba,08147991562,2022-04-14
+CUS-00207,Ikorodu Wholesale,South-West,Agege,09072546007,2023-11-13
+CUS-00208,Uyo Provisions,South-South,Uyo,08165556767,2024-02-29
+CUS-00209,Dada Supermarket,North-Central,Lugbe,09049620038,2023-07-25
+CUS-00210,Aliyu Provisions,South-West,Ibadan North,08144537812,2020-02-20
+CUS-00211,Yenagoa Ventures,South-South,Eleme,08132718459,2023-08-20
+CUS-00212,Ugwu Superstores,North-Central,Wuse,07019976458,2019-02-13
+CUS-00213,Adeyemi Cash & Carry,South-South,Eleme,08019122502,2020-06-14
+CUS-00214,Igwe Trading Co,South-West,Ikeja,09098487646,2021-09-06
+CUS-00215,Uba Supermarket,South-West,Ikeja,08181905550,2022-10-23
+CUS-00216,Epe Cash & Carry,South-West,Oshodi,08024363501,2019-04-09
+CUS-00217,Lawal Enterprises,South-West,Ogbomoso,08157572279,2022-12-02
+CUS-00218,Obi Ventures,South-South,Sapele,08040314047,2022-09-26
+CUS-00219,Wuse Stores,North-Central,Lokoja,09060622842,2021-04-27
+CUS-00220,Badagry Mart,South-West,Lekki,09068238367,2020-10-20
+CUS-00221,Obio-Akpor Hotel,South-South,Port Harcourt,08038375916,2019-05-14
+CUS-00222,Yenagoa Wholesale,South-South,Port Harcourt,07047631028,2019-05-18
+CUS-00223,Gwarinpa Trading Co,North-Central,Wuse,08088790652,2023-08-11
+CUS-00224,Lokoja Stores,North-Central,Lugbe,08085693188,2023-01-26
+CUS-00225,Jos Trading Co,North-Central,Lokoja,08020526386,2021-08-11
+CUS-00226,Akinola Cash & Carry,North-Central,Kubwa,07055713584,2021-01-09
+CUS-00227,Calabar Trading Co,South-South,Port Harcourt,08170471823,2021-09-01
+CUS-00228,Mushin Cash & Carry,South-West,Surulere,09021501669,2020-02-02
+CUS-00229,Garki Stores,North-Central,Lugbe,08061002735,2020-06-05
+CUS-00230,Nwachukwu Trading Co,South-South,Uyo,07022283664,2024-05-22
+CUS-00231,Hassan Wholesale,South-South,Obio-Akpor,08021716836,2023-05-15
+CUS-00232,Ogbomoso Cash & Carry,South-West,Lekki,07022028437,2022-06-08
+CUS-00233,Jabi Cash & Carry,North-Central,Wuse,08165540647,2022-03-30
+CUS-00234,Bonny Provisions,South-South,Sapele,08061100987,2023-06-20
+CUS-00235,Nwankwo Mart,South-West,Lekki,08068341261,2022-11-14
+CUS-00236,Adewale Trading Co,South-West,Ikorodu,08093890601,2021-08-21
+CUS-00237,Akinola Mart,North-Central,Lugbe,07063108878,2022-07-22
+CUS-00238,Eze Ventures,South-South,Uyo,09097380687,2021-01-31
+CUS-00239,Abdullahi Provisions,South-West,Ibadan North,08133842070,2022-03-09
+CUS-00240,Abdullahi Superstores,South-South,Yenagoa,08053739710,2022-04-23
+CUS-00241,Agege Stores,South-West,Abeokuta,08089487366,2021-05-11
+CUS-00242,Ikeja Foods,South-West,Ibadan North,08068848427,2019-12-12
+CUS-00243,Alimosho Cash & Carry,South-West,Epe,09028680305,2020-11-12
+CUS-00244,Dada Foods,South-West,Mushin,09019927432,2021-11-25
+CUS-00245,Obi Hotel,South-South,Bonny,09082966824,2024-03-18
+CUS-00246,Danjuma Hotel,South-South,Sapele,07024679315,2020-02-09
+CUS-00247,Surulere Superstores,South-West,Abeokuta,07085594147,2020-10-19
+CUS-00248,Hassan Trading Co,North-Central,Lokoja,07011415698,2023-11-13
+CUS-00249,Nnaji Hotel,South-West,Abeokuta,08069831384,2022-04-27
+CUS-00250,Abeokuta Foods,South-West,Ogbomoso,08056300738,2024-04-12
+CUS-00251,Afolabi Stores,South-West,Alimosho,08056751880,2022-09-02
+CUS-00252,Ogbomoso Ventures,South-West,Agege,09023102741,2021-12-17
+CUS-00253,Adewale Wholesale,North-Central,Wuse,07013031322,2019-08-28
+CUS-00254,Danjuma Mart,South-West,Badagry,08079255529,2023-06-10
+CUS-00255,Onyekachi Ventures,North-Central,Kubwa,09094524999,2023-05-21
+CUS-00256,Mushin Supermarket,South-West,Badagry,08070340936,2021-02-05
+CUS-00257,Makinde Provisions,South-West,Ikorodu,07087490324,2023-11-06
+CUS-00258,Chukwu Trading Co,South-South,Warri,09025294777,2022-12-12
+CUS-00259,Sani Trading Co,North-Central,Makurdi,09092048427,2022-03-21
+CUS-00260,Igwe Enterprises,North-Central,Gwarinpa,08192474715,2021-02-09
+CUS-00261,Adesanya Provisions,South-West,Ikorodu,07034567819,2022-04-29
+CUS-00262,Uba Enterprises,North-Central,Gwarinpa,09066779304,2023-05-18
+CUS-00263,Yakubu Mart,South-West,Ogbomoso,08075718640,2022-10-19
+CUS-00264,Uche Enterprises,South-West,Ikeja,08111286267,2021-09-13
+CUS-00265,Ogbomoso Hotel,South-West,Epe,09064913082,2020-07-30
+CUS-00266,Ibadan North Ventures,South-West,Surulere,07085886408,2024-03-30
+CUS-00267,Okonkwo Wholesale,South-South,Warri,08132576626,2020-01-16
+CUS-00268,Oshodi Ventures,South-West,Ogbomoso,07086868379,2023-10-12
+CUS-00269,Chukwu Hotel,South-West,Alimosho,07069239219,2021-05-10
+CUS-00270,Mohammed Superstores,South-West,Oshodi,08049957816,2019-07-07
+CUS-00271,Nwosu Stores,South-South,Yenagoa,07041802361,2023-03-30
+CUS-00272,Uyo Foods,South-South,Sapele,09032277675,2020-12-18
+CUS-00273,Makinde Supermarket,South-West,Abeokuta,08181441519,2022-11-04
+CUS-00274,Haruna Wholesale,North-Central,Lugbe,08179043610,2019-05-16
+CUS-00275,Hassan Cash & Carry,North-Central,Wuse,08198032908,2023-09-16
+CUS-00276,Dada Foods,North-Central,Jabi,08062707402,2021-09-03
+CUS-00277,Epe Cash & Carry,South-West,Mushin,09020135622,2020-11-12
+CUS-00278,Calabar Hotel,South-South,Asaba,08171028216,2019-02-02
+CUS-00279,Alimosho Foods,South-West,Lekki,09095206855,2020-09-10
+CUS-00280,Jos Cash & Carry,North-Central,Kubwa,09038434222,2021-08-23
+CUS-00281,Agege Hotel,South-West,Abeokuta,08085986307,2019-08-22
+CUS-00282,Abubakar Supermarket,South-West,Ikeja,07094044392,2020-01-09
+CUS-00283,Fashola Ventures,South-South,Yenagoa,07067418250,2023-04-14
+CUS-00284,Asaba Mart,South-South,Asaba,07097857309,2022-05-25
+CUS-00285,Yakubu Mart,South-West,Ikeja,09093967184,2022-09-15
+CUS-00286,Lokoja Superstores,North-Central,Garki,07010145801,2023-03-22
+CUS-00287,Ogunleye Hotel,South-West,Epe,09011246473,2024-05-16
+CUS-00288,Lokoja Foods,North-Central,Gwarinpa,09019506414,2023-02-19
+CUS-00289,Lekki Stores,South-West,Agege,08150165370,2023-08-26
+CUS-00290,Alimosho Mart,South-West,Epe,08019182050,2021-06-11
+CUS-00291,Gwarinpa Ventures,North-Central,Jabi,08094299475,2020-03-22
+CUS-00292,Abubakar Ventures,South-West,Alimosho,08021635070,2019-05-23
+CUS-00293,Abeokuta Foods,South-West,Mushin,08167631581,2022-08-27
+CUS-00294,Yakubu Stores,South-South,Warri,08113600310,2019-08-31
+CUS-00295,Warri Hotel,South-South,Sapele,08062579931,2022-10-05
+CUS-00296,Kubwa Ventures,North-Central,Lokoja,07042357445,2021-08-13
+CUS-00297,Adeyemi Trading Co,North-Central,Jabi,08061920550,2019-08-05
+CUS-00298,Ugwu Superstores,South-South,Eleme,09019796799,2024-04-28
+CUS-00299,Makinde Supermarket,North-Central,Wuse,09077996124,2022-10-24
+CUS-00300,Uba Cash & Carry,North-Central,Lokoja,07095971459,2021-05-30
+CUS-00301,Afolabi Wholesale,North-Central,Garki,08030854365,2021-05-30
+CUS-00302,Oshodi Superstores,South-West,Epe,07051630244,2020-07-02
+CUS-00303,Yaba Supermarket,South-West,Yaba,07068315400,2023-10-08
+CUS-00304,Ikorodu Superstores,South-West,Badagry,08026031369,2024-05-07
+CUS-00305,Gwarinpa Ventures,North-Central,Jabi,08132409388,2022-05-02
+CUS-00306,Ikorodu Foods,South-West,Lekki,07054964418,2019-11-23
+CUS-00307,Okorie Foods,South-West,Abeokuta,07076591799,2021-11-12
+CUS-00308,Aliyu Mart,North-Central,Jabi,08044241100,2020-01-31
+CUS-00309,Badagry Stores,South-West,Yaba,07015910667,2019-08-09
+CUS-00310,Anyanwu Trading Co,South-South,Calabar,08034019729,2019-03-13
+CUS-00311,Danjuma Foods,South-South,Calabar,08053191535,2023-01-10
+CUS-00312,Ikorodu Stores,South-West,Abeokuta,08126025721,2021-08-08
+CUS-00313,Ogunleye Hotel,North-Central,Wuse,09019251149,2019-07-02
+CUS-00314,Salami Trading Co,South-West,Lekki,09011069604,2022-05-08
+CUS-00315,Ikorodu Foods,South-West,Abeokuta,08072267186,2022-05-09
+CUS-00316,Yusuf Provisions,North-Central,Jos,08030208677,2024-05-19
+CUS-00317,Ugwu Trading Co,South-South,Port Harcourt,08110196231,2020-02-29
+CUS-00318,Lugbe Stores,North-Central,Kubwa,08066346728,2021-08-29
+CUS-00319,Eleme Foods,South-South,Asaba,07015892193,2019-04-03
+CUS-00320,Mushin Foods,South-West,Agege,09021395409,2021-02-28
+CUS-00321,Magaji Cash & Carry,South-West,Lekki,07068382413,2020-09-14
+CUS-00322,Okorie Trading Co,South-South,Calabar,08152688984,2021-11-17
+CUS-00323,Lawal Mart,South-West,Oshodi,07030858851,2023-10-29
+CUS-00324,Uba Stores,South-West,Ogbomoso,08137868462,2021-11-19
+CUS-00325,Adesanya Stores,South-West,Surulere,08190973889,2024-03-11
+CUS-00326,Surulere Stores,South-West,Badagry,08057746984,2022-03-13
+CUS-00327,Lugbe Mart,North-Central,Wuse,09070693413,2021-04-20
+CUS-00328,Igwe Stores,North-Central,Gwarinpa,07011604831,2024-01-27
+CUS-00329,Eleme Provisions,South-South,Calabar,08194597104,2019-02-28
+CUS-00330,Lugbe Stores,North-Central,Wuse,07036541600,2019-05-11
+CUS-00331,Garki Trading Co,North-Central,Garki,07071873691,2024-02-19
+CUS-00332,Alimosho Foods,South-West,Mushin,09013957046,2022-04-10
+CUS-00333,Makinde Mart,North-Central,Lugbe,08169862640,2019-06-19
+CUS-00334,Abeokuta Provisions,South-West,Epe,08176960098,2022-02-09
+CUS-00335,Afolabi Wholesale,South-South,Calabar,08066268745,2023-04-20
+CUS-00336,Kubwa Superstores,North-Central,Jos,07061338023,2020-01-13
+CUS-00337,Idris Ventures,North-Central,Jabi,08162127652,2022-11-26
+CUS-00338,Ogunleye Supermarket,South-West,Oshodi,08117863981,2019-11-19
+CUS-00339,Yusuf Enterprises,South-South,Warri,08023439803,2023-01-11
+CUS-00340,Magaji Foods,North-Central,Wuse,08087268086,2019-09-03
+CUS-00341,Rabiu Mart,South-South,Eleme,08089526622,2022-08-20
+CUS-00342,Sapele Supermarket,South-South,Uyo,08085579195,2019-02-06
+CUS-00343,Ibadan North Hotel,South-West,Ikorodu,08075825262,2024-03-16
+CUS-00344,Ogunleye Supermarket,South-West,Ogbomoso,09010091737,2022-07-23
+CUS-00345,Balogun Trading Co,South-South,Eleme,08117993466,2024-04-18
+CUS-00346,Surulere Stores,South-West,Alimosho,08119735027,2022-04-28
+CUS-00347,Makurdi Stores,North-Central,Jabi,08153299069,2023-08-27
+CUS-00348,Calabar Superstores,South-South,Yenagoa,08133381086,2020-06-14
+CUS-00349,Sapele Trading Co,South-South,Warri,08060785855,2022-09-12
+CUS-00350,Gbadamosi Foods,North-Central,Wuse,09086166246,2024-03-27
+CUS-00351,Danjuma Enterprises,South-West,Yaba,07076596831,2023-08-18
+CUS-00352,Nwosu Trading Co,South-West,Surulere,07099929175,2020-11-01
+CUS-00353,Adeyemi Wholesale,North-Central,Kubwa,08019099261,2022-06-15
+CUS-00354,Adeyemi Supermarket,South-West,Mushin,09066324902,2023-06-27
+CUS-00355,Nwachukwu Trading Co,South-South,Bonny,09023613510,2019-10-09
+CUS-00356,Epe Superstores,South-West,Yaba,08070570772,2024-01-03
+CUS-00357,Adebayo Trading Co,South-South,Asaba,07019959009,2022-07-02
+CUS-00358,Suleiman Stores,South-West,Ogbomoso,07055358959,2021-02-01
+CUS-00359,Port Harcourt Cash & Carry,South-South,Eleme,09031086112,2024-02-13
+CUS-00360,Lawal Cash & Carry,South-West,Badagry,08198663948,2022-11-03
+CUS-00361,Obi Enterprises,South-West,Ogbomoso,09030614492,2024-02-11
+CUS-00362,Olawale Superstores,South-West,Epe,09036799898,2023-11-16
+CUS-00363,Olawale Stores,South-West,Ibadan North,07051386492,2020-01-07
+CUS-00364,Ibrahim Wholesale,South-West,Lekki,09034814337,2022-05-04
+CUS-00365,Uche Supermarket,South-South,Asaba,09072419022,2022-12-10
+CUS-00366,Adeleke Mart,South-West,Oshodi,07021503440,2020-09-02
+CUS-00367,Hassan Enterprises,South-West,Yaba,07061956500,2019-10-30
+CUS-00368,Minna Enterprises,North-Central,Kubwa,09050111251,2023-12-23
+CUS-00369,Ikeja Hotel,South-West,Abeokuta,08026143959,2019-02-04
+CUS-00370,Fashola Provisions,North-Central,Kubwa,08015727862,2022-01-16
+CUS-00371,Yaba Superstores,South-West,Surulere,08152916049,2019-04-24
+CUS-00372,Garki Cash & Carry,North-Central,Jos,09084095459,2022-08-04
+CUS-00373,Adeyemi Foods,South-South,Sapele,09025102023,2022-02-04
+CUS-00374,Abeokuta Stores,South-West,Lekki,07048398732,2019-07-22
+CUS-00375,Uba Wholesale,North-Central,Lokoja,09086775659,2021-01-01
+CUS-00376,Obi Mart,South-West,Abeokuta,09015205303,2022-03-14
+CUS-00377,Okafor Supermarket,South-South,Yenagoa,08159988144,2024-04-21
+CUS-00378,Ikorodu Wholesale,South-West,Alimosho,09023182514,2019-07-19
+CUS-00379,Mohammed Ventures,South-West,Oshodi,08146160937,2020-05-01
+CUS-00380,Yaba Ventures,South-West,Yaba,09075023164,2020-02-28
+CUS-00381,Adeleke Hotel,North-Central,Gwarinpa,07051758234,2020-06-09
+CUS-00382,Nnaji Enterprises,North-Central,Wuse,08035872271,2019-07-06
+CUS-00383,Warri Supermarket,South-South,Yenagoa,07058368724,2020-06-19
+CUS-00384,Igwe Hotel,South-West,Mushin,07014102122,2023-01-23
+CUS-00385,Surulere Ventures,South-West,Abeokuta,08156204319,2023-07-03
+CUS-00386,Rabiu Foods,South-South,Obio-Akpor,08113684342,2022-04-02
+CUS-00387,Oshodi Provisions,South-West,Alimosho,08096889858,2023-02-26
+CUS-00388,Uba Hotel,North-Central,Wuse,07073632249,2019-04-23
+CUS-00389,Danjuma Supermarket,South-West,Yaba,08191650533,2019-11-27
+CUS-00390,Asaba Cash & Carry,South-South,Calabar,08171605671,2023-01-02
+CUS-00391,Nnaji Enterprises,South-West,Mushin,07010986174,2021-07-20
+CUS-00392,Uyo Hotel,South-South,Sapele,08150060760,2020-07-31
+CUS-00393,Oladipo Superstores,South-West,Agege,08145050544,2020-09-27
+CUS-00394,Lugbe Provisions,North-Central,Gwarinpa,08017620167,2019-11-26
+CUS-00395,Calabar Superstores,South-South,Uyo,08013416548,2020-09-28
+CUS-00396,Uba Cash & Carry,South-West,Mushin,07088252116,2020-06-12
+CUS-00397,Uyo Foods,South-South,Warri,09058116670,2021-07-29
+CUS-00398,Ibrahim Hotel,South-West,Surulere,08123100061,2021-10-11
+CUS-00399,Danjuma Hotel,South-West,Oshodi,08055047826,2020-09-30
+CUS-00400,Mohammed Wholesale,South-West,Mushin,08159886371,2022-12-16
+CUS-00401,Adesanya Ventures,North-Central,Wuse,07073380252,2019-06-07
+CUS-00402,Abubakar Cash & Carry,South-West,Ogbomoso,08165446317,2024-02-12
+CUS-00403,Lawal Trading Co,South-South,Calabar,09029223220,2022-08-24
+CUS-00404,Afolabi Ventures,South-South,Uyo,08052065724,2020-11-10
+CUS-00405,Makinde Mart,South-West,Abeokuta,08075709924,2020-01-06
+CUS-00406,Usman Cash & Carry,South-South,Calabar,09067582820,2021-09-28
+CUS-00407,Lawal Foods,South-West,Agege,07053246714,2020-03-04
+CUS-00408,Abubakar Supermarket,South-South,Warri,08056217844,2022-09-01
+CUS-00409,Bello Wholesale,South-West,Surulere,07016136213,2022-09-30
+CUS-00410,Nnaji Enterprises,South-South,Bonny,08168205561,2019-06-10
+CUS-00411,Nwankwo Trading Co,North-Central,Kubwa,08064142310,2024-04-23
+CUS-00412,Surulere Provisions,South-West,Badagry,07089147232,2021-08-03
+CUS-00413,Yakubu Supermarket,South-West,Mushin,08181770706,2020-12-03
+CUS-00414,Epe Stores,South-West,Epe,07016473999,2020-07-20
+CUS-00415,Adesanya Hotel,South-West,Ikorodu,09030552371,2023-04-08
+CUS-00416,Lugbe Cash & Carry,North-Central,Garki,08193590502,2021-01-08
+CUS-00417,Akinola Hotel,North-Central,Makurdi,07047944260,2023-10-12
+CUS-00418,Garba Provisions,South-South,Asaba,08058039455,2020-06-22
+CUS-00419,Musa Ventures,South-West,Yaba,09054372866,2023-02-07
+CUS-00420,Lekki Enterprises,South-West,Epe,09030017834,2019-02-04
+CUS-00421,Suleiman Foods,South-West,Lekki,08196481420,2023-02-14
+CUS-00422,Ikorodu Ventures,South-West,Ikeja,07033448079,2019-07-08
+CUS-00423,Danjuma Superstores,South-West,Agege,09025555976,2023-11-20
+CUS-00424,Port Harcourt Mart,South-South,Eleme,08157986515,2019-05-28
+CUS-00425,Badagry Stores,South-West,Agege,08134544318,2023-10-12
+CUS-00426,Ikorodu Cash & Carry,South-West,Badagry,09066604960,2020-10-12
+CUS-00427,Balogun Foods,South-South,Port Harcourt,08023920137,2022-01-31
+CUS-00428,Aliyu Superstores,South-South,Yenagoa,08092050405,2022-04-16
+CUS-00429,Eleme Ventures,South-South,Yenagoa,07065201639,2021-12-12
+CUS-00430,Taiwo Supermarket,South-West,Badagry,08099904987,2019-07-10
+CUS-00431,Abdullahi Enterprises,South-West,Lekki,09098813650,2020-05-05
+CUS-00432,Abubakar Superstores,South-West,Mushin,08084939694,2019-06-02
+CUS-00433,Yakubu Mart,South-South,Bonny,09076549837,2019-07-18
+CUS-00434,Agege Provisions,South-West,Agege,08116757958,2021-07-29
+CUS-00435,Mushin Provisions,South-West,Lekki,09069618021,2019-12-05
+CUS-00436,Nwankwo Ventures,North-Central,Jabi,07076756320,2020-03-28
+CUS-00437,Uba Supermarket,North-Central,Jos,07022199793,2019-12-24
+CUS-00438,Lugbe Hotel,North-Central,Jos,08097858385,2020-08-26
+CUS-00439,Magaji Supermarket,South-West,Alimosho,08070996586,2022-07-23
+CUS-00440,Minna Foods,North-Central,Jabi,09025303956,2023-11-15
+CUS-00441,Eze Trading Co,North-Central,Lugbe,08124270328,2024-02-29
+CUS-00442,Magaji Foods,South-South,Calabar,07044130133,2020-12-28
+CUS-00443,Obi Provisions,South-West,Ibadan North,08055356673,2023-10-25
+CUS-00444,Sani Superstores,North-Central,Makurdi,07070465703,2021-11-08
+CUS-00445,Gwarinpa Ventures,North-Central,Wuse,07084252780,2019-03-05
+CUS-00446,Ogbomoso Mart,South-West,Badagry,08027231111,2023-11-02
+CUS-00447,Agege Hotel,South-West,Mushin,09091737749,2019-04-14
+CUS-00448,Obi Trading Co,North-Central,Lugbe,09027900864,2023-08-24
+CUS-00449,Badagry Hotel,South-West,Ikorodu,08184300459,2020-11-14
+CUS-00450,Haruna Wholesale,South-West,Epe,08127806897,2020-06-08
+CUS-00451,Jos Hotel,North-Central,Jabi,07057276557,2021-04-07
+CUS-00452,Epe Foods,South-West,Mushin,08166691738,2019-11-20
+CUS-00453,Nwachukwu Mart,South-West,Ikeja,07036830448,2022-12-03
+CUS-00454,Olawale Superstores,North-Central,Lugbe,08018325904,2020-07-18
+CUS-00455,Ugwu Supermarket,South-South,Uyo,09023754633,2020-12-18
+CUS-00456,Warri Foods,South-South,Bonny,09041889524,2021-07-21
+CUS-00457,Asaba Foods,South-South,Port Harcourt,09062016704,2022-01-30
+CUS-00458,Uyo Hotel,South-South,Port Harcourt,07043734435,2023-04-13
+CUS-00459,Minna Provisions,North-Central,Jabi,08035970823,2022-10-08
+CUS-00460,Lekki Mart,South-West,Surulere,07060626689,2024-03-10
+CUS-00461,Surulere Mart,South-West,Abeokuta,08110757677,2022-07-26
+CUS-00462,Ikeja Mart,South-West,Agege,07093935292,2020-12-19
+CUS-00463,Idris Enterprises,South-South,Bonny,08119781894,2020-01-09
+CUS-00464,Gbadamosi Hotel,North-Central,Garki,08065825346,2021-05-16
+CUS-00465,Ogunleye Provisions,North-Central,Jabi,08158425464,2022-10-09
+CUS-00466,Ogbomoso Ventures,South-West,Ogbomoso,07025397719,2020-09-01
+CUS-00467,Yakubu Enterprises,South-West,Abeokuta,08015352233,2020-08-04
+CUS-00468,Idris Stores,South-South,Calabar,08182509424,2020-05-11
+CUS-00469,Alimosho Trading Co,South-West,Ogbomoso,09075337822,2024-03-04
+CUS-00470,Agege Hotel,South-West,Lekki,07032467350,2019-01-21
+CUS-00471,Sani Stores,South-South,Warri,08066936428,2019-09-25
+CUS-00472,Abdullahi Foods,South-West,Oshodi,09096779969,2019-11-03
+CUS-00473,Eleme Supermarket,South-South,Yenagoa,08115085015,2023-12-05
+CUS-00474,Okorie Hotel,South-West,Lekki,08044715141,2022-02-18
+CUS-00475,Mushin Trading Co,South-West,Ikeja,09025878730,2021-06-02
+CUS-00476,Lekki Foods,South-West,Abeokuta,07019742790,2022-05-31
+CUS-00477,Idris Superstores,South-South,Asaba,07047784631,2020-02-16
+CUS-00478,Magaji Superstores,South-South,Port Harcourt,09030981381,2021-06-05
+CUS-00479,Oshodi Hotel,South-West,Ikorodu,08050004466,2020-08-14
+CUS-00480,Uyo Supermarket,South-South,Bonny,08026540343,2024-03-08
+CUS-00481,Ogbomoso Hotel,South-West,Lekki,08138192821,2020-03-22
+CUS-00482,Kubwa Cash & Carry,North-Central,Jos,08031602928,2023-05-22
+CUS-00483,Yaba Stores,South-West,Surulere,07083665549,2021-10-31
+CUS-00484,Ibrahim Stores,North-Central,Lugbe,07036496940,2020-05-07
+CUS-00485,Jabi Mart,North-Central,Kubwa,07048270459,2020-12-11
+CUS-00486,Nwankwo Ventures,South-West,Agege,08188405961,2023-07-25
+CUS-00487,Taiwo Cash & Carry,North-Central,Gwarinpa,07052038976,2023-01-14
+CUS-00488,Calabar Wholesale,South-South,Uyo,08054501625,2019-07-01
+CUS-00489,Yusuf Wholesale,South-West,Ibadan North,07033591471,2020-10-18
+CUS-00490,Gwarinpa Hotel,North-Central,Kubwa,08194103363,2023-12-28
+CUS-00491,Jos Superstores,North-Central,Wuse,09089193333,2023-03-24
+CUS-00492,Bonny Hotel,South-South,Yenagoa,08059099345,2022-03-21
+CUS-00493,Badagry Wholesale,South-West,Surulere,09077259613,2021-07-22
+CUS-00494,Adeyemi Superstores,South-West,Yaba,08079006257,2023-08-19
+CUS-00495,Aliyu Superstores,South-West,Alimosho,08074894729,2019-02-25
+CUS-00496,Nwankwo Provisions,South-West,Lekki,08159584751,2023-02-08
+CUS-00497,Idris Trading Co,South-West,Mushin,09071021210,2019-06-23
+CUS-00498,Agege Stores,South-West,Badagry,08145341684,2021-03-04
+CUS-00499,Yakubu Cash & Carry,North-Central,Jabi,07079345320,2023-01-03
+CUS-00500,Ogbomoso Cash & Carry,South-West,Agege,08175345452,2019-12-22
+CUS-00501,Ogbomoso Mart,South-West,Ibadan North,08040868838,2023-12-27
+CUS-00502,Dada Mart,North-Central,Gwarinpa,08190801793,2020-05-24
+CUS-00503,Calabar Trading Co,South-South,Obio-Akpor,09074265413,2021-09-24
+CUS-00504,Rabiu Cash & Carry,South-West,Ikeja,08015790734,2023-09-14
+CUS-00505,Sani Hotel,North-Central,Wuse,08017504382,2023-06-27
+CUS-00506,Obi Enterprises,South-West,Abeokuta,07098817918,2019-10-24
+CUS-00507,Uche Enterprises,South-West,Ibadan North,09032893086,2023-03-10
+CUS-00508,Sapele Mart,South-South,Sapele,08132511225,2020-05-10
+CUS-00509,Makurdi Enterprises,North-Central,Garki,08060762668,2022-04-04
+CUS-00510,Nnaji Hotel,South-West,Epe,09030073763,2021-01-08
+CUS-00511,Usman Enterprises,South-West,Ikeja,07022507745,2021-09-18
+CUS-00512,Jos Supermarket,North-Central,Lokoja,09059711219,2019-07-07
+CUS-00513,Ogunleye Ventures,South-West,Oshodi,09057045704,2021-02-11
+CUS-00514,Sapele Stores,South-South,Calabar,08044160831,2021-09-28
+CUS-00515,Obio-Akpor Wholesale,South-South,Sapele,09044601998,2023-05-11
+CUS-00516,Ikeja Enterprises,South-West,Ogbomoso,07079761254,2024-05-18
+CUS-00517,Danjuma Trading Co,South-West,Mushin,08124305357,2023-07-21
+CUS-00518,Ikorodu Hotel,South-West,Mushin,08192125234,2022-11-15
+CUS-00519,Makinde Cash & Carry,South-South,Bonny,09033987338,2022-05-05
+CUS-00520,Salami Enterprises,North-Central,Jabi,09028531242,2019-08-16
+CUS-00521,Ogunleye Ventures,South-South,Eleme,07038784084,2021-07-26
+CUS-00522,Musa Enterprises,South-West,Badagry,07031573890,2022-03-28
+CUS-00523,Afolabi Mart,South-South,Yenagoa,09021830043,2024-01-22
+CUS-00524,Garba Supermarket,South-West,Badagry,09063773642,2020-12-22
+CUS-00525,Garba Supermarket,North-Central,Gwarinpa,09068917831,2024-05-11
+CUS-00526,Oshodi Hotel,South-West,Ikorodu,08014510970,2020-01-09
+CUS-00527,Ogunleye Enterprises,North-Central,Gwarinpa,07058283485,2023-01-29
+CUS-00528,Garki Wholesale,North-Central,Lokoja,08199880518,2022-03-15
+CUS-00529,Adeyemi Foods,South-West,Badagry,07022101856,2021-05-03
+CUS-00530,Abeokuta Trading Co,South-West,Agege,08140372869,2021-01-07
+CUS-00531,Obi Enterprises,South-South,Port Harcourt,08133492771,2022-02-19
+CUS-00532,Jos Wholesale,North-Central,Jabi,07078892172,2019-01-20
+CUS-00533,Idris Enterprises,South-West,Ikorodu,09060610858,2021-04-05
+CUS-00534,Eze Ventures,South-West,Epe,09088762521,2019-08-02
+CUS-00535,Adewale Cash & Carry,South-West,Epe,08040860700,2019-12-07
+CUS-00536,Ogbomoso Hotel,South-West,Ikeja,08143320572,2022-10-22
+CUS-00537,Alimosho Trading Co,South-West,Lekki,08073962190,2022-08-29
+CUS-00538,Ikorodu Mart,South-West,Badagry,08076974557,2020-04-14
+CUS-00539,Alimosho Wholesale,South-West,Yaba,08037214866,2019-09-27
+CUS-00540,Surulere Stores,South-West,Lekki,07099043272,2021-08-28
+CUS-00541,Jos Supermarket,North-Central,Minna,08193304578,2022-08-26
+CUS-00542,Abeokuta Wholesale,South-West,Ibadan North,08078603195,2022-11-06
+CUS-00543,Surulere Supermarket,South-West,Ogbomoso,09074199033,2019-02-24
+CUS-00544,Obi Superstores,North-Central,Gwarinpa,09026155543,2020-07-02
+CUS-00545,Adeyemi Supermarket,North-Central,Kubwa,09087981603,2023-11-08
+CUS-00546,Ikorodu Mart,South-West,Ogbomoso,08141828278,2022-11-28
+CUS-00547,Agege Mart,South-West,Ibadan North,09038257191,2022-01-25
+CUS-00548,Obi Wholesale,North-Central,Minna,08086693314,2023-09-07
+CUS-00549,Obio-Akpor Foods,South-South,Asaba,08084536479,2021-12-29
+CUS-00550,Danjuma Foods,South-South,Eleme,09011307588,2023-06-06
+CUS-00551,Sani Hotel,South-West,Ogbomoso,08175313057,2022-09-26
+CUS-00552,Ikeja Cash & Carry,South-West,Lekki,08018057946,2023-03-18
+CUS-00553,Sani Stores,South-South,Yenagoa,08144865621,2022-05-24
+CUS-00554,Oshodi Wholesale,South-West,Agege,07065265613,2023-09-27
+CUS-00555,Abeokuta Provisions,South-West,Abeokuta,08048199537,2022-06-05
+CUS-00556,Yusuf Foods,South-West,Ibadan North,07061146483,2020-12-23
+CUS-00557,Surulere Mart,South-West,Epe,08166615250,2020-11-17
+CUS-00558,Adewale Stores,North-Central,Gwarinpa,08140630893,2022-08-29
+CUS-00559,Oladipo Enterprises,South-West,Epe,09046406303,2019-06-11
+CUS-00560,Agege Foods,South-West,Abeokuta,09065564671,2023-06-25
+CUS-00561,Suleiman Provisions,South-West,Epe,08120746107,2023-03-28
+CUS-00562,Adewale Ventures,South-West,Ogbomoso,07013538638,2020-02-05
+CUS-00563,Lekki Stores,South-West,Ikorodu,08021316066,2020-09-29
+CUS-00564,Ogunleye Provisions,South-South,Asaba,09094084814,2023-09-17
+CUS-00565,Ikeja Supermarket,South-West,Epe,08153647781,2019-07-29
+CUS-00566,Ogbomoso Wholesale,South-West,Ogbomoso,09028134815,2019-02-06
+CUS-00567,Garba Ventures,North-Central,Makurdi,09080257585,2020-10-30
+CUS-00568,Nwosu Ventures,North-Central,Jos,08022019737,2021-12-10
+CUS-00569,Dada Wholesale,South-West,Ikeja,07080238316,2019-11-06
+CUS-00570,Olawale Ventures,North-Central,Jos,07076025948,2019-02-09
+CUS-00571,Yusuf Cash & Carry,North-Central,Lugbe,08010968781,2021-05-06
+CUS-00572,Musa Cash & Carry,South-West,Mushin,08031913660,2020-05-29
+CUS-00573,Nwachukwu Provisions,North-Central,Lugbe,07066672010,2020-11-29
+CUS-00574,Abeokuta Foods,South-West,Epe,08148208680,2020-10-12
+CUS-00575,Lokoja Provisions,North-Central,Garki,08028337367,2022-10-17
+CUS-00576,Uche Wholesale,South-West,Badagry,09035204672,2022-08-15
+CUS-00577,Ugwu Supermarket,South-West,Surulere,07047864772,2022-11-28
+CUS-00578,Adeyemi Provisions,South-West,Lekki,08011976335,2021-08-26
+CUS-00579,Idris Ventures,South-West,Agege,09014259684,2022-07-26
+CUS-00580,Surulere Supermarket,South-West,Ikorodu,09019581091,2021-05-16
+CUS-00581,Rabiu Wholesale,South-West,Alimosho,09011693222,2023-09-26
+CUS-00582,Calabar Ventures,South-South,Warri,07036733470,2021-11-01
+CUS-00583,Ibrahim Provisions,North-Central,Minna,09051890609,2019-03-03
+CUS-00584,Ikeja Foods,South-West,Ogbomoso,07043999060,2021-09-20
+CUS-00585,Adeleke Superstores,North-Central,Kubwa,07041670798,2020-11-13
+CUS-00586,Idris Wholesale,South-West,Abeokuta,07063124490,2019-12-29
+CUS-00587,Abeokuta Foods,South-West,Ibadan North,08059848284,2020-02-05
+CUS-00588,Afolabi Superstores,South-West,Abeokuta,08193903841,2024-01-31
+CUS-00589,Badagry Hotel,South-West,Oshodi,07026888275,2021-09-06
+CUS-00590,Oshodi Superstores,South-West,Oshodi,08168883853,2020-04-22
+CUS-00591,Agege Foods,South-West,Surulere,08115300062,2021-09-12
+CUS-00592,Jos Foods,North-Central,Minna,08086061419,2023-05-16
+CUS-00593,Igwe Wholesale,North-Central,Makurdi,08019244458,2021-06-10
+CUS-00594,Okorie Hotel,South-West,Agege,09010096613,2020-01-25
+CUS-00595,Gbadamosi Supermarket,North-Central,Makurdi,08193241474,2023-01-29
+CUS-00596,Ugwu Cash & Carry,South-West,Yaba,09084016756,2023-07-22
+CUS-00597,Yakubu Trading Co,North-Central,Garki,07080222787,2020-09-21
+CUS-00598,Surulere Mart,South-West,Alimosho,07037122588,2023-10-26
+CUS-00599,Aliyu Superstores,South-West,Alimosho,09098304696,2021-09-02
+CUS-00600,Lugbe Supermarket,North-Central,Jabi,08091329718,2020-05-23
+CUS-00601,Yaba Superstores,South-West,Ibadan North,07072821834,2019-12-05
+CUS-00602,Mohammed Cash & Carry,North-Central,Jabi,07092803389,2022-12-05
+CUS-00603,Lugbe Stores,North-Central,Kubwa,07023586205,2020-05-08
+CUS-00604,Lawal Hotel,South-West,Epe,08086507818,2020-11-29
+CUS-00605,Bonny Cash & Carry,South-South,Obio-Akpor,08171568435,2020-06-24
+CUS-00606,Gwarinpa Mart,North-Central,Jos,09077738718,2022-07-11
+CUS-00607,Garba Ventures,North-Central,Jabi,08183830667,2022-08-07
+CUS-00608,Sani Cash & Carry,South-South,Uyo,08085584002,2021-05-11
+CUS-00609,Badagry Wholesale,South-West,Agege,09070062404,2019-01-14
+CUS-00610,Ikorodu Enterprises,South-West,Ikeja,08050512501,2024-05-19
+CUS-00611,Taiwo Supermarket,South-West,Oshodi,08184311410,2021-07-20
+CUS-00612,Gwarinpa Stores,North-Central,Wuse,09057735307,2023-07-18
+CUS-00613,Bello Provisions,South-West,Yaba,08150305910,2023-11-26
+CUS-00614,Kubwa Foods,North-Central,Garki,08174764506,2023-06-13
+CUS-00615,Badagry Enterprises,South-West,Alimosho,07089890579,2020-10-25
+CUS-00616,Abeokuta Cash & Carry,South-West,Lekki,07054881018,2022-06-20
+CUS-00617,Adesanya Provisions,South-South,Sapele,07095078886,2020-01-22
+CUS-00618,Nnaji Supermarket,North-Central,Jabi,08053866598,2021-08-08
+CUS-00619,Abubakar Foods,North-Central,Lokoja,09089877290,2021-03-11
+CUS-00620,Olawale Cash & Carry,North-Central,Gwarinpa,08055119729,2023-12-15
+CUS-00621,Ogbomoso Cash & Carry,South-West,Ikorodu,07063489393,2021-08-09
+CUS-00622,Oshodi Mart,South-West,Ibadan North,08075479608,2022-03-15
+CUS-00623,Usman Foods,North-Central,Jos,08042522981,2024-01-07
+CUS-00624,Abubakar Enterprises,South-West,Lekki,07065510043,2022-01-16
+CUS-00625,Nwosu Enterprises,South-West,Epe,07050912093,2023-06-21
+CUS-00626,Yenagoa Enterprises,South-South,Eleme,09016023362,2019-03-28
+CUS-00627,Chukwu Mart,South-South,Obio-Akpor,07017319968,2023-01-21
+CUS-00628,Asaba Supermarket,South-South,Uyo,07050952251,2021-11-23
+CUS-00629,Mohammed Hotel,South-West,Yaba,08083339816,2021-06-26
+CUS-00630,Usman Foods,North-Central,Gwarinpa,07060547291,2021-02-24
+CUS-00631,Okorie Mart,South-South,Port Harcourt,08136936968,2019-12-29
+CUS-00632,Igwe Superstores,North-Central,Wuse,07062163068,2020-09-18
+CUS-00633,Epe Trading Co,South-West,Alimosho,07012560649,2022-10-11
+CUS-00634,Warri Cash & Carry,South-South,Bonny,07052339783,2021-09-13
+CUS-00635,Gbadamosi Provisions,South-South,Bonny,09085254207,2019-03-23
+CUS-00636,Nnaji Wholesale,North-Central,Jabi,09062801229,2020-03-30
+CUS-00637,Nwosu Trading Co,South-West,Epe,08141702866,2021-08-10
+CUS-00638,Okorie Cash & Carry,South-West,Alimosho,07084482698,2019-02-05
+CUS-00639,Obi Superstores,South-West,Surulere,07061298971,2021-07-01
+CUS-00640,Warri Cash & Carry,South-South,Warri,08067239162,2022-09-01
+CUS-00641,Ugwu Mart,South-South,Warri,08087984620,2021-05-20
+CUS-00642,Balogun Wholesale,North-Central,Jos,08067722252,2019-04-28
+CUS-00643,Aliyu Mart,South-South,Uyo,07084804948,2021-06-06
+CUS-00644,Taiwo Mart,South-South,Port Harcourt,08165571528,2019-01-11
+CUS-00645,Magaji Superstores,South-West,Badagry,08130395330,2020-01-19
+CUS-00646,Adebayo Enterprises,South-West,Abeokuta,08191282861,2021-03-28
+CUS-00647,Kubwa Superstores,North-Central,Wuse,08120667011,2020-07-23
+CUS-00648,Garba Ventures,South-South,Uyo,08062004039,2021-08-30
+CUS-00649,Ogunleye Supermarket,South-West,Mushin,07046219821,2019-02-02
+CUS-00650,Yaba Provisions,South-West,Lekki,08068959861,2019-07-23
+CUS-00651,Minna Provisions,North-Central,Lokoja,09015613827,2021-01-03
+CUS-00652,Taiwo Cash & Carry,North-Central,Makurdi,07079880338,2023-10-22
+CUS-00653,Ikeja Provisions,South-West,Ogbomoso,09015268263,2021-04-16
+CUS-00654,Ikeja Provisions,South-West,Ikorodu,09063424009,2019-06-17
+CUS-00655,Ibadan North Mart,South-West,Mushin,08192293489,2019-04-07
+CUS-00656,Dada Ventures,South-West,Alimosho,09022138759,2020-05-14
+CUS-00657,Bello Foods,North-Central,Jos,08062756521,2022-02-06
+CUS-00658,Igwe Enterprises,South-West,Badagry,08071026547,2023-11-30
+CUS-00659,Badagry Mart,South-West,Badagry,07022239481,2023-10-12
+CUS-00660,Garki Hotel,North-Central,Lokoja,08060825385,2021-05-01
+CUS-00661,Agege Enterprises,South-West,Alimosho,08031759927,2019-07-19
+CUS-00662,Ikeja Cash & Carry,South-West,Ikorodu,08169895766,2022-10-19
+CUS-00663,Balogun Provisions,North-Central,Wuse,08111638498,2021-11-05
+CUS-00664,Danjuma Supermarket,South-West,Abeokuta,09041927492,2023-03-15
+CUS-00665,Uba Ventures,North-Central,Garki,07042844845,2019-06-22
+CUS-00666,Jos Provisions,North-Central,Wuse,08029898606,2024-02-10
+CUS-00667,Okonkwo Superstores,North-Central,Makurdi,08154440977,2019-04-05
+CUS-00668,Gbadamosi Mart,South-West,Epe,08192019078,2020-09-17
+CUS-00669,Jos Mart,North-Central,Minna,08114810369,2023-11-24
+CUS-00670,Nwachukwu Stores,South-South,Calabar,07049303341,2021-10-11
+CUS-00671,Ikorodu Trading Co,South-West,Ogbomoso,09080416822,2023-03-30
+CUS-00672,Garki Enterprises,North-Central,Jos,07074916146,2020-05-11
+CUS-00673,Lugbe Cash & Carry,North-Central,Makurdi,08144850980,2021-06-21
+CUS-00674,Gwarinpa Enterprises,North-Central,Makurdi,09079753731,2020-04-30
+CUS-00675,Gbadamosi Enterprises,North-Central,Kubwa,08135978571,2024-05-29
+CUS-00676,Idris Stores,South-West,Badagry,08092585240,2022-02-03
+CUS-00677,Musa Superstores,South-West,Yaba,07095982334,2023-04-16
+CUS-00678,Adewale Wholesale,North-Central,Lugbe,08110822924,2023-10-12
+CUS-00679,Suleiman Enterprises,North-Central,Makurdi,07033572537,2023-05-01
+CUS-00680,Abubakar Ventures,South-West,Ibadan North,07096657974,2023-08-28
+CUS-00681,Alimosho Hotel,South-West,Agege,09065559839,2019-03-20
+CUS-00682,Lugbe Enterprises,North-Central,Jabi,07037952515,2021-03-07
+CUS-00683,Jabi Stores,North-Central,Gwarinpa,08114183991,2022-07-08
+CUS-00684,Eleme Enterprises,South-South,Sapele,09035149571,2021-01-30
+CUS-00685,Ikorodu Foods,South-West,Alimosho,08114245067,2022-11-23
+CUS-00686,Okafor Trading Co,South-West,Ibadan North,08139009803,2021-06-22
+CUS-00687,Idris Supermarket,South-West,Oshodi,08022429114,2021-12-06
+CUS-00688,Jos Mart,North-Central,Kubwa,08174890505,2020-04-23
+CUS-00689,Taiwo Mart,South-South,Obio-Akpor,08037539747,2020-05-10
+CUS-00690,Nnaji Stores,South-West,Ikeja,08115909601,2020-07-25
+CUS-00691,Uyo Ventures,South-South,Port Harcourt,07079870757,2020-02-14
+CUS-00692,Aliyu Wholesale,North-Central,Kubwa,08136918105,2023-05-04
+CUS-00693,Yusuf Ventures,South-West,Epe,07046595028,2023-08-01
+CUS-00694,Usman Hotel,South-West,Ogbomoso,07037726346,2021-05-17
+CUS-00695,Dada Foods,South-West,Oshodi,08187052108,2023-01-17
+CUS-00696,Eze Hotel,South-West,Ibadan North,07027458237,2024-04-03
+CUS-00697,Lekki Cash & Carry,South-West,Ikeja,07067239263,2022-03-22
+CUS-00698,Abeokuta Superstores,South-West,Alimosho,09092720444,2022-06-04
+CUS-00699,Badagry Superstores,South-West,Oshodi,07072504573,2021-03-27
+CUS-00700,Badagry Ventures,South-West,Lekki,09051660066,2020-07-31
+CUS-00701,Minna Provisions,North-Central,Kubwa,08092804565,2022-12-21
+CUS-00702,Abdullahi Superstores,South-South,Uyo,08170838623,2021-09-07
+CUS-00703,Nwosu Ventures,South-West,Ibadan North,08047883942,2020-02-11
+CUS-00704,Ogbomoso Stores,South-West,Mushin,07053737494,2021-04-20
+CUS-00705,Jos Ventures,North-Central,Lokoja,09042021033,2020-12-08
+CUS-00706,Anyanwu Cash & Carry,South-West,Lekki,08137949250,2019-11-09
+CUS-00707,Onyekachi Enterprises,North-Central,Jabi,08033231136,2020-09-13
+CUS-00708,Makurdi Ventures,North-Central,Garki,09053671508,2021-04-22
+CUS-00709,Salami Cash & Carry,South-West,Lekki,07090048179,2020-02-04
+CUS-00710,Yakubu Superstores,South-South,Port Harcourt,07039207357,2019-11-02
+CUS-00711,Oshodi Superstores,South-West,Oshodi,07029693143,2020-09-17
+CUS-00712,Nwachukwu Enterprises,South-West,Abeokuta,09036261929,2023-04-07
+CUS-00713,Aliyu Superstores,North-Central,Lugbe,09056206415,2023-12-02
+CUS-00714,Jos Cash & Carry,North-Central,Gwarinpa,08118376603,2022-05-07
+CUS-00715,Port Harcourt Foods,South-South,Bonny,08124723458,2019-08-04
+CUS-00716,Onyekachi Foods,South-West,Abeokuta,09093914843,2022-08-20
+CUS-00717,Onyekachi Hotel,North-Central,Kubwa,08073736162,2023-08-22
+CUS-00718,Chukwu Cash & Carry,South-West,Surulere,08199934747,2023-09-18
+CUS-00719,Adebayo Mart,South-West,Badagry,09098305426,2021-12-20
+CUS-00720,Balogun Superstores,South-South,Calabar,09091125155,2019-03-15
+CUS-00721,Orji Cash & Carry,South-West,Ogbomoso,09061635535,2022-06-05
+CUS-00722,Adeyemi Enterprises,South-West,Ibadan North,08077340900,2022-11-28
+CUS-00723,Chukwu Supermarket,South-West,Ikeja,09059469782,2023-10-14
+CUS-00724,Garki Mart,North-Central,Jos,08172402697,2021-07-09
+CUS-00725,Lekki Provisions,South-West,Ibadan North,07095052118,2021-05-24
+CUS-00726,Adeleke Trading Co,South-South,Bonny,07072930506,2021-11-15
+CUS-00727,Suleiman Trading Co,North-Central,Lokoja,08149542951,2022-10-18
+CUS-00728,Abeokuta Foods,South-West,Ikorodu,08118243352,2020-11-21
+CUS-00729,Adeleke Superstores,South-West,Ikorodu,07048495745,2021-09-13
+CUS-00730,Idris Wholesale,South-West,Ikorodu,08092650976,2022-11-04
+CUS-00731,Mohammed Stores,South-West,Abeokuta,08089426041,2020-04-10
+CUS-00732,Danjuma Mart,South-West,Ikorodu,08075084661,2023-05-28
+CUS-00733,Uyo Stores,South-South,Eleme,08076565050,2020-03-13
+CUS-00734,Warri Superstores,South-South,Yenagoa,08038300713,2021-03-06
+CUS-00735,Yakubu Wholesale,North-Central,Garki,07032494944,2021-10-25
+CUS-00736,Mohammed Hotel,South-West,Yaba,09062354374,2021-10-04
+CUS-00737,Onyekachi Supermarket,South-West,Ikorodu,09061271721,2020-08-12
+CUS-00738,Okonkwo Stores,South-West,Ogbomoso,08167953319,2020-12-29
+CUS-00739,Uyo Wholesale,South-South,Asaba,07044271680,2020-09-30
+CUS-00740,Abubakar Foods,North-Central,Kubwa,08079786819,2022-07-11
+CUS-00741,Jabi Hotel,North-Central,Wuse,07019120357,2024-05-08
+CUS-00742,Abubakar Ventures,South-West,Agege,08048023482,2023-01-03
+CUS-00743,Afolabi Supermarket,South-West,Abeokuta,08090448089,2020-11-03
+CUS-00744,Lekki Enterprises,South-West,Surulere,09098099795,2020-02-19
+CUS-00745,Eleme Stores,South-South,Eleme,08149536330,2021-10-19
+CUS-00746,Igwe Wholesale,North-Central,Lokoja,08144539133,2023-07-06
+CUS-00747,Adeleke Cash & Carry,South-South,Calabar,08118060935,2022-12-21
+CUS-00748,Uche Stores,South-South,Yenagoa,08091913332,2022-03-20
+CUS-00749,Dada Hotel,South-West,Oshodi,09039311339,2020-12-22
+CUS-00750,Lugbe Stores,North-Central,Wuse,07019450582,2021-03-19
+CUS-00751,Wuse Ventures,North-Central,Gwarinpa,07015078212,2020-09-09
+CUS-00752,Eze Cash & Carry,South-West,Abeokuta,07079173535,2020-06-13
+CUS-00753,Onyekachi Cash & Carry,South-South,Obio-Akpor,08010443906,2022-04-06
+CUS-00754,Yenagoa Stores,South-South,Sapele,08154753520,2020-08-05
+CUS-00755,Yakubu Stores,South-West,Agege,08120798726,2019-09-14
+CUS-00756,Epe Provisions,South-West,Surulere,07061561575,2020-09-17
+CUS-00757,Lekki Superstores,South-West,Badagry,08175297400,2023-12-11
+CUS-00758,Lawal Mart,South-South,Port Harcourt,08013404379,2020-05-19
+CUS-00759,Nwachukwu Stores,South-South,Bonny,08177066471,2021-06-04
+CUS-00760,Port Harcourt Supermarket,South-South,Uyo,07055327823,2020-01-01
+CUS-00761,Makinde Superstores,North-Central,Jos,09082016051,2023-08-01
+CUS-00762,Adewale Supermarket,North-Central,Gwarinpa,09097755782,2024-04-23
+CUS-00763,Ikeja Provisions,South-West,Badagry,08011928065,2023-06-15
+CUS-00764,Garki Ventures,North-Central,Makurdi,08089328380,2024-01-23
+CUS-00765,Nwankwo Enterprises,South-South,Sapele,08018470495,2019-11-28
+CUS-00766,Rabiu Foods,South-West,Epe,09053518077,2023-09-28
+CUS-00767,Eleme Trading Co,South-South,Warri,07089602555,2023-06-12
+CUS-00768,Dada Cash & Carry,South-West,Surulere,08184277128,2023-06-30
+CUS-00769,Ikeja Mart,South-West,Lekki,09031173338,2024-04-30
+CUS-00770,Adeyemi Mart,South-South,Obio-Akpor,08165864403,2020-07-12
+CUS-00771,Eleme Provisions,South-South,Eleme,08180207530,2021-11-22
+CUS-00772,Abeokuta Foods,South-West,Ikeja,08077093782,2020-12-26
+CUS-00773,Asaba Trading Co,South-South,Calabar,07084854623,2023-02-05
+CUS-00774,Lekki Enterprises,South-West,Agege,08072306017,2020-02-06
+CUS-00775,Adeleke Provisions,North-Central,Garki,08073674613,2021-08-18
+CUS-00776,Ikeja Supermarket,South-West,Epe,08148260712,2023-03-30
+CUS-00777,Danjuma Ventures,South-West,Ikeja,07017040602,2019-03-26
+CUS-00778,Adebayo Ventures,North-Central,Jos,07019510600,2019-05-26
+CUS-00779,Bello Trading Co,South-West,Mushin,08053712695,2023-02-16
+CUS-00780,Akinola Provisions,South-South,Calabar,08060403103,2019-06-03
+CUS-00781,Nwankwo Supermarket,South-West,Mushin,08039013196,2019-03-20
+CUS-00782,Chukwu Mart,North-Central,Minna,08094828438,2022-05-29
+CUS-00783,Balogun Supermarket,South-South,Sapele,07047662052,2023-08-27
+CUS-00784,Uba Mart,South-West,Oshodi,08139508245,2019-06-13
+CUS-00785,Idris Superstores,South-West,Abeokuta,08087594146,2021-04-26
+CUS-00786,Nnaji Ventures,South-South,Warri,09072110987,2022-11-08
+CUS-00787,Okafor Provisions,South-West,Agege,09087774748,2023-03-04
+CUS-00788,Eleme Enterprises,South-South,Port Harcourt,09015935671,2024-03-11
+CUS-00789,Bonny Supermarket,South-South,Calabar,09074326441,2019-11-17
+CUS-00790,Yenagoa Ventures,South-South,Warri,07084958851,2020-03-12
+CUS-00791,Yaba Mart,South-West,Agege,08142086411,2020-10-14
+CUS-00792,Ibrahim Wholesale,South-South,Eleme,09086555214,2020-03-24
+CUS-00793,Minna Mart,North-Central,Lokoja,08059716992,2020-11-26
+CUS-00794,Alimosho Superstores,South-West,Lekki,09054681905,2021-06-10
+CUS-00795,Oladipo Foods,South-West,Abeokuta,08020866138,2020-12-09
+CUS-00796,Port Harcourt Hotel,South-South,Uyo,07024893677,2022-04-09
+CUS-00797,Agege Trading Co,South-West,Surulere,07085263692,2020-06-10
+CUS-00798,Eze Provisions,South-South,Bonny,07097112459,2021-09-26
+CUS-00799,Kubwa Foods,North-Central,Kubwa,08157340158,2019-05-21
+CUS-00800,Ikorodu Supermarket,South-West,Lekki,08156335527,2021-11-18
+CUS-00801,Adesanya Ventures,South-West,Badagry,08170663511,2020-12-08
+CUS-00802,Badagry Stores,South-West,Yaba,09021718382,2023-12-20
+CUS-00803,Adewale Stores,South-West,Surulere,08125035684,2020-07-05
+CUS-00804,Makinde Hotel,South-West,Epe,07049348536,2022-01-30
+CUS-00805,Balogun Ventures,South-South,Uyo,09069573887,2020-04-13
+CUS-00806,Adewale Supermarket,North-Central,Kubwa,08165256328,2021-03-04
+CUS-00807,Agege Ventures,South-West,Abeokuta,09071472671,2022-09-18
+CUS-00808,Lugbe Mart,North-Central,Lugbe,08074994010,2022-05-02
+CUS-00809,Port Harcourt Mart,South-South,Uyo,08171193423,2019-01-21
+CUS-00810,Badagry Hotel,South-West,Ikorodu,08033536332,2019-09-18
+CUS-00811,Gwarinpa Mart,North-Central,Kubwa,07015523254,2022-08-23
+CUS-00812,Chukwu Mart,North-Central,Kubwa,07099329049,2022-08-22
+CUS-00813,Uche Hotel,South-South,Eleme,08126306114,2019-04-04
+CUS-00814,Oshodi Mart,South-West,Ibadan North,08130945115,2024-05-24
+CUS-00815,Orji Trading Co,South-South,Asaba,09048899945,2019-02-15
+CUS-00816,Gwarinpa Enterprises,North-Central,Minna,08125074747,2020-04-25
+CUS-00817,Abubakar Hotel,South-West,Lekki,08113328008,2022-03-02
+CUS-00818,Nwosu Stores,North-Central,Jabi,07091624673,2020-10-27
+CUS-00819,Idris Wholesale,South-West,Yaba,07021219199,2021-05-26
+CUS-00820,Obio-Akpor Hotel,South-South,Calabar,08075829146,2022-08-21
+CUS-00821,Adeleke Superstores,North-Central,Jabi,09029856967,2020-05-27
+CUS-00822,Chukwu Supermarket,South-South,Asaba,08157158074,2022-09-10
+CUS-00823,Obio-Akpor Provisions,South-South,Yenagoa,09069391930,2022-10-19
+CUS-00824,Mushin Foods,South-West,Mushin,08088809974,2021-01-24
+CUS-00825,Anyanwu Hotel,South-West,Agege,07089279578,2020-03-06
+CUS-00826,Sani Wholesale,South-West,Mushin,08084600071,2021-10-29
+CUS-00827,Gwarinpa Provisions,North-Central,Gwarinpa,09048851088,2021-04-24
+CUS-00828,Ikorodu Enterprises,South-West,Ikorodu,09085065432,2020-04-08
+CUS-00829,Adeyemi Mart,South-West,Ikorodu,08195973864,2019-09-28
+CUS-00830,Ibrahim Wholesale,North-Central,Lokoja,08076019888,2019-05-02
+CUS-00831,Adesanya Wholesale,North-Central,Minna,07090381832,2020-03-28
+CUS-00832,Onyekachi Wholesale,South-West,Epe,09026050250,2022-04-29
+CUS-00833,Lugbe Mart,North-Central,Makurdi,07029614192,2022-08-17
+CUS-00834,Agege Mart,South-West,Ikeja,08158474537,2022-01-24
+CUS-00835,Wuse Wholesale,North-Central,Lugbe,07078969993,2023-05-02
+CUS-00836,Akinola Enterprises,South-South,Eleme,08152441045,2019-10-13
+CUS-00837,Asaba Superstores,South-South,Uyo,07081728681,2021-03-02
+CUS-00838,Balogun Hotel,South-West,Ikorodu,08175082045,2022-02-09
+CUS-00839,Lekki Provisions,South-West,Surulere,08035288872,2019-12-17
+CUS-00840,Bonny Hotel,South-South,Bonny,07066015266,2021-11-01
+CUS-00841,Balogun Supermarket,South-South,Yenagoa,08151818682,2020-07-17
+CUS-00842,Abeokuta Hotel,South-West,Oshodi,08133113253,2020-06-09
+CUS-00843,Lekki Provisions,South-West,Surulere,08040410305,2022-09-11
+CUS-00844,Afolabi Cash & Carry,South-West,Badagry,07020433455,2024-04-24
+CUS-00845,Port Harcourt Provisions,South-South,Obio-Akpor,07098555359,2021-07-16
+CUS-00846,Okorie Supermarket,North-Central,Garki,08199601933,2024-05-11
+CUS-00847,Makurdi Provisions,North-Central,Makurdi,08034800996,2020-08-28
+CUS-00848,Mohammed Wholesale,South-West,Abeokuta,08157271923,2023-07-09
+CUS-00849,Sapele Provisions,South-South,Bonny,07023301739,2019-10-28
+CUS-00850,Makinde Foods,North-Central,Kubwa,08133055043,2019-05-13
+CUS-00851,Suleiman Stores,North-Central,Kubwa,09059185834,2020-07-03
+CUS-00852,Akinola Mart,North-Central,Jabi,09066920644,2023-03-21
+CUS-00853,Hassan Trading Co,North-Central,Garki,09024806384,2021-07-03
+CUS-00854,Badagry Wholesale,South-West,Ogbomoso,07021039132,2022-07-31
+CUS-00855,Igwe Enterprises,South-West,Badagry,08169586748,2023-02-25
+CUS-00856,Onyekachi Provisions,North-Central,Garki,09059317149,2023-05-31
+CUS-00857,Epe Stores,South-West,Mushin,09080150556,2020-09-22
+CUS-00858,Obi Cash & Carry,North-Central,Makurdi,07032645646,2024-01-21
+CUS-00859,Lawal Enterprises,South-West,Alimosho,09026476859,2023-02-11
+CUS-00860,Asaba Foods,South-South,Sapele,08196413557,2019-02-17
+CUS-00861,Garba Cash & Carry,South-West,Ibadan North,08129780216,2020-02-11
+CUS-00862,Nwankwo Ventures,South-West,Yaba,08013989423,2023-11-11
+CUS-00863,Minna Superstores,North-Central,Wuse,08061356129,2021-01-10
+CUS-00864,Usman Enterprises,North-Central,Garki,07098728736,2020-03-15
+CUS-00865,Igwe Provisions,North-Central,Lugbe,09075800289,2021-08-03
+CUS-00866,Ugwu Hotel,South-West,Ikeja,07067768169,2019-06-26
+CUS-00867,Taiwo Cash & Carry,South-South,Yenagoa,09014829304,2024-03-26
+CUS-00868,Oshodi Wholesale,South-West,Badagry,08075965276,2022-01-01
+CUS-00869,Ibadan North Stores,South-West,Abeokuta,09098594248,2021-04-24
+CUS-00870,Minna Hotel,North-Central,Gwarinpa,07062530781,2022-12-10
+CUS-00871,Abeokuta Superstores,South-West,Agege,08153014471,2024-01-28
+CUS-00872,Rabiu Trading Co,South-West,Agege,07093906615,2022-07-04
+CUS-00873,Nwosu Cash & Carry,South-West,Agege,07098750131,2023-01-18
+CUS-00874,Abeokuta Stores,South-West,Badagry,07050924657,2023-10-11
+CUS-00875,Taiwo Supermarket,South-West,Ibadan North,09086242300,2021-07-13
+CUS-00876,Abdullahi Ventures,South-South,Sapele,07052481834,2022-04-20
+CUS-00877,Akinola Ventures,North-Central,Garki,08055092789,2021-08-19
+CUS-00878,Jabi Mart,North-Central,Makurdi,08158765904,2021-12-22
+CUS-00879,Oshodi Stores,South-West,Alimosho,08048568210,2022-12-06
+CUS-00880,Mushin Provisions,South-West,Abeokuta,07087603784,2023-11-20
+CUS-00881,Aliyu Hotel,North-Central,Minna,09038150713,2022-06-21
+CUS-00882,Asaba Hotel,South-South,Asaba,09099047650,2021-05-23
+CUS-00883,Okorie Enterprises,South-West,Ogbomoso,09083492593,2023-05-29
+CUS-00884,Bonny Mart,South-South,Sapele,09038582041,2020-09-17
+CUS-00885,Yenagoa Wholesale,South-South,Bonny,09085982862,2020-05-05
+CUS-00886,Chukwu Ventures,North-Central,Gwarinpa,08030196097,2020-03-26
+CUS-00887,Onyekachi Cash & Carry,North-Central,Jabi,07095084307,2023-04-12
+CUS-00888,Olawale Superstores,South-South,Eleme,08190696029,2023-02-04
+CUS-00889,Lawal Supermarket,South-West,Yaba,08172298460,2021-09-11
+CUS-00890,Yakubu Supermarket,North-Central,Kubwa,08046602780,2023-08-27
+CUS-00891,Ikorodu Superstores,South-West,Ogbomoso,08096475652,2019-08-22
+CUS-00892,Oshodi Supermarket,South-West,Ikeja,07052131585,2021-01-16
+CUS-00893,Uba Trading Co,South-West,Epe,07063270351,2019-02-17
+CUS-00894,Warri Stores,South-South,Sapele,07080055957,2020-09-10
+CUS-00895,Bonny Wholesale,South-South,Yenagoa,07041954134,2021-01-20
+CUS-00896,Agege Enterprises,South-West,Badagry,09041667072,2019-03-05
+CUS-00897,Gbadamosi Provisions,South-West,Ikorodu,09064811239,2022-12-29
+CUS-00898,Ugwu Trading Co,South-South,Obio-Akpor,08183248658,2022-01-16
+CUS-00899,Oladipo Mart,South-West,Agege,09059357131,2019-10-24
+CUS-00900,Abeokuta Supermarket,South-West,Alimosho,07042168745,2022-12-31
+CUS-00901,Abdullahi Trading Co,North-Central,Garki,08069378298,2022-03-29
+CUS-00902,Ikorodu Wholesale,South-West,Lekki,08049919426,2023-03-29
+CUS-00903,Uche Superstores,South-South,Uyo,09014547522,2022-11-18
+CUS-00904,Yenagoa Ventures,South-South,Calabar,08166689004,2019-07-03
+CUS-00905,Fashola Foods,South-South,Asaba,07057225359,2022-01-22
+CUS-00906,Jabi Ventures,North-Central,Wuse,07096083599,2020-10-27
+CUS-00907,Yakubu Mart,South-West,Ikeja,09036853654,2020-11-23
+CUS-00908,Lekki Mart,South-West,Yaba,08089727494,2020-07-28
+CUS-00909,Ibadan North Ventures,South-West,Alimosho,08044987861,2023-06-12
+CUS-00910,Lugbe Provisions,North-Central,Garki,09059338378,2023-05-26
+CUS-00911,Rabiu Enterprises,South-West,Yaba,07013082993,2019-03-30
+CUS-00912,Kubwa Stores,North-Central,Minna,08045135941,2020-06-26
+CUS-00913,Usman Cash & Carry,South-South,Sapele,08130032157,2023-12-02
+CUS-00914,Aliyu Stores,South-South,Port Harcourt,09070895638,2019-10-12
+CUS-00915,Haruna Provisions,North-Central,Kubwa,08148649601,2020-03-26
+CUS-00916,Makinde Enterprises,South-West,Yaba,08135415894,2022-01-27
+CUS-00917,Ikeja Wholesale,South-West,Ikorodu,08092903638,2021-11-21
+CUS-00918,Abubakar Superstores,South-South,Yenagoa,07011385159,2021-10-15
+CUS-00919,Abdullahi Cash & Carry,South-West,Epe,08061471888,2020-06-12
+CUS-00920,Lekki Stores,South-West,Ogbomoso,07016994436,2022-07-21
+CUS-00921,Nwosu Enterprises,South-South,Sapele,07010719539,2022-12-30
+CUS-00922,Obi Superstores,North-Central,Jabi,08085102924,2024-03-09
+CUS-00923,Orji Ventures,North-Central,Jabi,09027705940,2023-12-01
+CUS-00924,Dada Wholesale,South-West,Lekki,08115927344,2023-09-14
+CUS-00925,Ikorodu Foods,South-West,Agege,09047973618,2019-05-11
+CUS-00926,Asaba Hotel,South-South,Uyo,09032143753,2022-08-25
+CUS-00927,Dada Hotel,North-Central,Minna,07035356407,2023-08-02
+CUS-00928,Anyanwu Wholesale,South-West,Surulere,09068576625,2023-10-08
+CUS-00929,Port Harcourt Ventures,South-South,Uyo,09071439467,2021-08-27
+CUS-00930,Surulere Stores,South-West,Agege,07037344675,2019-07-20
+CUS-00931,Badagry Hotel,South-West,Alimosho,08185597784,2019-06-04
+CUS-00932,Adeyemi Hotel,North-Central,Makurdi,08065890810,2019-04-04
+CUS-00933,Epe Stores,South-West,Agege,07048155583,2020-08-06
+CUS-00934,Chukwu Enterprises,South-South,Obio-Akpor,08130639394,2024-04-03
+CUS-00935,Epe Ventures,South-West,Ibadan North,08189752745,2020-09-23
+CUS-00936,Epe Enterprises,South-West,Ibadan North,08186391152,2023-09-11
+CUS-00937,Yakubu Wholesale,South-West,Agege,07019492426,2021-05-08
+CUS-00938,Obi Wholesale,South-South,Eleme,08063541768,2023-12-02
+CUS-00939,Nwachukwu Cash & Carry,South-West,Ikorodu,08026186924,2022-09-29
+CUS-00940,Danjuma Wholesale,South-West,Epe,08058190104,2020-09-08
+CUS-00941,Lawal Ventures,South-West,Ibadan North,09073946652,2022-11-30
+CUS-00942,Hassan Cash & Carry,North-Central,Jabi,08068264710,2020-11-18
+CUS-00943,Eze Ventures,South-West,Epe,08096920825,2020-07-27
+CUS-00944,Jos Superstores,North-Central,Jos,07049017499,2021-10-17
+CUS-00945,Ibadan North Wholesale,South-West,Surulere,08050320166,2019-09-13
+CUS-00946,Aliyu Supermarket,South-West,Ogbomoso,07016052535,2021-07-16
+CUS-00947,Akinola Ventures,South-West,Epe,08157708716,2022-12-28
+CUS-00948,Wuse Stores,North-Central,Minna,08034455561,2019-09-10
+CUS-00949,Haruna Wholesale,South-West,Agege,09099960756,2021-11-23
+CUS-00950,Danjuma Mart,North-Central,Kubwa,08020498581,2020-03-25
+CUS-00951,Abubakar Stores,South-South,Calabar,07010784780,2022-03-16
+CUS-00952,Anyanwu Ventures,South-West,Badagry,09098277293,2020-03-30
+CUS-00953,Usman Enterprises,North-Central,Jabi,09050621889,2023-12-05
+CUS-00954,Adesanya Supermarket,South-West,Badagry,08013599088,2023-03-31
+CUS-00955,Okafor Cash & Carry,South-West,Alimosho,08021555280,2022-09-24
+CUS-00956,Onyekachi Supermarket,South-South,Obio-Akpor,08030457766,2020-04-10
+CUS-00957,Minna Supermarket,North-Central,Minna,08037023185,2022-10-07
+CUS-00958,Wuse Trading Co,North-Central,Wuse,07094612181,2019-09-01
+CUS-00959,Minna Foods,North-Central,Makurdi,08114968366,2021-09-07
+CUS-00960,Suleiman Enterprises,South-West,Epe,09041125867,2020-05-31
+CUS-00961,Aliyu Trading Co,South-West,Ogbomoso,07045950066,2019-05-31
+CUS-00962,Garki Ventures,North-Central,Makurdi,08170173215,2020-07-04
+CUS-00963,Suleiman Provisions,South-West,Ibadan North,08168802221,2023-02-12
+CUS-00964,Jabi Enterprises,North-Central,Minna,08049378681,2020-05-13
+CUS-00965,Jabi Ventures,North-Central,Gwarinpa,08047910765,2020-07-18
+CUS-00966,Gwarinpa Mart,North-Central,Kubwa,08091302255,2021-08-29
+CUS-00967,Nwankwo Wholesale,South-West,Yaba,08084736526,2024-02-26
+CUS-00968,Okorie Trading Co,South-South,Eleme,08077575794,2024-03-28
+CUS-00969,Adesanya Enterprises,South-South,Warri,07085427873,2023-03-01
+CUS-00970,Oshodi Trading Co,South-West,Oshodi,07084762274,2022-12-02
+CUS-00971,Bonny Enterprises,South-South,Obio-Akpor,07068764105,2019-12-09
+CUS-00972,Lekki Stores,South-West,Oshodi,07085493830,2024-03-08
+CUS-00973,Adesanya Provisions,North-Central,Jabi,08049208083,2020-06-12
+CUS-00974,Suleiman Stores,South-West,Surulere,08154910261,2019-10-29
+CUS-00975,Ibadan North Cash & Carry,South-West,Oshodi,07042925764,2019-09-27
+CUS-00976,Orji Mart,South-South,Obio-Akpor,08159987561,2020-05-29
+CUS-00977,Ibrahim Provisions,North-Central,Gwarinpa,09040626070,2023-08-24
+CUS-00978,Uba Ventures,South-South,Bonny,08113994712,2021-12-08
+CUS-00979,Danjuma Hotel,South-West,Lekki,07055406344,2022-08-27
+CUS-00980,Mushin Supermarket,South-West,Mushin,07098607345,2019-03-31
+CUS-00981,Wuse Superstores,North-Central,Jos,08166278204,2022-03-01
+CUS-00982,Asaba Foods,South-South,Uyo,08111060619,2019-10-13
+CUS-00983,Dada Foods,South-West,Mushin,09096420023,2023-04-08
+CUS-00984,Sapele Superstores,South-South,Yenagoa,08197074691,2022-02-24
+CUS-00985,Obio-Akpor Supermarket,South-South,Bonny,08162344046,2020-05-08
+CUS-00986,Jos Hotel,North-Central,Lugbe,08022458031,2021-07-20
+CUS-00987,Hassan Superstores,North-Central,Gwarinpa,07013743496,2019-06-05
+CUS-00988,Warri Wholesale,South-South,Calabar,07018045780,2019-09-13
+CUS-00989,Agege Stores,South-West,Ikeja,07070228445,2022-09-30
+CUS-00990,Eze Provisions,North-Central,Makurdi,08057021454,2022-09-28
+CUS-00991,Badagry Enterprises,South-West,Epe,08060689435,2021-07-03
+CUS-00992,Nnaji Enterprises,North-Central,Kubwa,08170976401,2023-11-14
+CUS-00993,Uba Stores,South-West,Lekki,07067027331,2019-06-09
+CUS-00994,Adewale Trading Co,South-West,Epe,09088952163,2021-04-14
+CUS-00995,Okorie Enterprises,North-Central,Minna,09069066531,2020-07-21
+CUS-00996,Uba Mart,South-South,Eleme,08075063976,2020-06-06
+CUS-00997,Ogbomoso Hotel,South-West,Lekki,08071127098,2021-10-06
+CUS-00998,Musa Trading Co,South-West,Lekki,09024809069,2023-09-28
+CUS-00999,Nnaji Mart,South-West,Lekki,08150926285,2022-04-27
+CUS-01000,Idris Mart,South-West,Surulere,09016529832,2019-03-02
+CUS-01001,Warri Mart,South-South,Yenagoa,07026418573,2021-05-07
+CUS-01002,Mushin Ventures,South-West,Abeokuta,08185935555,2021-11-18
+CUS-01003,Yenagoa Foods,South-South,Sapele,08028592146,2021-08-03
+CUS-01004,Minna Mart,North-Central,Jabi,07093855267,2020-09-10
+CUS-01005,Obi Trading Co,North-Central,Jos,07099985448,2019-06-06
+CUS-01006,Afolabi Mart,South-West,Badagry,07086771841,2020-11-19
+CUS-01007,Bonny Superstores,South-South,Obio-Akpor,07035827078,2019-01-23
+CUS-01008,Wuse Enterprises,North-Central,Jos,08073865585,2021-08-07
+CUS-01009,Ugwu Mart,South-South,Port Harcourt,08137622679,2023-01-16
+CUS-01010,Sapele Ventures,South-South,Obio-Akpor,08163928396,2021-02-11
+CUS-01011,Ikeja Trading Co,South-West,Mushin,08065691824,2024-04-13
+CUS-01012,Okorie Stores,South-South,Obio-Akpor,07082716383,2023-06-23
+CUS-01013,Yusuf Stores,South-West,Surulere,08164663717,2020-08-12
+CUS-01014,Agege Mart,South-West,Ikeja,07050000149,2022-03-26
+CUS-01015,Taiwo Wholesale,South-West,Mushin,07016962963,2023-04-14
+CUS-01016,Yaba Ventures,South-West,Ogbomoso,09025445960,2022-11-28
+CUS-01017,Uba Stores,South-West,Ibadan North,07064692890,2020-11-12
+CUS-01018,Ikorodu Hotel,South-West,Abeokuta,07043059986,2020-02-21
+CUS-01019,Lugbe Enterprises,North-Central,Lokoja,09021261988,2019-09-03
+CUS-01020,Dada Trading Co,North-Central,Jos,08042905017,2021-05-28
+CUS-01021,Bonny Ventures,South-South,Port Harcourt,07072364542,2019-01-11
+CUS-01022,Fashola Supermarket,South-South,Port Harcourt,09046682099,2021-01-24
+CUS-01023,Agege Superstores,South-West,Yaba,08116104857,2023-07-07
+CUS-01024,Lugbe Stores,North-Central,Lokoja,07028743541,2020-05-09
+CUS-01025,Onyekachi Provisions,North-Central,Makurdi,08155987725,2020-11-09
+CUS-01026,Ibadan North Wholesale,South-West,Yaba,08155852776,2023-03-28
+CUS-01027,Ikeja Foods,South-West,Surulere,07091709974,2021-09-30
+CUS-01028,Gbadamosi Cash & Carry,South-West,Ogbomoso,09062719526,2021-05-26
+CUS-01029,Epe Stores,South-West,Ogbomoso,07069750614,2020-08-25
+CUS-01030,Mushin Enterprises,South-West,Agege,09033781587,2019-09-18
+CUS-01031,Port Harcourt Stores,South-South,Yenagoa,08135902794,2021-12-04
+CUS-01032,Oshodi Wholesale,South-West,Epe,08135704262,2023-11-30
+CUS-01033,Warri Provisions,South-South,Yenagoa,08114938681,2022-11-05
+CUS-01034,Abeokuta Provisions,South-West,Ikeja,08095689443,2022-03-13
+CUS-01035,Orji Ventures,South-West,Surulere,08098562013,2020-04-10
+CUS-01036,Makurdi Mart,North-Central,Garki,08018730772,2023-09-15
+CUS-01037,Yaba Hotel,South-West,Badagry,08135749878,2019-08-31
+CUS-01038,Jos Enterprises,North-Central,Lugbe,09010262390,2019-02-28
+CUS-01039,Epe Supermarket,South-West,Alimosho,08168055632,2019-09-07
+CUS-01040,Abubakar Hotel,South-South,Yenagoa,09058515929,2021-07-08
+CUS-01041,Kubwa Supermarket,North-Central,Lugbe,09081458898,2021-11-25
+CUS-01042,Eze Stores,South-West,Abeokuta,07040283277,2020-07-20
+CUS-01043,Okafor Provisions,South-West,Surulere,08151715656,2024-01-25
+CUS-01044,Anyanwu Cash & Carry,North-Central,Wuse,08143609390,2023-01-12
+CUS-01045,Eze Supermarket,South-West,Alimosho,08179749603,2019-12-19
+CUS-01046,Garba Enterprises,South-West,Ibadan North,07093932889,2021-11-30
+CUS-01047,Adeleke Supermarket,North-Central,Lokoja,08118727939,2020-01-12
+CUS-01048,Ibadan North Supermarket,South-West,Ikorodu,09018830219,2023-11-06
+CUS-01049,Lugbe Cash & Carry,North-Central,Lokoja,07092852868,2020-03-14
+CUS-01050,Oshodi Superstores,South-West,Abeokuta,07070855827,2022-04-07
+CUS-01051,Usman Enterprises,South-West,Lekki,08197365194,2019-02-28
+CUS-01052,Nnaji Trading Co,North-Central,Makurdi,08024496399,2023-11-04
+CUS-01053,Abeokuta Provisions,South-West,Abeokuta,08095545512,2021-07-25
+CUS-01054,Suleiman Enterprises,South-West,Ibadan North,08042635373,2023-08-25
+CUS-01055,Salami Enterprises,South-South,Calabar,08151766978,2021-02-22
+CUS-01056,Eleme Ventures,South-South,Asaba,08149065941,2022-05-08
+CUS-01057,Ibrahim Superstores,South-South,Eleme,07041861591,2021-07-29
+CUS-01058,Port Harcourt Cash & Carry,South-South,Uyo,08036893461,2020-10-29
+CUS-01059,Uyo Provisions,South-South,Yenagoa,09090498733,2020-07-14
+CUS-01060,Agege Enterprises,South-West,Ikorodu,09054106502,2023-07-05
+CUS-01061,Ikeja Ventures,South-West,Yaba,07095733862,2023-03-03
+CUS-01062,Makinde Provisions,North-Central,Minna,08160454028,2023-04-08
+CUS-01063,Ikeja Trading Co,South-West,Ikeja,07058034735,2024-04-01
+CUS-01064,Uche Provisions,North-Central,Makurdi,08115892805,2024-04-02
+CUS-01065,Ogunleye Wholesale,South-West,Badagry,08055609531,2019-09-01
+CUS-01066,Adebayo Mart,North-Central,Lugbe,07012817734,2019-10-04
+CUS-01067,Idris Stores,North-Central,Jabi,08050946121,2021-11-10
+CUS-01068,Epe Mart,South-West,Ogbomoso,09018774822,2023-10-03
+CUS-01069,Oshodi Provisions,South-West,Yaba,09060231696,2022-08-20
+CUS-01070,Kubwa Supermarket,North-Central,Makurdi,08081869344,2022-10-08
+CUS-01071,Adeleke Superstores,South-South,Asaba,08078218774,2021-02-21
+CUS-01072,Afolabi Ventures,South-South,Sapele,07032472549,2021-07-26
+CUS-01073,Oshodi Hotel,South-West,Agege,09079644554,2021-10-25
+CUS-01074,Ogbomoso Foods,South-West,Ibadan North,09073586743,2022-11-30
+CUS-01075,Makurdi Superstores,North-Central,Wuse,08039464318,2019-05-27
+CUS-01076,Mushin Provisions,South-West,Ikorodu,09060611218,2021-03-19
+CUS-01077,Ikorodu Hotel,South-West,Lekki,08021278067,2022-10-06
+CUS-01078,Bello Supermarket,South-West,Ibadan North,08167190488,2021-11-21
+CUS-01079,Danjuma Ventures,South-West,Agege,08161320957,2024-04-12
+CUS-01080,Yakubu Stores,South-West,Agege,07049529512,2019-09-11
+CUS-01081,Afolabi Wholesale,North-Central,Kubwa,07025916596,2024-01-07
+CUS-01082,Eze Provisions,South-West,Epe,08143557605,2022-09-21
+CUS-01083,Lugbe Provisions,North-Central,Makurdi,08082897088,2019-04-21
+CUS-01084,Ikorodu Trading Co,South-West,Oshodi,09064459981,2019-10-23
+CUS-01085,Minna Superstores,North-Central,Jos,08063352256,2023-02-21
+CUS-01086,Ibadan North Provisions,South-West,Ogbomoso,09071928212,2022-07-05
+CUS-01087,Lawal Cash & Carry,South-South,Calabar,08068878740,2021-11-23
+CUS-01088,Balogun Enterprises,South-South,Eleme,08111299382,2021-08-13
+CUS-01089,Uyo Provisions,South-South,Calabar,09064139232,2020-02-21
+CUS-01090,Taiwo Enterprises,South-South,Port Harcourt,07028674348,2023-07-23
+CUS-01091,Sapele Superstores,South-South,Sapele,09061179711,2023-04-10
+CUS-01092,Nwachukwu Provisions,South-South,Yenagoa,07054136340,2021-03-23
+CUS-01093,Asaba Stores,South-South,Eleme,07084209891,2023-06-04
+CUS-01094,Ibadan North Supermarket,South-West,Surulere,08019326928,2019-04-23
+CUS-01095,Ogunleye Wholesale,South-South,Bonny,07071023927,2024-02-05
+CUS-01096,Taiwo Cash & Carry,South-West,Mushin,08024863801,2023-09-11
+CUS-01097,Adewale Cash & Carry,North-Central,Kubwa,08037605500,2022-09-06
+CUS-01098,Ibadan North Mart,South-West,Abeokuta,08188851835,2023-04-13
+CUS-01099,Lugbe Provisions,North-Central,Wuse,08069825080,2024-01-22
+CUS-01100,Warri Hotel,South-South,Uyo,09071767610,2021-10-28
+CUS-01101,Lugbe Superstores,North-Central,Minna,08149922892,2022-03-24
+CUS-01102,Gwarinpa Cash & Carry,North-Central,Kubwa,08092911191,2020-04-22
+CUS-01103,Ibrahim Mart,South-West,Badagry,07062821563,2020-07-02
+CUS-01104,Fashola Wholesale,South-South,Bonny,08199477179,2019-04-13
+CUS-01105,Yaba Ventures,South-West,Mushin,07059490380,2023-12-28
+CUS-01106,Yusuf Trading Co,North-Central,Lokoja,09032124330,2023-01-01
+CUS-01107,Adebayo Stores,South-West,Epe,09061157834,2022-06-29
+CUS-01108,Lokoja Supermarket,North-Central,Wuse,08125392453,2020-06-10
+CUS-01109,Mohammed Ventures,South-South,Yenagoa,09019158638,2023-12-15
+CUS-01110,Uche Mart,North-Central,Minna,08131658249,2023-06-18
+CUS-01111,Eleme Wholesale,South-South,Obio-Akpor,09032609429,2023-12-26
+CUS-01112,Oladipo Mart,North-Central,Minna,08133882733,2023-03-16
+CUS-01113,Jos Provisions,North-Central,Minna,07095200126,2019-11-14
+CUS-01114,Garki Cash & Carry,North-Central,Lugbe,09017035056,2021-01-23
+CUS-01115,Oshodi Provisions,South-West,Yaba,08142016340,2023-04-19
+CUS-01116,Adeyemi Trading Co,South-West,Alimosho,08099784876,2024-01-24
+CUS-01117,Oshodi Superstores,South-West,Surulere,08015907259,2022-02-01
+CUS-01118,Jabi Hotel,North-Central,Kubwa,08082706099,2022-03-15
+CUS-01119,Makinde Stores,South-South,Uyo,08133303091,2024-05-02
+CUS-01120,Nwachukwu Provisions,South-West,Ibadan North,08018860555,2020-09-23
+CUS-01121,Uyo Supermarket,South-South,Obio-Akpor,08065176483,2022-09-23
+CUS-01122,Akinola Foods,South-South,Bonny,08043814834,2019-01-15
+CUS-01123,Sani Foods,South-West,Mushin,08054566533,2023-06-08
+CUS-01124,Jabi Superstores,North-Central,Minna,07054977061,2024-04-26
+CUS-01125,Lokoja Hotel,North-Central,Kubwa,07041219836,2024-04-19
+CUS-01126,Lugbe Provisions,North-Central,Lokoja,08093183615,2023-12-22
+CUS-01127,Olawale Provisions,South-West,Surulere,09037432134,2020-10-26
+CUS-01128,Abeokuta Ventures,South-West,Badagry,08128021013,2022-11-10
+CUS-01129,Ikeja Hotel,South-West,Oshodi,09096979318,2019-11-11
+CUS-01130,Suleiman Trading Co,South-West,Agege,08037624348,2021-05-24
+CUS-01131,Yaba Superstores,South-West,Badagry,08091612860,2019-07-11
+CUS-01132,Uche Superstores,South-West,Ikeja,07075987111,2024-01-10
+CUS-01133,Dada Provisions,South-South,Eleme,07033310374,2021-02-04
+CUS-01134,Kubwa Provisions,North-Central,Jos,07067208939,2020-05-09
+CUS-01135,Lawal Provisions,South-West,Mushin,08091315976,2023-01-09
+CUS-01136,Epe Provisions,South-West,Ikorodu,09020739561,2019-02-01
+CUS-01137,Fashola Ventures,South-South,Yenagoa,09077819218,2020-12-31
+CUS-01138,Minna Supermarket,North-Central,Lokoja,09021171324,2020-02-29
+CUS-01139,Ugwu Mart,South-South,Bonny,08044533110,2022-04-14
+CUS-01140,Nwachukwu Hotel,South-West,Abeokuta,09019655576,2022-07-20
+CUS-01141,Dada Provisions,South-West,Ikeja,07077202790,2020-04-28
+CUS-01142,Uba Cash & Carry,North-Central,Jabi,09075706438,2022-09-10
+CUS-01143,Lokoja Supermarket,North-Central,Garki,09085914700,2023-07-05
+CUS-01144,Okorie Foods,South-West,Agege,09095225538,2020-07-22
+CUS-01145,Nwachukwu Cash & Carry,South-West,Badagry,08042528051,2021-09-27
+CUS-01146,Epe Foods,South-West,Epe,07099345471,2020-10-19
+CUS-01147,Epe Mart,South-West,Ikorodu,08090819114,2021-03-05
+CUS-01148,Port Harcourt Stores,South-South,Obio-Akpor,09063373950,2020-06-16
+CUS-01149,Jos Provisions,North-Central,Lokoja,08067293719,2023-01-01
+CUS-01150,Ugwu Superstores,North-Central,Lokoja,08165245223,2020-03-13
+CUS-01151,Obio-Akpor Stores,South-South,Sapele,08129154679,2022-11-29
+CUS-01152,Lokoja Foods,North-Central,Lugbe,07032602089,2019-11-04
+CUS-01153,Yusuf Foods,South-West,Mushin,09097848347,2022-10-20
+CUS-01154,Chukwu Mart,North-Central,Gwarinpa,08075293067,2023-05-26
+CUS-01155,Aliyu Provisions,North-Central,Gwarinpa,08017916438,2020-03-19
+CUS-01156,Ikorodu Cash & Carry,South-West,Ibadan North,07095420677,2023-06-27
+CUS-01157,Adesanya Wholesale,South-West,Lekki,08113981790,2021-02-18
+CUS-01158,Hassan Stores,South-West,Ikeja,07045712753,2020-03-15
+CUS-01159,Port Harcourt Stores,South-South,Warri,07060421010,2021-01-14
+CUS-01160,Lugbe Ventures,North-Central,Minna,08191117376,2022-01-04
+CUS-01161,Agege Trading Co,South-West,Alimosho,08058480869,2020-09-08
+CUS-01162,Agege Trading Co,South-West,Oshodi,07010414016,2021-11-09
+CUS-01163,Rabiu Mart,South-South,Port Harcourt,07081219864,2022-11-07
+CUS-01164,Warri Trading Co,South-South,Yenagoa,09079110587,2022-02-06
+CUS-01165,Sani Trading Co,North-Central,Wuse,08116141035,2019-11-22
+CUS-01166,Kubwa Enterprises,North-Central,Minna,09092220752,2019-12-19
+CUS-01167,Anyanwu Superstores,South-West,Alimosho,07061654839,2022-10-09
+CUS-01168,Jos Enterprises,North-Central,Jos,07027161260,2021-08-17
+CUS-01169,Abubakar Hotel,South-South,Yenagoa,08069899586,2019-01-24
+CUS-01170,Yaba Provisions,South-West,Yaba,08098549488,2020-06-29
+CUS-01171,Haruna Supermarket,South-West,Surulere,08161471131,2020-02-14
+CUS-01172,Epe Ventures,South-West,Epe,07099318726,2023-08-28
+CUS-01173,Yenagoa Stores,South-South,Uyo,08087305664,2020-02-14
+CUS-01174,Eze Cash & Carry,South-South,Calabar,09041322048,2023-03-02
+CUS-01175,Adesanya Stores,South-West,Agege,08025583513,2021-03-16
+CUS-01176,Mushin Enterprises,South-West,Badagry,07051714724,2024-01-27
+CUS-01177,Nwachukwu Cash & Carry,North-Central,Jabi,08126952687,2021-07-03
+CUS-01178,Garki Cash & Carry,North-Central,Wuse,09052402900,2023-08-10
+CUS-01179,Ogunleye Ventures,South-South,Yenagoa,08090727321,2022-10-30
+CUS-01180,Oshodi Foods,South-West,Ikeja,08151458705,2021-08-08
+CUS-01181,Haruna Enterprises,South-South,Yenagoa,08076441201,2022-10-14
+CUS-01182,Danjuma Trading Co,North-Central,Gwarinpa,08040208616,2020-06-28
+CUS-01183,Gwarinpa Ventures,North-Central,Lokoja,08198483078,2019-04-21
+CUS-01184,Bonny Cash & Carry,South-South,Uyo,09073541573,2022-06-19
+CUS-01185,Nnaji Foods,North-Central,Lugbe,08136184828,2020-06-27
+CUS-01186,Balogun Trading Co,South-South,Sapele,07050812122,2021-11-07
+CUS-01187,Minna Foods,North-Central,Minna,08129437798,2023-03-30
+CUS-01188,Badagry Superstores,South-West,Ikeja,08187266743,2023-11-06
+CUS-01189,Gwarinpa Cash & Carry,North-Central,Lokoja,08017560687,2023-11-18
+CUS-01190,Adeleke Stores,South-West,Ogbomoso,08189643778,2021-12-26
+CUS-01191,Calabar Provisions,South-South,Port Harcourt,07042327067,2022-03-12
+CUS-01192,Surulere Superstores,South-West,Badagry,09098384904,2023-12-01
+CUS-01193,Calabar Wholesale,South-South,Yenagoa,08111557250,2023-09-30
+CUS-01194,Yakubu Superstores,South-West,Ogbomoso,08013090599,2021-02-16
+CUS-01195,Lugbe Foods,North-Central,Garki,08061534222,2021-09-14
+CUS-01196,Asaba Enterprises,South-South,Eleme,07053651494,2024-01-23
+CUS-01197,Jos Mart,North-Central,Lokoja,07062854477,2021-04-20
+CUS-01198,Bonny Ventures,South-South,Obio-Akpor,07037845315,2020-09-22
+CUS-01199,Garba Foods,South-South,Eleme,07084453495,2021-11-29
+CUS-01200,Balogun Enterprises,South-South,Warri,08021787125,2021-04-07
+CUS-01201,Lekki Stores,South-West,Ogbomoso,08158796148,2021-05-14
+CUS-01202,Epe Supermarket,South-West,Yaba,08116196330,2019-02-11
+CUS-01203,Asaba Superstores,South-South,Bonny,09028771026,2021-03-08
+CUS-01204,Nwosu Enterprises,South-West,Ogbomoso,08023288780,2020-09-13
+CUS-01205,Lawal Mart,South-South,Asaba,08028013093,2021-01-15
+CUS-01206,Lugbe Mart,North-Central,Makurdi,09019980384,2021-05-02
+CUS-01207,Fashola Cash & Carry,South-West,Ibadan North,07044115380,2020-08-16
+CUS-01208,Ogbomoso Provisions,South-West,Lekki,08194975906,2020-07-05
+CUS-01209,Makurdi Superstores,North-Central,Jos,08066329364,2019-10-24
+CUS-01210,Mushin Cash & Carry,South-West,Ikeja,08020405175,2022-11-26
+CUS-01211,Musa Cash & Carry,South-West,Lekki,08195923168,2023-12-02
+CUS-01212,Oladipo Mart,South-West,Alimosho,08046728250,2024-05-12
+CUS-01213,Yaba Cash & Carry,South-West,Lekki,07033586265,2021-06-19
+CUS-01214,Magaji Ventures,North-Central,Garki,08186793756,2019-07-26
+CUS-01215,Akinola Supermarket,South-West,Surulere,08162286305,2023-05-28
+CUS-01216,Oshodi Hotel,South-West,Ogbomoso,09074003316,2021-02-04
+CUS-01217,Orji Foods,South-West,Surulere,08029148862,2022-04-18
+CUS-01218,Suleiman Superstores,North-Central,Jabi,08091698732,2022-01-27
+CUS-01219,Nwosu Ventures,North-Central,Jos,08147020332,2019-01-29
+CUS-01220,Alimosho Provisions,South-West,Ikorodu,07051025192,2022-02-20
+CUS-01221,Obio-Akpor Stores,South-South,Warri,07032161108,2021-03-11
+CUS-01222,Ogbomoso Ventures,South-West,Oshodi,07066906118,2020-08-15
+CUS-01223,Minna Ventures,North-Central,Jos,07064421457,2024-05-04
+CUS-01224,Wuse Foods,North-Central,Lokoja,08142779491,2020-04-10
+CUS-01225,Jos Superstores,North-Central,Makurdi,07091520297,2021-11-26
+CUS-01226,Bonny Provisions,South-South,Eleme,07059264742,2019-09-17
+CUS-01227,Adeleke Cash & Carry,South-West,Ibadan North,09032881970,2022-04-29
+CUS-01228,Abubakar Provisions,South-South,Bonny,07048931830,2022-09-28
+CUS-01229,Adeyemi Foods,South-West,Epe,09039187415,2019-03-30
+CUS-01230,Epe Hotel,South-West,Alimosho,07072150455,2019-06-01
+CUS-01231,Nwosu Supermarket,North-Central,Makurdi,09054097476,2022-09-29
+CUS-01232,Suleiman Mart,South-West,Mushin,08111189670,2023-11-07
+CUS-01233,Nnaji Hotel,South-West,Surulere,09026621878,2019-04-19
+CUS-01234,Ibrahim Wholesale,South-West,Yaba,09063064163,2022-04-27
+CUS-01235,Gbadamosi Hotel,South-West,Oshodi,08124588794,2021-12-16
+CUS-01236,Balogun Trading Co,North-Central,Lokoja,07058215939,2019-06-19
+CUS-01237,Lawal Wholesale,South-South,Port Harcourt,08062955068,2022-01-21
+CUS-01238,Gwarinpa Superstores,North-Central,Kubwa,09099287389,2022-12-05
+CUS-01239,Nwankwo Superstores,South-West,Badagry,08053605688,2020-03-16
+CUS-01240,Bonny Foods,South-South,Calabar,08024728084,2019-01-18
+CUS-01241,Dada Trading Co,South-West,Ogbomoso,07041743155,2024-02-16
+CUS-01242,Garba Foods,North-Central,Wuse,09074450415,2022-10-18
+CUS-01243,Onyekachi Provisions,South-West,Abeokuta,08078617449,2023-05-16
+CUS-01244,Alimosho Wholesale,South-West,Badagry,08099433358,2019-10-26
+CUS-01245,Idris Stores,South-West,Badagry,08035322723,2019-08-17
+CUS-01246,Kubwa Stores,North-Central,Gwarinpa,09015149455,2022-11-19
+CUS-01247,Calabar Supermarket,South-South,Sapele,08022205146,2019-07-28
+CUS-01248,Salami Foods,South-West,Epe,08039766168,2022-07-14
+CUS-01249,Onyekachi Superstores,South-West,Ikeja,08124771325,2022-11-28
+CUS-01250,Badagry Cash & Carry,South-West,Yaba,08116382911,2023-05-26
+CUS-01251,Mohammed Trading Co,South-West,Yaba,08173358574,2022-11-06
+CUS-01252,Gbadamosi Wholesale,South-South,Yenagoa,08154866590,2022-09-17
+CUS-01253,Epe Hotel,South-West,Oshodi,08054454486,2022-05-25
+CUS-01254,Yusuf Enterprises,North-Central,Jos,08141977671,2020-10-09
+CUS-01255,Lekki Stores,South-West,Surulere,07015508152,2021-02-16
+CUS-01256,Warri Provisions,South-South,Yenagoa,07020050169,2019-02-20
+CUS-01257,Suleiman Ventures,North-Central,Kubwa,08015880227,2023-09-14
+CUS-01258,Ikorodu Hotel,South-West,Agege,08170194264,2020-11-20
+CUS-01259,Garki Ventures,North-Central,Lokoja,07032405653,2021-01-21
+CUS-01260,Ikorodu Supermarket,South-West,Abeokuta,07035526992,2020-04-07
+CUS-01261,Ugwu Hotel,South-South,Obio-Akpor,08068753131,2020-03-17
+CUS-01262,Lokoja Cash & Carry,North-Central,Makurdi,08137772949,2023-05-22
+CUS-01263,Abeokuta Foods,South-West,Ikeja,09077621275,2020-06-13
+CUS-01264,Ogunleye Wholesale,North-Central,Lugbe,07032965874,2023-03-01
+CUS-01265,Okonkwo Superstores,South-West,Surulere,08127847118,2022-11-26
+CUS-01266,Okafor Provisions,South-South,Bonny,07010187899,2020-10-12
+CUS-01267,Agege Trading Co,South-West,Lekki,08127933045,2022-02-16
+CUS-01268,Adeleke Superstores,South-South,Port Harcourt,08139431208,2020-04-27
+CUS-01269,Adebayo Hotel,South-South,Sapele,07061268618,2019-02-12
+CUS-01270,Makurdi Hotel,North-Central,Kubwa,09039613670,2022-08-07
+CUS-01271,Oshodi Cash & Carry,South-West,Surulere,09041101353,2020-04-29
+CUS-01272,Anyanwu Stores,North-Central,Minna,08071658297,2023-05-20
+CUS-01273,Aliyu Ventures,South-South,Eleme,08112824921,2022-09-05
+CUS-01274,Obi Superstores,South-West,Abeokuta,08019321974,2023-08-13
+CUS-01275,Yakubu Cash & Carry,South-West,Lekki,08011582229,2021-01-13
+CUS-01276,Adesanya Supermarket,South-West,Oshodi,07027740771,2023-01-10
+CUS-01277,Sani Enterprises,South-South,Port Harcourt,07024272571,2021-05-18
+CUS-01278,Haruna Stores,North-Central,Kubwa,08074481609,2020-02-28
+CUS-01279,Fashola Wholesale,North-Central,Jabi,09030738427,2023-01-19
+CUS-01280,Epe Hotel,South-West,Lekki,07015976158,2023-11-04
+CUS-01281,Rabiu Cash & Carry,North-Central,Gwarinpa,07040106747,2024-04-13
+CUS-01282,Nwosu Superstores,South-West,Ikorodu,08061639439,2020-07-26
+CUS-01283,Obio-Akpor Ventures,South-South,Eleme,07040134894,2023-11-06
+CUS-01284,Adewale Enterprises,South-South,Uyo,07058384619,2019-03-30
+CUS-01285,Okonkwo Enterprises,South-South,Eleme,08067529530,2021-06-11
+CUS-01286,Onyekachi Mart,South-West,Epe,08193853635,2019-11-01
+CUS-01287,Ikorodu Ventures,South-West,Epe,08145621515,2019-11-15
+CUS-01288,Port Harcourt Mart,South-South,Eleme,08129834720,2022-03-25
+CUS-01289,Ibadan North Stores,South-West,Lekki,09047376435,2023-08-10
+CUS-01290,Surulere Cash & Carry,South-West,Agege,08176331270,2022-01-15
+CUS-01291,Abeokuta Superstores,South-West,Agege,08097772249,2019-04-02
+CUS-01292,Nwankwo Hotel,South-West,Ogbomoso,09081467508,2021-05-30
+CUS-01293,Bello Foods,South-South,Calabar,08021710526,2023-02-06
+CUS-01294,Adebayo Trading Co,South-West,Ogbomoso,09027930505,2019-04-03
+CUS-01295,Agege Mart,South-West,Ikorodu,09029346175,2019-09-26
+CUS-01296,Calabar Provisions,South-South,Warri,08017498162,2020-03-25
+CUS-01297,Badagry Mart,South-West,Mushin,07067003442,2022-05-02
+CUS-01298,Bello Stores,South-West,Ibadan North,08014051460,2023-08-06
+CUS-01299,Adewale Supermarket,South-West,Abeokuta,09030094705,2020-02-16
+CUS-01300,Badagry Hotel,South-West,Badagry,08173107095,2022-02-10
+CUS-01301,Yakubu Foods,North-Central,Wuse,08124933959,2023-07-18
+CUS-01302,Abeokuta Mart,South-West,Ogbomoso,08011458621,2022-03-13
+CUS-01303,Yenagoa Hotel,South-South,Asaba,08140509683,2022-01-16
+CUS-01304,Afolabi Hotel,South-South,Calabar,08038435937,2022-03-04
+CUS-01305,Gbadamosi Foods,North-Central,Jos,07072872428,2021-09-28
+CUS-01306,Alimosho Cash & Carry,South-West,Surulere,07059858951,2020-10-16
+CUS-01307,Akinola Stores,South-West,Agege,08113764654,2023-01-28
+CUS-01308,Adewale Provisions,South-West,Abeokuta,07051489399,2023-05-14
+CUS-01309,Wuse Provisions,North-Central,Lugbe,07086520583,2021-04-02
+CUS-01310,Ibadan North Supermarket,South-West,Ikeja,08122510559,2019-02-16
+CUS-01311,Oshodi Wholesale,South-West,Mushin,08052207776,2020-03-15
+CUS-01312,Balogun Foods,South-West,Epe,07054468774,2022-02-18
+CUS-01313,Orji Mart,South-South,Port Harcourt,09074015552,2021-02-17
+CUS-01314,Fashola Mart,South-South,Yenagoa,07094013952,2023-11-23
+CUS-01315,Makinde Superstores,South-South,Eleme,08077326285,2021-07-10
+CUS-01316,Bonny Trading Co,South-South,Yenagoa,08055502589,2022-10-15
+CUS-01317,Mushin Supermarket,South-West,Badagry,09042092885,2023-04-01
+CUS-01318,Eleme Enterprises,South-South,Yenagoa,07012005448,2023-08-14
+CUS-01319,Danjuma Stores,South-South,Yenagoa,07071043277,2022-08-29
+CUS-01320,Adewale Wholesale,South-West,Abeokuta,08157428314,2023-12-02
+CUS-01321,Ibadan North Wholesale,South-West,Ibadan North,08169330327,2020-10-09
+CUS-01322,Sapele Ventures,South-South,Port Harcourt,08148470165,2022-03-03
+CUS-01323,Epe Mart,South-West,Ibadan North,08178783800,2019-09-06
+CUS-01324,Afolabi Superstores,North-Central,Lokoja,09045276100,2019-07-02
+CUS-01325,Sapele Superstores,South-South,Port Harcourt,08085269356,2024-05-16
+CUS-01326,Nwachukwu Mart,South-West,Abeokuta,09019795032,2023-03-03
+CUS-01327,Afolabi Trading Co,South-West,Ibadan North,09096232807,2021-06-02
+CUS-01328,Afolabi Mart,South-South,Obio-Akpor,09068131630,2023-04-20
+CUS-01329,Eze Enterprises,South-West,Ibadan North,08073917095,2023-10-11
+CUS-01330,Dada Ventures,South-West,Surulere,08052974720,2021-03-26
+CUS-01331,Mushin Supermarket,South-West,Oshodi,08167728351,2021-10-06
+CUS-01332,Adebayo Superstores,South-West,Mushin,08143832435,2020-11-08
+CUS-01333,Oladipo Cash & Carry,South-West,Lekki,08170588691,2019-07-14
+CUS-01334,Okorie Mart,South-West,Alimosho,07022407255,2019-05-27
+CUS-01335,Hassan Wholesale,South-South,Eleme,08056879065,2019-02-19
+CUS-01336,Abdullahi Mart,South-West,Badagry,09057606004,2019-04-20
+CUS-01337,Adeyemi Hotel,North-Central,Makurdi,08020443308,2020-05-13
+CUS-01338,Jabi Superstores,North-Central,Jabi,07030200610,2019-05-23
+CUS-01339,Taiwo Stores,South-West,Oshodi,09045272780,2021-07-01
+CUS-01340,Gwarinpa Superstores,North-Central,Minna,07014897064,2023-03-12
+CUS-01341,Abdullahi Hotel,North-Central,Gwarinpa,09039009455,2022-06-20
+CUS-01342,Abubakar Enterprises,South-West,Ikeja,08158827665,2024-04-29
+CUS-01343,Magaji Stores,South-West,Badagry,09097095450,2021-11-11
+CUS-01344,Rabiu Hotel,South-West,Mushin,08125217605,2019-03-23
+CUS-01345,Gbadamosi Hotel,South-West,Abeokuta,08082848400,2021-12-22
+CUS-01346,Badagry Superstores,South-West,Mushin,08193265522,2019-02-28
+CUS-01347,Obio-Akpor Stores,South-South,Obio-Akpor,07092713066,2019-03-11
+CUS-01348,Hassan Enterprises,South-West,Ogbomoso,07095030306,2021-12-05
+CUS-01349,Lugbe Cash & Carry,North-Central,Kubwa,08071019389,2021-04-29
+CUS-01350,Anyanwu Stores,South-West,Agege,09065423162,2019-04-30
+CUS-01351,Calabar Supermarket,South-South,Uyo,08078123659,2022-10-30
+CUS-01352,Ikorodu Cash & Carry,South-West,Epe,08010558017,2019-05-16
+CUS-01353,Adebayo Mart,South-South,Uyo,08154975010,2023-06-18
+CUS-01354,Warri Hotel,South-South,Calabar,08092714079,2020-10-21
+CUS-01355,Aliyu Cash & Carry,South-West,Surulere,09033315937,2022-02-27
+CUS-01356,Onyekachi Provisions,South-South,Obio-Akpor,08077680235,2023-10-03
+CUS-01357,Lugbe Hotel,North-Central,Gwarinpa,08137348550,2023-11-24
+CUS-01358,Sani Enterprises,South-West,Surulere,07092959929,2020-06-13
+CUS-01359,Makurdi Cash & Carry,North-Central,Wuse,08070895423,2020-11-10
+CUS-01360,Okafor Superstores,North-Central,Kubwa,08136015276,2021-06-01
+CUS-01361,Calabar Wholesale,South-South,Port Harcourt,08121135154,2019-03-06
+CUS-01362,Bello Stores,South-West,Lekki,09089979598,2023-09-24
+CUS-01363,Gbadamosi Stores,South-West,Lekki,09058505926,2019-04-20
+CUS-01364,Nwankwo Supermarket,South-South,Calabar,07075299245,2019-01-15
+CUS-01365,Uba Cash & Carry,North-Central,Jabi,09031622965,2023-05-30
+CUS-01366,Epe Enterprises,South-West,Epe,07025731275,2022-06-30
+CUS-01367,Usman Enterprises,South-South,Bonny,07031258513,2021-06-29
+CUS-01368,Kubwa Enterprises,North-Central,Wuse,07079524101,2021-07-19
+CUS-01369,Chukwu Stores,South-South,Warri,07053961638,2023-08-23
+CUS-01370,Surulere Wholesale,South-West,Ikorodu,09036741208,2019-01-27
+CUS-01371,Epe Wholesale,South-West,Ibadan North,09068527249,2021-07-18
+CUS-01372,Asaba Mart,South-South,Warri,08162724203,2023-11-04
+CUS-01373,Lugbe Mart,North-Central,Kubwa,09068179582,2019-06-20
+CUS-01374,Ikorodu Trading Co,South-West,Abeokuta,07091509842,2022-04-09
+CUS-01375,Agege Superstores,South-West,Alimosho,07070317901,2023-06-25
+CUS-01376,Asaba Enterprises,South-South,Calabar,08191051682,2019-10-13
+CUS-01377,Bonny Trading Co,South-South,Calabar,07025388056,2023-05-30
+CUS-01378,Gbadamosi Trading Co,South-South,Warri,07038881529,2020-09-25
+CUS-01379,Taiwo Stores,South-West,Ikeja,08111463110,2020-05-25
+CUS-01380,Idris Trading Co,South-West,Yaba,07061753132,2022-10-30
+CUS-01381,Akinola Hotel,North-Central,Lugbe,07087034049,2019-05-31
+CUS-01382,Lokoja Trading Co,North-Central,Jabi,08036457435,2024-02-21
+CUS-01383,Oladipo Cash & Carry,South-South,Obio-Akpor,07070771788,2023-06-17
+CUS-01384,Kubwa Enterprises,North-Central,Wuse,08112393947,2020-10-22
+CUS-01385,Port Harcourt Ventures,South-South,Asaba,08064064349,2024-03-18
+CUS-01386,Port Harcourt Trading Co,South-South,Port Harcourt,07073068018,2023-11-20
+CUS-01387,Salami Wholesale,South-South,Uyo,08163733308,2023-12-21
+CUS-01388,Usman Supermarket,North-Central,Lokoja,08171012928,2021-08-26
+CUS-01389,Obio-Akpor Trading Co,South-South,Sapele,07013930993,2023-03-01
+CUS-01390,Akinola Trading Co,South-West,Alimosho,09040379009,2023-06-19
+CUS-01391,Oshodi Trading Co,South-West,Alimosho,07017045220,2022-12-18
+CUS-01392,Adeleke Wholesale,South-South,Obio-Akpor,08154201786,2020-07-24
+CUS-01393,Lugbe Foods,North-Central,Gwarinpa,08088309763,2021-11-01
+CUS-01394,Dada Enterprises,South-West,Alimosho,09095483760,2021-11-29
+CUS-01395,Okafor Enterprises,North-Central,Minna,09047653656,2022-08-12
+CUS-01396,Afolabi Wholesale,South-South,Asaba,07057380159,2021-04-15
+CUS-01397,Yakubu Foods,South-South,Warri,07020085710,2021-08-24
+CUS-01398,Makinde Ventures,South-West,Alimosho,09035221850,2021-09-07
+CUS-01399,Bello Hotel,South-West,Ogbomoso,08151852500,2020-06-11
+CUS-01400,Orji Stores,South-West,Surulere,08058807442,2022-04-04
+CUS-01401,Bonny Provisions,South-South,Calabar,08019212612,2022-11-10
+CUS-01402,Alimosho Enterprises,South-West,Epe,07029768893,2021-10-31
+CUS-01403,Warri Supermarket,South-South,Yenagoa,08045803474,2024-04-04
+CUS-01404,Nwosu Wholesale,South-West,Lekki,07057570364,2021-12-31
+CUS-01405,Onyekachi Hotel,South-West,Agege,07069235732,2022-11-21
+CUS-01406,Nwachukwu Foods,South-West,Mushin,08049460803,2023-05-11
+CUS-01407,Ogbomoso Enterprises,South-West,Ibadan North,09024654503,2020-08-06
+CUS-01408,Adesanya Provisions,South-West,Lekki,07014789956,2021-03-11
+CUS-01409,Akinola Wholesale,South-West,Yaba,09062601013,2022-03-20
+CUS-01410,Badagry Wholesale,South-West,Ibadan North,08032955139,2020-01-05
+CUS-01411,Badagry Enterprises,South-West,Ikorodu,07022649023,2023-05-19
+CUS-01412,Minna Foods,North-Central,Lugbe,08032848229,2022-08-26
+CUS-01413,Eze Ventures,North-Central,Gwarinpa,07099393218,2021-10-04
+CUS-01414,Okorie Stores,South-West,Surulere,07089726022,2022-06-11
+CUS-01415,Yenagoa Provisions,South-South,Yenagoa,07016063489,2019-10-29
+CUS-01416,Ikorodu Provisions,South-West,Ogbomoso,08029674031,2020-01-27
+CUS-01417,Mohammed Trading Co,South-West,Ibadan North,09057081034,2021-05-11
+CUS-01418,Chukwu Ventures,South-West,Ikeja,08150417525,2020-06-08
+CUS-01419,Ibrahim Enterprises,South-West,Ibadan North,07046230390,2020-07-28
+CUS-01420,Gwarinpa Cash & Carry,North-Central,Kubwa,08057941821,2021-08-17
+CUS-01421,Badagry Cash & Carry,South-West,Agege,08021982151,2023-05-02
+CUS-01422,Akinola Wholesale,South-South,Bonny,09080720244,2023-06-09
+CUS-01423,Agege Cash & Carry,South-West,Abeokuta,09047077262,2022-09-07
+CUS-01424,Badagry Trading Co,South-West,Alimosho,07068177965,2019-12-17
+CUS-01425,Oshodi Trading Co,South-West,Ikorodu,07011118688,2021-08-15
+CUS-01426,Abubakar Mart,South-South,Bonny,08193724365,2021-04-15
+CUS-01427,Olawale Stores,North-Central,Lugbe,07070915814,2024-03-10
+CUS-01428,Lekki Supermarket,South-West,Ibadan North,08110683201,2022-01-02
+CUS-01429,Ikeja Wholesale,South-West,Surulere,08148019256,2020-01-06
+CUS-01430,Bonny Mart,South-South,Obio-Akpor,08129145387,2020-04-22
+CUS-01431,Lekki Wholesale,South-West,Yaba,07073508844,2019-03-10
+CUS-01432,Epe Cash & Carry,South-West,Mushin,09023171952,2019-05-31
+CUS-01433,Salami Mart,South-West,Abeokuta,09053282519,2019-11-28
+CUS-01434,Kubwa Wholesale,North-Central,Gwarinpa,09084394708,2023-04-20
+CUS-01435,Aliyu Superstores,South-West,Ibadan North,08060461294,2020-01-12
+CUS-01436,Balogun Hotel,South-South,Yenagoa,08177620927,2019-03-06
+CUS-01437,Nwosu Cash & Carry,North-Central,Minna,09065063980,2021-10-31
+CUS-01438,Oshodi Cash & Carry,South-West,Lekki,08092571893,2019-05-02
+CUS-01439,Orji Trading Co,South-West,Surulere,08117185483,2020-03-08
+CUS-01440,Ibrahim Supermarket,South-South,Yenagoa,09017294228,2023-12-11
+CUS-01441,Epe Stores,South-West,Agege,07049000574,2021-03-31
+CUS-01442,Adeleke Stores,South-West,Badagry,07037523284,2021-07-10
+CUS-01443,Ibadan North Mart,South-West,Yaba,08050385068,2020-11-23
+CUS-01444,Ikeja Ventures,South-West,Abeokuta,08025395963,2024-01-16
+CUS-01445,Lekki Hotel,South-West,Lekki,08037419830,2023-11-02
+CUS-01446,Ibadan North Cash & Carry,South-West,Ikeja,07050255085,2022-02-24
+CUS-01447,Okafor Hotel,South-West,Ikorodu,09098336648,2020-12-16
+CUS-01448,Adebayo Mart,South-West,Surulere,08032921098,2021-07-20
+CUS-01449,Anyanwu Ventures,North-Central,Lugbe,08199595102,2023-11-10
+CUS-01450,Ibrahim Wholesale,South-South,Calabar,09024406372,2021-10-25
+CUS-01451,Adebayo Wholesale,South-West,Ibadan North,07085726861,2022-03-27
+CUS-01452,Yakubu Superstores,South-West,Epe,09015721942,2019-04-30
+CUS-01453,Yenagoa Foods,South-South,Yenagoa,08111224073,2023-07-13
+CUS-01454,Ogbomoso Provisions,South-West,Agege,09078859755,2024-01-25
+CUS-01455,Yakubu Foods,South-West,Abeokuta,08171670595,2020-05-29
+CUS-01456,Idris Superstores,South-South,Asaba,09019155005,2019-04-13
+CUS-01457,Anyanwu Enterprises,South-South,Eleme,08127370722,2020-07-03
+CUS-01458,Agege Enterprises,South-West,Abeokuta,09019069088,2024-03-01
+CUS-01459,Yaba Stores,South-West,Epe,07077032883,2019-03-07
+CUS-01460,Ogunleye Foods,North-Central,Kubwa,07033353610,2020-05-02
+CUS-01461,Calabar Stores,South-South,Port Harcourt,08125364411,2024-03-17
+CUS-01462,Hassan Trading Co,South-South,Sapele,07033362909,2022-08-14
+CUS-01463,Balogun Superstores,South-West,Abeokuta,08036268818,2023-01-01
+CUS-01464,Yaba Provisions,South-West,Badagry,08068258950,2019-11-09
+CUS-01465,Garki Enterprises,North-Central,Wuse,07037318624,2024-03-25
+CUS-01466,Uyo Cash & Carry,South-South,Sapele,07055729498,2023-05-19
+CUS-01467,Jos Ventures,North-Central,Kubwa,08086553774,2019-10-12
+CUS-01468,Usman Hotel,South-West,Alimosho,08019013348,2021-12-16
+CUS-01469,Adewale Enterprises,South-West,Lekki,08079423699,2022-09-30
+CUS-01470,Adeleke Enterprises,South-West,Ogbomoso,08113025600,2023-03-01
+CUS-01471,Rabiu Wholesale,South-South,Calabar,08119120472,2019-07-12
+CUS-01472,Obio-Akpor Hotel,South-South,Sapele,08079492537,2019-03-12
+CUS-01473,Usman Supermarket,North-Central,Jos,07088218402,2021-10-11
+CUS-01474,Port Harcourt Supermarket,South-South,Uyo,09045014869,2023-04-18
+CUS-01475,Surulere Provisions,South-West,Ogbomoso,08199031467,2019-04-21
+CUS-01476,Adewale Enterprises,South-South,Sapele,07056418606,2024-01-09
+CUS-01477,Sapele Stores,South-South,Bonny,09027376441,2022-11-25
+CUS-01478,Nwankwo Hotel,North-Central,Kubwa,08167917038,2021-09-27
+CUS-01479,Yaba Supermarket,South-West,Ikeja,07036330066,2021-06-03
+CUS-01480,Abubakar Foods,North-Central,Wuse,09016998168,2022-04-01
+CUS-01481,Calabar Foods,South-South,Calabar,08025513314,2021-12-18
+CUS-01482,Agege Trading Co,South-West,Yaba,08168589370,2019-04-09
+CUS-01483,Bello Supermarket,South-West,Yaba,09081969904,2021-03-26
+CUS-01484,Alimosho Foods,South-West,Yaba,07020282645,2024-02-06
+CUS-01485,Okonkwo Trading Co,South-West,Agege,08049246971,2023-09-10
+CUS-01486,Adesanya Superstores,North-Central,Garki,07043581121,2019-02-27
+CUS-01487,Mohammed Trading Co,North-Central,Kubwa,09050630244,2019-02-20
+CUS-01488,Alimosho Superstores,South-West,Yaba,08152796523,2020-07-03
+CUS-01489,Nwosu Cash & Carry,North-Central,Makurdi,09047551952,2023-12-24
+CUS-01490,Nnaji Provisions,South-West,Ikorodu,08026474964,2022-05-01
+CUS-01491,Wuse Provisions,North-Central,Minna,09025332850,2024-04-19
+CUS-01492,Oladipo Enterprises,South-West,Mushin,08121340498,2024-01-31
+CUS-01493,Ibadan North Supermarket,South-West,Alimosho,09061628627,2021-12-05
+CUS-01494,Gbadamosi Superstores,South-West,Mushin,07098637717,2022-09-16
+CUS-01495,Ikeja Enterprises,South-West,Oshodi,08145236547,2019-11-16
+CUS-01496,Adebayo Trading Co,North-Central,Makurdi,09067384680,2020-01-12
+CUS-01497,Wuse Stores,North-Central,Jos,09048576654,2019-08-09
+CUS-01498,Onyekachi Enterprises,South-South,Sapele,08131816939,2019-01-13
+CUS-01499,Yaba Mart,South-West,Ikeja,08146828381,2023-12-09
+CUS-01500,Asaba Trading Co,South-South,Sapele,09015181637,2020-12-19
+CUS-01501,Okorie Superstores,South-West,Oshodi,07026684124,2022-09-12
+CUS-01502,Okorie Mart,North-Central,Minna,09012317495,2021-12-14
+CUS-01503,Nwosu Ventures,South-West,Epe,08064842825,2024-02-03
+CUS-01504,Usman Hotel,North-Central,Jabi,07069114791,2023-05-30
+CUS-01505,Ikorodu Ventures,South-West,Surulere,08094602558,2023-06-10
+CUS-01506,Ikeja Provisions,South-West,Lekki,07034730353,2020-07-31
+CUS-01507,Taiwo Supermarket,North-Central,Jos,08018162164,2019-01-30
+CUS-01508,Okorie Supermarket,North-Central,Jabi,07090608327,2023-02-07
+CUS-01509,Uche Stores,South-West,Ogbomoso,07041806744,2023-04-11
+CUS-01510,Magaji Superstores,South-West,Mushin,07096152618,2022-01-10
+CUS-01511,Taiwo Enterprises,South-South,Uyo,08164779294,2019-05-22
+CUS-01512,Olawale Enterprises,North-Central,Wuse,08059432646,2024-03-02
+CUS-01513,Bello Supermarket,South-West,Lekki,08052024344,2021-07-21
+CUS-01514,Makurdi Foods,North-Central,Jabi,08060847002,2019-10-05
+CUS-01515,Gwarinpa Cash & Carry,North-Central,Garki,07040142752,2021-04-01
+CUS-01516,Jos Foods,North-Central,Lokoja,07080834264,2019-12-11
+CUS-01517,Nnaji Hotel,South-West,Ibadan North,08146129093,2023-04-29
+CUS-01518,Okafor Trading Co,South-South,Warri,08140989625,2021-11-11
+CUS-01519,Badagry Provisions,South-West,Ibadan North,09058570867,2023-12-21
+CUS-01520,Chukwu Superstores,South-West,Ibadan North,08070259467,2020-01-04
+CUS-01521,Alimosho Mart,South-West,Ogbomoso,08064709486,2020-08-21
+CUS-01522,Okorie Wholesale,North-Central,Jabi,08125832863,2023-12-18
+CUS-01523,Dada Enterprises,South-West,Ibadan North,08034147877,2019-07-04
+CUS-01524,Uba Wholesale,South-West,Oshodi,09023555369,2023-09-17
+CUS-01525,Port Harcourt Foods,South-South,Eleme,07027767441,2021-07-13
+CUS-01526,Calabar Trading Co,South-South,Eleme,09084751326,2023-01-24
+CUS-01527,Magaji Trading Co,North-Central,Makurdi,07016071701,2024-01-02
+CUS-01528,Uche Cash & Carry,North-Central,Minna,09048827999,2020-03-03
+CUS-01529,Gbadamosi Foods,South-West,Oshodi,07030435507,2019-05-25
+CUS-01530,Epe Superstores,South-West,Ibadan North,09053008309,2021-12-16
+CUS-01531,Ikorodu Stores,South-West,Yaba,08176208728,2022-07-04
+CUS-01532,Nnaji Enterprises,South-West,Ogbomoso,09048286573,2022-08-10
+CUS-01533,Surulere Supermarket,South-West,Alimosho,08067785785,2021-07-04
+CUS-01534,Agege Stores,South-West,Agege,08132225454,2023-10-03
+CUS-01535,Ogunleye Mart,South-West,Ikorodu,08191358784,2020-03-11
+CUS-01536,Oladipo Mart,South-West,Lekki,08084110122,2019-09-19
+CUS-01537,Garba Supermarket,North-Central,Jos,08010894575,2021-09-05
+CUS-01538,Makinde Wholesale,South-South,Sapele,09069703357,2021-07-01
+CUS-01539,Adesanya Foods,South-West,Badagry,07069647037,2019-06-08
+CUS-01540,Balogun Wholesale,South-West,Badagry,07057475650,2019-11-30
+CUS-01541,Badagry Stores,South-West,Agege,08078056464,2022-07-16
+CUS-01542,Ogbomoso Superstores,South-West,Oshodi,07052253072,2019-06-01
+CUS-01543,Haruna Hotel,South-South,Uyo,08084916347,2020-09-17
+CUS-01544,Port Harcourt Provisions,South-South,Eleme,09039556025,2020-08-22
+CUS-01545,Nwankwo Mart,South-West,Badagry,09047929886,2023-09-06
+CUS-01546,Ogbomoso Foods,South-West,Badagry,08010429189,2021-12-25
+CUS-01547,Yaba Foods,South-West,Surulere,07066124397,2020-07-24
+CUS-01548,Bello Provisions,South-West,Epe,08174992661,2021-06-11
+CUS-01549,Salami Provisions,North-Central,Lugbe,09075796479,2019-12-14
+CUS-01550,Jos Ventures,North-Central,Lugbe,07039384358,2023-10-15
+CUS-01551,Asaba Cash & Carry,South-South,Yenagoa,08143204963,2020-09-14
+CUS-01552,Taiwo Superstores,South-West,Lekki,08163430642,2020-06-19
+CUS-01553,Alimosho Ventures,South-West,Abeokuta,09041522381,2024-04-03
+CUS-01554,Idris Cash & Carry,South-West,Ikeja,08145112062,2020-08-19
+CUS-01555,Uche Cash & Carry,South-West,Mushin,08117332766,2022-11-30
+CUS-01556,Sani Supermarket,South-West,Ikorodu,09065003974,2023-03-06
+CUS-01557,Makinde Superstores,North-Central,Garki,08127342988,2021-01-10
+CUS-01558,Wuse Cash & Carry,North-Central,Garki,08157338677,2020-02-13
+CUS-01559,Adeleke Hotel,South-South,Warri,08181869924,2023-04-22
+CUS-01560,Calabar Foods,South-South,Warri,08131663301,2019-04-24
+CUS-01561,Musa Foods,South-West,Yaba,07014841900,2019-09-05
+CUS-01562,Lekki Hotel,South-West,Mushin,09015675419,2023-07-16
+CUS-01563,Sani Foods,South-West,Yaba,07046568726,2020-03-19
+CUS-01564,Epe Cash & Carry,South-West,Surulere,08121397317,2023-12-28
+CUS-01565,Oshodi Foods,South-West,Mushin,07011978608,2020-04-03
+CUS-01566,Eleme Stores,South-South,Sapele,09036076367,2019-10-04
+CUS-01567,Taiwo Cash & Carry,North-Central,Jos,07050554420,2022-11-18
+CUS-01568,Yakubu Enterprises,South-West,Ibadan North,09049089390,2022-01-04
+CUS-01569,Ogbomoso Wholesale,South-West,Ibadan North,08181565416,2021-07-30
+CUS-01570,Nwankwo Foods,South-West,Mushin,08183360915,2020-05-30
+CUS-01571,Adebayo Cash & Carry,South-West,Oshodi,08070006771,2022-05-06
+CUS-01572,Salami Trading Co,South-West,Surulere,07022802899,2021-04-10
+CUS-01573,Ibadan North Enterprises,South-West,Yaba,07028969067,2022-02-27
+CUS-01574,Suleiman Enterprises,North-Central,Kubwa,07076225408,2023-01-02
+CUS-01575,Alimosho Mart,South-West,Ikeja,08185874940,2021-01-22
+CUS-01576,Abdullahi Provisions,South-West,Oshodi,09083227680,2021-08-13
+CUS-01577,Agege Ventures,South-West,Badagry,09079045775,2021-04-22
+CUS-01578,Obio-Akpor Stores,South-South,Calabar,07060423728,2023-09-15
+CUS-01579,Mohammed Stores,North-Central,Gwarinpa,08068733846,2019-07-17
+CUS-01580,Onyekachi Ventures,South-South,Eleme,09028772414,2020-03-21
+CUS-01581,Adeyemi Wholesale,South-South,Obio-Akpor,09049490030,2020-05-19
+CUS-01582,Bonny Trading Co,South-South,Sapele,08185673348,2020-10-09
+CUS-01583,Abubakar Provisions,South-West,Oshodi,08179709974,2021-01-10
+CUS-01584,Eze Foods,South-West,Badagry,08032043679,2021-06-24
+CUS-01585,Taiwo Cash & Carry,North-Central,Gwarinpa,08073148560,2024-01-16
+CUS-01586,Abdullahi Provisions,South-South,Warri,07082173099,2021-11-05
+CUS-01587,Igwe Enterprises,South-West,Surulere,07057036977,2020-11-06
+CUS-01588,Sani Supermarket,North-Central,Kubwa,08148143010,2019-10-26
+CUS-01589,Suleiman Wholesale,South-South,Uyo,09044191883,2021-04-09
+CUS-01590,Garki Enterprises,North-Central,Gwarinpa,07039050282,2022-11-06
+CUS-01591,Surulere Hotel,South-West,Abeokuta,09054313350,2021-03-11
+CUS-01592,Asaba Foods,South-South,Sapele,09038092671,2023-06-23
+CUS-01593,Makinde Stores,South-West,Oshodi,08029237874,2023-06-30
+CUS-01594,Adewale Supermarket,South-West,Surulere,09067096991,2020-09-09
+CUS-01595,Hassan Stores,South-West,Yaba,09060641630,2020-01-30
+CUS-01596,Salami Hotel,South-West,Agege,07091252861,2019-09-12
+CUS-01597,Sani Wholesale,South-West,Badagry,08068685794,2021-04-11
+CUS-01598,Ikorodu Superstores,South-West,Lekki,09097522323,2022-06-19
+CUS-01599,Alimosho Ventures,South-West,Oshodi,08166918776,2023-03-22
+CUS-01600,Kubwa Cash & Carry,North-Central,Jabi,08011432428,2023-04-27
+CUS-01601,Adeyemi Enterprises,South-West,Ikorodu,08122631026,2019-04-24
+CUS-01602,Adeyemi Enterprises,South-West,Ikorodu,07096868145,2022-11-16
+CUS-01603,Abdullahi Foods,North-Central,Lugbe,08193922374,2024-02-05
+CUS-01604,Yenagoa Enterprises,South-South,Yenagoa,09033323144,2021-10-06
+CUS-01605,Jos Stores,North-Central,Wuse,08113870432,2020-12-24
+CUS-01606,Mohammed Mart,South-South,Eleme,07066314078,2019-09-28
+CUS-01607,Sani Foods,South-South,Port Harcourt,08123082934,2019-08-11
+CUS-01608,Kubwa Superstores,North-Central,Makurdi,07054649538,2019-09-22
+CUS-01609,Gwarinpa Enterprises,North-Central,Jabi,07099187054,2022-02-27
+CUS-01610,Ikeja Stores,South-West,Yaba,08045787268,2023-12-13
+CUS-01611,Garba Provisions,South-West,Badagry,09033215400,2020-11-08
+CUS-01612,Wuse Wholesale,North-Central,Lugbe,08125799382,2022-07-03
+CUS-01613,Lekki Enterprises,South-West,Ibadan North,07025604379,2019-04-09
+CUS-01614,Surulere Trading Co,South-West,Abeokuta,07032727871,2019-12-30
+CUS-01615,Ibadan North Stores,South-West,Badagry,08051309843,2019-09-22
+CUS-01616,Kubwa Foods,North-Central,Gwarinpa,08117158543,2022-04-17
+CUS-01617,Balogun Enterprises,North-Central,Jabi,09040327888,2019-09-26
+CUS-01618,Surulere Wholesale,South-West,Ikorodu,09045506648,2023-11-25
+CUS-01619,Agege Superstores,South-West,Ogbomoso,09094694930,2020-07-25
+CUS-01620,Rabiu Enterprises,South-South,Calabar,08082202263,2021-03-25
+CUS-01621,Agege Superstores,South-West,Oshodi,08137843059,2022-07-02
+CUS-01622,Rabiu Foods,North-Central,Lugbe,07078890262,2020-01-31
+CUS-01623,Okorie Supermarket,South-West,Lekki,08073781582,2023-08-20
+CUS-01624,Aliyu Cash & Carry,South-West,Epe,07053268043,2020-06-26
+CUS-01625,Adeyemi Mart,South-West,Mushin,09054924348,2022-07-13
+CUS-01626,Nwosu Wholesale,North-Central,Gwarinpa,09083387315,2023-05-17
+CUS-01627,Usman Ventures,North-Central,Makurdi,09063597632,2021-10-06
+CUS-01628,Chukwu Enterprises,South-South,Uyo,09063841858,2022-09-26
+CUS-01629,Yaba Hotel,South-West,Lekki,09067162555,2020-01-29
+CUS-01630,Abeokuta Supermarket,South-West,Surulere,08050343535,2019-06-13
+CUS-01631,Jos Provisions,North-Central,Makurdi,08027433651,2020-09-12
+CUS-01632,Lekki Wholesale,South-West,Oshodi,08056453084,2021-11-05
+CUS-01633,Ibrahim Mart,South-West,Yaba,08050437430,2022-09-11
+CUS-01634,Makinde Cash & Carry,South-West,Lekki,08030688043,2020-07-30
+CUS-01635,Wuse Ventures,North-Central,Gwarinpa,08123410159,2021-10-11
+CUS-01636,Makinde Ventures,North-Central,Lokoja,09042580280,2020-02-21
+CUS-01637,Taiwo Mart,South-South,Calabar,08148009735,2019-10-28
+CUS-01638,Makurdi Cash & Carry,North-Central,Jos,07056555725,2021-09-05
+CUS-01639,Wuse Provisions,North-Central,Makurdi,08041562316,2022-05-08
+CUS-01640,Adeyemi Enterprises,South-West,Abeokuta,09020370954,2020-10-18
+CUS-01641,Okonkwo Provisions,South-West,Ikorodu,09022462163,2022-07-07
+CUS-01642,Dada Wholesale,South-West,Ikorodu,09074512027,2024-03-22
+CUS-01643,Surulere Mart,South-West,Mushin,07072400868,2019-11-24
+CUS-01644,Lekki Superstores,South-West,Alimosho,09011640743,2023-07-08
+CUS-01645,Mushin Superstores,South-West,Ibadan North,07075248523,2020-10-01
+CUS-01646,Yusuf Supermarket,South-South,Asaba,09044715287,2020-04-04
+CUS-01647,Minna Hotel,North-Central,Jabi,09054971462,2019-09-08
+CUS-01648,Idris Mart,North-Central,Lokoja,09020738641,2023-07-30
+CUS-01649,Badagry Enterprises,South-West,Ikorodu,08079108209,2019-11-11
+CUS-01650,Lokoja Supermarket,North-Central,Minna,08115347831,2023-09-27
+CUS-01651,Adeleke Enterprises,South-South,Uyo,08167136827,2022-07-11
+CUS-01652,Wuse Hotel,North-Central,Lugbe,08049357964,2022-06-02
+CUS-01653,Salami Superstores,South-West,Ikeja,07057948542,2020-04-25
+CUS-01654,Yaba Mart,South-West,Lekki,07026918765,2020-05-05
+CUS-01655,Oladipo Trading Co,South-West,Ibadan North,08080270865,2021-03-24
+CUS-01656,Chukwu Supermarket,South-West,Surulere,07061259494,2021-07-18
+CUS-01657,Sani Foods,South-South,Asaba,09063786357,2024-04-17
+CUS-01658,Badagry Superstores,South-West,Badagry,07068174698,2023-10-07
+CUS-01659,Asaba Enterprises,South-South,Bonny,08016554015,2022-04-27
+CUS-01660,Onyekachi Wholesale,North-Central,Gwarinpa,08177318657,2020-08-26
+CUS-01661,Gbadamosi Superstores,South-West,Ikorodu,08110677940,2022-02-19
+CUS-01662,Epe Mart,South-West,Ikorodu,08172067810,2021-01-22
+CUS-01663,Obio-Akpor Provisions,South-South,Warri,07053568260,2023-03-07
+CUS-01664,Haruna Enterprises,South-West,Alimosho,09088908503,2022-01-22
+CUS-01665,Nwachukwu Ventures,North-Central,Jos,07056030066,2022-07-05
+CUS-01666,Surulere Ventures,South-West,Alimosho,09038271272,2021-06-07
+CUS-01667,Lugbe Cash & Carry,North-Central,Wuse,07094742934,2021-09-09
+CUS-01668,Makinde Foods,North-Central,Jos,08150806582,2022-10-13
+CUS-01669,Igwe Supermarket,North-Central,Gwarinpa,08093787448,2022-06-12
+CUS-01670,Hassan Supermarket,North-Central,Lugbe,09041503392,2022-04-25
+CUS-01671,Garba Stores,South-South,Obio-Akpor,09039300452,2023-03-27
+CUS-01672,Eleme Mart,South-South,Calabar,09057247944,2020-03-16
+CUS-01673,Ikorodu Trading Co,South-West,Oshodi,08194594167,2023-10-29
+CUS-01674,Jabi Hotel,North-Central,Jos,09040212304,2019-08-08
+CUS-01675,Ikorodu Ventures,South-West,Surulere,08063694387,2022-10-20
+CUS-01676,Oshodi Ventures,South-West,Epe,08023196701,2022-04-08
+CUS-01677,Uba Cash & Carry,North-Central,Kubwa,07093064126,2023-02-28
+CUS-01678,Lekki Enterprises,South-West,Abeokuta,09013064676,2022-08-06
+CUS-01679,Sani Ventures,North-Central,Garki,08113049361,2020-04-02
+CUS-01680,Lokoja Hotel,North-Central,Jos,08031659959,2021-11-07
+CUS-01681,Surulere Ventures,South-West,Badagry,08053315309,2023-09-04
+CUS-01682,Yaba Enterprises,South-West,Ibadan North,09042889647,2020-08-01
+CUS-01683,Gwarinpa Ventures,North-Central,Jos,07091068419,2019-09-21
+CUS-01684,Surulere Provisions,South-West,Ibadan North,07010923862,2020-03-21
+CUS-01685,Alimosho Hotel,South-West,Ibadan North,09019444312,2020-01-11
+CUS-01686,Haruna Hotel,South-West,Lekki,07068857308,2021-09-21
+CUS-01687,Danjuma Cash & Carry,South-South,Port Harcourt,08163610511,2020-05-26
+CUS-01688,Yenagoa Cash & Carry,South-South,Obio-Akpor,07029593605,2019-09-02
+CUS-01689,Oshodi Stores,South-West,Badagry,08059186033,2022-02-07
+CUS-01690,Okafor Ventures,North-Central,Kubwa,08123035991,2022-07-27
+CUS-01691,Haruna Ventures,North-Central,Kubwa,08155961908,2022-10-06
+CUS-01692,Uche Foods,North-Central,Lugbe,08189782793,2024-03-20
+CUS-01693,Olawale Supermarket,South-South,Warri,08185636982,2022-05-21
+CUS-01694,Haruna Mart,North-Central,Makurdi,08173791651,2020-06-02
+CUS-01695,Mohammed Foods,South-West,Surulere,08091530481,2022-10-12
+CUS-01696,Ogunleye Supermarket,South-South,Warri,08129912993,2021-02-21
+CUS-01697,Orji Foods,South-West,Alimosho,09074018411,2020-12-13
+CUS-01698,Eleme Enterprises,South-South,Bonny,08180241159,2022-04-27
+CUS-01699,Epe Mart,South-West,Alimosho,09033540092,2021-09-14
+CUS-01700,Adewale Trading Co,South-South,Warri,08137706466,2023-02-28
+CUS-01701,Badagry Stores,South-West,Epe,08057848816,2021-08-15
+CUS-01702,Ikeja Foods,South-West,Alimosho,08037183114,2022-05-19
+CUS-01703,Akinola Trading Co,North-Central,Jos,07046436564,2021-04-25
+CUS-01704,Bonny Stores,South-South,Port Harcourt,09086061476,2021-06-27
+CUS-01705,Mohammed Mart,South-West,Badagry,08040647266,2020-07-20
+CUS-01706,Garba Wholesale,North-Central,Jos,08122262023,2020-04-02
+CUS-01707,Lekki Mart,South-West,Ogbomoso,08118169177,2023-04-03
+CUS-01708,Abeokuta Ventures,South-West,Ibadan North,07082066013,2019-06-23
+CUS-01709,Sani Stores,South-South,Warri,09025623801,2021-12-09
+CUS-01710,Ugwu Enterprises,South-West,Yaba,09050260078,2021-03-24
+CUS-01711,Adesanya Foods,South-West,Ibadan North,08089045858,2019-11-25
+CUS-01712,Wuse Wholesale,North-Central,Lokoja,08176116342,2020-11-17
+CUS-01713,Orji Wholesale,South-West,Epe,08145460310,2019-07-22
+CUS-01714,Abubakar Hotel,North-Central,Jos,08194009791,2021-12-13
+CUS-01715,Surulere Ventures,South-West,Ikeja,08178390365,2021-10-12
+CUS-01716,Hassan Cash & Carry,South-West,Epe,08122692698,2019-03-25
+CUS-01717,Abubakar Hotel,South-South,Eleme,08024591037,2020-02-21
+CUS-01718,Salami Trading Co,South-West,Oshodi,09023813301,2020-07-30
+CUS-01719,Abeokuta Superstores,South-West,Surulere,08130990005,2023-05-05
+CUS-01720,Eleme Enterprises,South-South,Eleme,08179318932,2021-10-05
+CUS-01721,Lugbe Provisions,North-Central,Lugbe,09050750934,2022-05-04
+CUS-01722,Nwosu Foods,South-West,Agege,09051341326,2022-01-12
+CUS-01723,Wuse Cash & Carry,North-Central,Wuse,09057460993,2020-10-18
+CUS-01724,Asaba Supermarket,South-South,Warri,08098859467,2020-05-26
+CUS-01725,Ikeja Trading Co,South-West,Mushin,09053712718,2021-04-16
+CUS-01726,Makinde Enterprises,North-Central,Jos,09046770694,2023-10-27
+CUS-01727,Suleiman Ventures,South-West,Badagry,09016174008,2020-01-15
+CUS-01728,Minna Provisions,North-Central,Lugbe,09017961369,2023-11-07
+CUS-01729,Ugwu Trading Co,South-West,Ibadan North,08124902300,2021-10-09
+CUS-01730,Agege Foods,South-West,Mushin,08030188973,2021-02-10
+CUS-01731,Afolabi Ventures,South-West,Yaba,08186870944,2021-05-09
+CUS-01732,Nnaji Wholesale,South-South,Port Harcourt,08019127329,2019-07-15
+CUS-01733,Uyo Trading Co,South-South,Yenagoa,08034714856,2022-08-14
+CUS-01734,Eze Provisions,South-West,Epe,08144273540,2021-01-12
+CUS-01735,Adesanya Superstores,North-Central,Lokoja,09063191556,2019-11-25
+CUS-01736,Nnaji Supermarket,South-West,Ogbomoso,08112174497,2021-03-31
+CUS-01737,Orji Trading Co,South-West,Oshodi,09047936160,2021-03-12
+CUS-01738,Adewale Enterprises,South-West,Lekki,07081371946,2023-07-13
+CUS-01739,Obio-Akpor Enterprises,South-South,Yenagoa,08019809109,2020-02-12
+CUS-01740,Minna Ventures,North-Central,Gwarinpa,08119801355,2023-05-26
+CUS-01741,Nnaji Foods,North-Central,Lokoja,07063883863,2021-03-12
+CUS-01742,Mushin Supermarket,South-West,Ikeja,08053269689,2022-01-09
+CUS-01743,Abeokuta Superstores,South-West,Oshodi,08181452723,2021-11-07
+CUS-01744,Magaji Enterprises,North-Central,Jabi,08035346665,2020-01-31
+CUS-01745,Akinola Supermarket,South-West,Ogbomoso,07027089076,2021-05-22
+CUS-01746,Taiwo Provisions,South-West,Epe,08037071907,2022-09-20
+CUS-01747,Yaba Provisions,South-West,Oshodi,08113663666,2023-08-25
+CUS-01748,Obio-Akpor Cash & Carry,South-South,Port Harcourt,09037995717,2022-04-14
+CUS-01749,Lawal Provisions,South-West,Oshodi,09089217610,2019-11-07
+CUS-01750,Ogbomoso Enterprises,South-West,Badagry,07031861785,2020-03-05
+CUS-01751,Badagry Enterprises,South-West,Agege,08165717519,2023-05-07
+CUS-01752,Orji Trading Co,South-West,Ibadan North,08178281290,2023-10-16
+CUS-01753,Nwachukwu Cash & Carry,South-South,Calabar,07057604491,2022-05-25
+CUS-01754,Calabar Superstores,South-South,Asaba,08021334884,2020-10-08
+CUS-01755,Anyanwu Supermarket,North-Central,Lugbe,08116089390,2023-08-18
+CUS-01756,Adeyemi Mart,South-South,Bonny,08028820058,2020-07-09
+CUS-01757,Garba Provisions,South-West,Alimosho,08159889271,2020-12-15
+CUS-01758,Gbadamosi Mart,South-West,Ogbomoso,08099747074,2023-05-27
+CUS-01759,Oshodi Mart,South-West,Ikeja,09037390737,2022-09-14
+CUS-01760,Rabiu Wholesale,South-West,Abeokuta,08113822276,2020-01-10
+CUS-01761,Anyanwu Supermarket,South-West,Badagry,08064714435,2024-02-27
+CUS-01762,Jos Mart,North-Central,Gwarinpa,07012005006,2022-06-18
+CUS-01763,Adewale Stores,South-South,Yenagoa,09065710670,2019-08-14
+CUS-01764,Garba Superstores,South-South,Port Harcourt,08173920316,2021-10-14
+CUS-01765,Taiwo Superstores,South-South,Bonny,08192357282,2020-09-02
+CUS-01766,Mohammed Enterprises,North-Central,Kubwa,08039435441,2021-07-13
+CUS-01767,Yaba Superstores,South-West,Lekki,07064202290,2022-11-01
+CUS-01768,Ogunleye Wholesale,South-South,Eleme,08154107402,2020-06-07
+CUS-01769,Bonny Hotel,South-South,Sapele,08127677427,2022-07-31
+CUS-01770,Abeokuta Foods,South-West,Alimosho,07061677853,2020-11-15
+CUS-01771,Gbadamosi Supermarket,South-West,Surulere,07041920912,2023-07-06
+CUS-01772,Anyanwu Ventures,South-West,Alimosho,08135199145,2020-11-22
+CUS-01773,Calabar Ventures,South-South,Warri,09093391160,2022-12-11
+CUS-01774,Oladipo Superstores,North-Central,Jos,08155265544,2019-06-01
+CUS-01775,Nwankwo Hotel,South-West,Ibadan North,07099659144,2019-08-14
+CUS-01776,Adewale Trading Co,South-West,Mushin,07082923013,2023-09-17
+CUS-01777,Alimosho Stores,South-West,Lekki,08126951598,2019-07-10
+CUS-01778,Musa Stores,South-West,Alimosho,08063359344,2019-10-27
+CUS-01779,Warri Mart,South-South,Warri,07036665991,2020-04-21
+CUS-01780,Yusuf Mart,North-Central,Makurdi,07081559021,2022-05-21
+CUS-01781,Jos Mart,North-Central,Jabi,08023440304,2020-08-08
+CUS-01782,Abeokuta Provisions,South-West,Alimosho,08082587841,2019-02-19
+CUS-01783,Lawal Wholesale,South-South,Port Harcourt,09049795077,2022-03-26
+CUS-01784,Yenagoa Ventures,South-South,Uyo,08050264407,2024-06-01
+CUS-01785,Epe Wholesale,South-West,Yaba,07017948672,2020-03-08
+CUS-01786,Magaji Mart,South-West,Oshodi,08062511111,2020-01-04
+CUS-01787,Bello Provisions,South-West,Yaba,08119466596,2023-02-24
+CUS-01788,Obi Stores,South-South,Sapele,08037626181,2021-12-06
+CUS-01789,Taiwo Supermarket,South-West,Epe,07079876471,2022-09-03
+CUS-01790,Makurdi Ventures,North-Central,Kubwa,09050107238,2019-10-23
+CUS-01791,Ibadan North Mart,South-West,Lekki,08146521017,2019-02-04
+CUS-01792,Okorie Stores,South-South,Yenagoa,09088514495,2023-06-23
+CUS-01793,Yenagoa Wholesale,South-South,Warri,07021888060,2020-04-25
+CUS-01794,Jabi Provisions,North-Central,Minna,09066596142,2024-02-06
+CUS-01795,Lugbe Foods,North-Central,Lugbe,08195934970,2021-07-27
+CUS-01796,Ikorodu Trading Co,South-West,Lekki,07023573570,2020-06-02
+CUS-01797,Nwankwo Provisions,South-South,Sapele,09099339143,2022-12-05
+CUS-01798,Badagry Ventures,South-West,Ogbomoso,09091420209,2021-07-05
+CUS-01799,Port Harcourt Enterprises,South-South,Obio-Akpor,07087259150,2023-11-20
+CUS-01800,Agege Enterprises,South-West,Epe,09062847572,2020-05-22
+CUS-01801,Idris Ventures,North-Central,Minna,07063511633,2019-11-10
+CUS-01802,Calabar Superstores,South-South,Port Harcourt,08086092056,2023-05-28
+CUS-01803,Lekki Wholesale,South-West,Mushin,07071286924,2019-08-28
+CUS-01804,Abubakar Trading Co,South-South,Uyo,08047128982,2021-12-01
+CUS-01805,Abdullahi Superstores,South-South,Asaba,08038102644,2021-04-15
+CUS-01806,Taiwo Foods,South-South,Calabar,08133093235,2019-09-07
+CUS-01807,Nwosu Enterprises,South-West,Ogbomoso,08052484493,2019-10-09
+CUS-01808,Lekki Superstores,South-West,Mushin,08193456546,2021-08-18
+CUS-01809,Kubwa Wholesale,North-Central,Minna,08155231541,2019-11-25
+CUS-01810,Fashola Mart,South-West,Agege,07024962673,2023-05-10
+CUS-01811,Jos Wholesale,North-Central,Jos,08063414794,2020-12-13
+CUS-01812,Afolabi Foods,North-Central,Makurdi,09045348929,2023-08-08
+CUS-01813,Obi Mart,North-Central,Lokoja,07049448235,2020-12-23
+CUS-01814,Ogunleye Ventures,North-Central,Wuse,08083549599,2023-07-20
+CUS-01815,Nwankwo Provisions,North-Central,Kubwa,08040310745,2021-12-13
+CUS-01816,Adeyemi Wholesale,North-Central,Kubwa,07092170846,2021-09-16
+CUS-01817,Musa Enterprises,South-South,Warri,09034972287,2019-08-31
+CUS-01818,Aliyu Cash & Carry,North-Central,Lugbe,08145374067,2021-12-31
+CUS-01819,Yaba Trading Co,South-West,Ogbomoso,08120340193,2019-01-17
+CUS-01820,Magaji Foods,North-Central,Kubwa,08022968305,2019-04-11
+CUS-01821,Anyanwu Hotel,South-South,Uyo,07091079800,2023-02-21
+CUS-01822,Jos Provisions,North-Central,Minna,08187075758,2019-09-23
+CUS-01823,Ibadan North Enterprises,South-West,Mushin,07032997024,2024-04-17
+CUS-01824,Wuse Trading Co,North-Central,Minna,08018559981,2020-08-05
+CUS-01825,Ikorodu Enterprises,South-West,Ikorodu,07090227105,2021-08-31
+CUS-01826,Surulere Cash & Carry,South-West,Yaba,09051584044,2021-05-26
+CUS-01827,Ogunleye Enterprises,North-Central,Jos,09029358634,2020-02-14
+CUS-01828,Jabi Supermarket,North-Central,Makurdi,07058096857,2021-02-14
+CUS-01829,Abeokuta Stores,South-West,Ogbomoso,09031636866,2020-04-23
+CUS-01830,Oshodi Mart,South-West,Alimosho,08013957752,2020-10-11
+CUS-01831,Uyo Stores,South-South,Obio-Akpor,09087041363,2020-06-27
+CUS-01832,Uba Cash & Carry,South-South,Yenagoa,08056076320,2023-05-24
+CUS-01833,Haruna Cash & Carry,South-West,Ikorodu,09022178177,2023-05-21
+CUS-01834,Nwosu Superstores,South-West,Epe,07055596469,2021-11-19
+CUS-01835,Adebayo Enterprises,North-Central,Wuse,07060082940,2023-11-19
+CUS-01836,Ogbomoso Supermarket,South-West,Ikeja,08161640743,2022-09-13
+CUS-01837,Abeokuta Trading Co,South-West,Alimosho,07033138191,2023-05-12
+CUS-01838,Ugwu Provisions,North-Central,Jabi,07030759612,2021-01-20
+CUS-01839,Uche Foods,South-West,Alimosho,08078092509,2023-08-02
+CUS-01840,Usman Supermarket,South-South,Bonny,07051831014,2019-03-06
+CUS-01841,Gbadamosi Enterprises,South-West,Ogbomoso,08023384402,2021-08-17
+CUS-01842,Usman Trading Co,South-West,Ibadan North,09070120895,2019-02-15
+CUS-01843,Agege Provisions,South-West,Agege,08042138616,2019-01-13
+CUS-01844,Obi Supermarket,South-South,Uyo,07074481336,2019-11-15
+CUS-01845,Sapele Stores,South-South,Bonny,07099055153,2020-09-29
+CUS-01846,Aliyu Foods,South-West,Ogbomoso,09083334032,2020-10-23
+CUS-01847,Uche Provisions,South-West,Ikorodu,09064255917,2021-12-23
+CUS-01848,Nwankwo Stores,South-West,Agege,09091827614,2022-03-28
+CUS-01849,Oshodi Wholesale,South-West,Oshodi,07080806579,2019-10-04
+CUS-01850,Ikorodu Enterprises,South-West,Badagry,08096024494,2022-08-29
+CUS-01851,Adeleke Wholesale,North-Central,Lokoja,08057213180,2021-05-27
+CUS-01852,Alimosho Cash & Carry,South-West,Badagry,08078282676,2022-05-04
+CUS-01853,Makinde Stores,North-Central,Minna,08039738238,2020-06-03
+CUS-01854,Ibadan North Provisions,South-West,Abeokuta,07016071188,2019-04-01
+CUS-01855,Lekki Wholesale,South-West,Ikeja,08098529233,2019-11-09
+CUS-01856,Gbadamosi Cash & Carry,South-South,Warri,08163949988,2024-03-02
+CUS-01857,Abeokuta Superstores,South-West,Ikorodu,09086576546,2020-06-08
+CUS-01858,Warri Superstores,South-South,Asaba,09011372698,2022-02-01
+CUS-01859,Rabiu Provisions,South-South,Yenagoa,08190548035,2024-05-11
+CUS-01860,Abdullahi Ventures,North-Central,Gwarinpa,08019465618,2020-11-04
+CUS-01861,Idris Ventures,South-West,Lekki,08082066827,2022-08-01
+CUS-01862,Epe Foods,South-West,Badagry,09048226119,2021-05-30
+CUS-01863,Ikorodu Stores,South-West,Oshodi,07063003418,2019-10-21
+CUS-01864,Afolabi Hotel,South-South,Yenagoa,08027061090,2021-07-06
+CUS-01865,Akinola Stores,South-South,Warri,07062085048,2023-05-21
+CUS-01866,Lekki Provisions,South-West,Mushin,08168801935,2020-04-11
+CUS-01867,Ikeja Superstores,South-West,Ogbomoso,08038243618,2020-05-09
+CUS-01868,Surulere Trading Co,South-West,Alimosho,08133559104,2022-06-15
+CUS-01869,Ikeja Cash & Carry,South-West,Mushin,08049165484,2021-08-01
+CUS-01870,Lawal Trading Co,South-West,Epe,09013397006,2019-07-14
+CUS-01871,Abeokuta Hotel,South-West,Ikorodu,08029241916,2021-05-08
+CUS-01872,Abubakar Stores,South-South,Calabar,07093025237,2020-05-18
+CUS-01873,Agege Supermarket,South-West,Surulere,07041361578,2024-05-20
+CUS-01874,Alimosho Cash & Carry,South-West,Oshodi,07040134305,2020-02-23
+CUS-01875,Garki Supermarket,North-Central,Minna,09047912273,2020-07-28
+CUS-01876,Mohammed Provisions,North-Central,Minna,08156324745,2020-11-06
+CUS-01877,Surulere Ventures,South-West,Ogbomoso,08140043274,2023-08-11
+CUS-01878,Mushin Wholesale,South-West,Surulere,08112810133,2021-12-30
+CUS-01879,Igwe Cash & Carry,South-South,Bonny,08063986524,2023-09-19
+CUS-01880,Obi Cash & Carry,South-South,Calabar,09070708263,2021-12-05
+CUS-01881,Eze Trading Co,South-South,Calabar,08081126909,2023-04-07
+CUS-01882,Abeokuta Provisions,South-West,Alimosho,08172193264,2021-05-06
+CUS-01883,Uyo Superstores,South-South,Asaba,08062724691,2023-08-17
+CUS-01884,Uche Wholesale,South-West,Alimosho,09016829764,2023-04-20
+CUS-01885,Surulere Superstores,South-West,Mushin,09034201500,2019-02-17
+CUS-01886,Mushin Enterprises,South-West,Epe,08046684386,2020-03-27
+CUS-01887,Lokoja Enterprises,North-Central,Kubwa,08065202373,2022-08-23
+CUS-01888,Surulere Ventures,South-West,Agege,07023027791,2020-01-03
+CUS-01889,Adeleke Trading Co,South-West,Alimosho,07052049592,2019-03-13
+CUS-01890,Dada Provisions,South-South,Asaba,07058712990,2020-12-03
+CUS-01891,Yenagoa Ventures,South-South,Uyo,08048888385,2022-09-19
+CUS-01892,Surulere Mart,South-West,Mushin,07081444791,2019-04-25
+CUS-01893,Musa Superstores,North-Central,Minna,08143472531,2023-10-13
+CUS-01894,Uche Stores,North-Central,Wuse,08061130128,2021-10-07
+CUS-01895,Adebayo Enterprises,South-West,Badagry,08169181497,2021-02-20
+CUS-01896,Adebayo Ventures,North-Central,Makurdi,08155604049,2023-12-10
+CUS-01897,Balogun Enterprises,South-South,Asaba,09030063671,2023-10-18
+CUS-01898,Warri Superstores,South-South,Uyo,08121149828,2022-06-06
+CUS-01899,Wuse Enterprises,North-Central,Makurdi,09032690870,2022-05-16
+CUS-01900,Oladipo Hotel,South-South,Port Harcourt,09052757412,2019-05-04
+CUS-01901,Badagry Wholesale,South-West,Ikorodu,09068109521,2022-07-11
+CUS-01902,Oshodi Superstores,South-West,Ibadan North,07054683613,2021-04-29
+CUS-01903,Abeokuta Supermarket,South-West,Badagry,07050629111,2022-04-14
+CUS-01904,Nwachukwu Supermarket,South-West,Badagry,08160350701,2022-07-15
+CUS-01905,Idris Cash & Carry,South-West,Mushin,08127762391,2019-02-17
+CUS-01906,Lawal Ventures,South-West,Ikorodu,08121181158,2019-04-19
+CUS-01907,Oshodi Superstores,South-West,Agege,07013088008,2019-11-15
+CUS-01908,Yaba Stores,South-West,Surulere,08118718672,2023-07-22
+CUS-01909,Afolabi Stores,North-Central,Wuse,07055786338,2019-07-16
+CUS-01910,Bello Superstores,South-South,Yenagoa,08199246477,2023-10-29
+CUS-01911,Balogun Provisions,North-Central,Garki,08022308286,2020-05-23
+CUS-01912,Idris Superstores,South-South,Warri,08016710702,2020-05-25
+CUS-01913,Nnaji Provisions,South-West,Ibadan North,08076478091,2021-01-09
+CUS-01914,Suleiman Superstores,North-Central,Makurdi,07069393536,2023-05-20
+CUS-01915,Lawal Wholesale,North-Central,Gwarinpa,08026644381,2020-06-23
+CUS-01916,Taiwo Provisions,South-South,Eleme,09095268109,2019-09-24
+CUS-01917,Jos Superstores,North-Central,Lugbe,08067246989,2023-01-05
+CUS-01918,Bonny Supermarket,South-South,Asaba,08131644510,2024-01-21
+CUS-01919,Suleiman Supermarket,South-West,Abeokuta,09020730923,2020-08-21
+CUS-01920,Port Harcourt Foods,South-South,Obio-Akpor,08188938629,2020-02-04
+CUS-01921,Abubakar Enterprises,South-South,Obio-Akpor,08152824042,2021-11-21
+CUS-01922,Agege Ventures,South-West,Ikorodu,09052073858,2021-05-10
+CUS-01923,Bello Mart,South-South,Port Harcourt,08164993351,2021-10-23
+CUS-01924,Idris Cash & Carry,South-South,Yenagoa,09070690090,2023-07-25
+CUS-01925,Mushin Supermarket,South-West,Alimosho,08052509908,2022-04-12
+CUS-01926,Calabar Trading Co,South-South,Port Harcourt,09098821543,2019-05-05
+CUS-01927,Surulere Provisions,South-West,Lekki,07062518275,2021-10-08
+CUS-01928,Adebayo Ventures,South-West,Mushin,08050738050,2019-10-07
+CUS-01929,Ogunleye Provisions,South-South,Yenagoa,09068096981,2021-12-23
+CUS-01930,Ibrahim Supermarket,South-South,Uyo,07018979981,2019-01-28
+CUS-01931,Olawale Mart,South-West,Yaba,09039045233,2022-01-31
+CUS-01932,Epe Mart,South-West,Agege,08193011005,2022-01-05
+CUS-01933,Jos Wholesale,North-Central,Jabi,08127197789,2022-05-07
+CUS-01934,Adebayo Ventures,North-Central,Jabi,09043032305,2023-03-31
+CUS-01935,Uyo Superstores,South-South,Yenagoa,08184490268,2022-07-05
+CUS-01936,Lawal Mart,North-Central,Jabi,08089568937,2020-12-31
+CUS-01937,Ibadan North Enterprises,South-West,Ibadan North,07052071895,2021-07-21
+CUS-01938,Dada Enterprises,South-South,Uyo,07081032794,2021-08-31
+CUS-01939,Badagry Wholesale,South-West,Lekki,09062288069,2020-01-22
+CUS-01940,Badagry Mart,South-West,Agege,07073585237,2023-01-13
+CUS-01941,Nwosu Enterprises,South-West,Ibadan North,08046608900,2019-01-20
+CUS-01942,Abeokuta Hotel,South-West,Yaba,08090206794,2021-01-09
+CUS-01943,Badagry Provisions,South-West,Ogbomoso,08143316392,2019-12-26
+CUS-01944,Alimosho Supermarket,South-West,Ikorodu,08137412632,2023-08-11
+CUS-01945,Yakubu Cash & Carry,South-West,Lekki,08172403120,2020-01-26
+CUS-01946,Sani Cash & Carry,South-South,Bonny,08089704535,2021-12-05
+CUS-01947,Oladipo Ventures,North-Central,Lugbe,08091408752,2021-11-16
+CUS-01948,Agege Supermarket,South-West,Lekki,07053827193,2021-04-27
+CUS-01949,Rabiu Foods,South-West,Mushin,07094408232,2021-12-25
+CUS-01950,Taiwo Enterprises,North-Central,Wuse,08153488444,2021-03-31
+CUS-01951,Orji Supermarket,North-Central,Gwarinpa,09018573546,2019-03-22
+CUS-01952,Nnaji Mart,South-West,Badagry,08022329160,2020-03-09
+CUS-01953,Afolabi Cash & Carry,South-West,Agege,07076096285,2022-03-04
+CUS-01954,Yakubu Cash & Carry,North-Central,Gwarinpa,07037817237,2021-11-26
+CUS-01955,Alimosho Wholesale,South-West,Yaba,08017585204,2020-10-20
+CUS-01956,Yakubu Foods,North-Central,Kubwa,09015690138,2024-03-07
+CUS-01957,Dada Mart,South-West,Ogbomoso,08153345649,2022-03-31
+CUS-01958,Wuse Hotel,North-Central,Lugbe,09013155879,2020-08-30
+CUS-01959,Adewale Supermarket,North-Central,Kubwa,07038029575,2023-02-17
+CUS-01960,Abdullahi Stores,North-Central,Makurdi,08178336772,2019-05-19
+CUS-01961,Dada Hotel,South-South,Port Harcourt,08145654499,2021-04-19
+CUS-01962,Rabiu Provisions,South-West,Oshodi,08154893916,2023-04-28
+CUS-01963,Adesanya Superstores,South-West,Ikorodu,09013867816,2021-12-02
+CUS-01964,Jos Cash & Carry,North-Central,Kubwa,08025125464,2024-03-08
+CUS-01965,Makinde Provisions,South-West,Oshodi,08138768553,2019-06-13
+CUS-01966,Igwe Supermarket,North-Central,Kubwa,08139099216,2021-07-21
+CUS-01967,Rabiu Mart,South-West,Alimosho,08137696190,2021-08-13
+CUS-01968,Taiwo Ventures,South-South,Calabar,08075992475,2021-09-22
+CUS-01969,Ibrahim Provisions,North-Central,Garki,07010036337,2019-08-21
+CUS-01970,Adeyemi Wholesale,South-West,Ikeja,08169735024,2022-04-12
+CUS-01971,Garki Supermarket,North-Central,Jabi,08096674066,2023-05-08
+CUS-01972,Uyo Stores,South-South,Asaba,09097728193,2024-04-17
+CUS-01973,Adesanya Wholesale,South-West,Surulere,08171327790,2019-03-16
+CUS-01974,Warri Stores,South-South,Port Harcourt,09033431904,2024-05-03
+CUS-01975,Ibadan North Enterprises,South-West,Badagry,08146247757,2024-04-16
+CUS-01976,Suleiman Foods,North-Central,Gwarinpa,08018745327,2022-03-10
+CUS-01977,Nwankwo Cash & Carry,North-Central,Minna,09033491174,2024-05-05
+CUS-01978,Adewale Wholesale,North-Central,Lugbe,09037205749,2019-12-03
+CUS-01979,Alimosho Provisions,South-West,Yaba,09010261534,2020-10-09
+CUS-01980,Alimosho Cash & Carry,South-West,Ogbomoso,09041074206,2020-05-28
+CUS-01981,Chukwu Stores,South-South,Sapele,08171237842,2019-10-26
+CUS-01982,Ibrahim Trading Co,South-West,Badagry,08053045133,2020-04-18
+CUS-01983,Bello Cash & Carry,North-Central,Jabi,09056632220,2020-02-12
+CUS-01984,Oshodi Ventures,South-West,Epe,09058362519,2019-01-11
+CUS-01985,Surulere Trading Co,South-West,Agege,09070501156,2020-03-11
+CUS-01986,Wuse Trading Co,North-Central,Jos,08090368575,2022-07-03
+CUS-01987,Gwarinpa Enterprises,North-Central,Gwarinpa,08063197220,2023-12-17
+CUS-01988,Bonny Hotel,South-South,Port Harcourt,07087237550,2024-05-24
+CUS-01989,Surulere Foods,South-West,Yaba,08175656627,2023-10-06
+CUS-01990,Agege Hotel,South-West,Mushin,09039403268,2021-03-08
+CUS-01991,Hassan Stores,South-West,Yaba,09030897858,2019-09-28
+CUS-01992,Wuse Hotel,North-Central,Garki,09029375073,2019-04-14
+CUS-01993,Yaba Cash & Carry,South-West,Ikorodu,08082741563,2020-11-02
+CUS-01994,Ikeja Supermarket,South-West,Ikeja,08126250483,2023-04-04
+CUS-01995,Lekki Stores,South-West,Ikorodu,09025965592,2022-01-19
+CUS-01996,Port Harcourt Foods,South-South,Sapele,08156059442,2022-03-30
+CUS-01997,Usman Enterprises,South-West,Ibadan North,07075945661,2024-03-29
+CUS-01998,Okorie Foods,South-West,Ibadan North,09082345677,2020-02-07
+CUS-01999,Abeokuta Trading Co,South-West,Epe,09013667919,2022-04-15
+CUS-02000,Afolabi Ventures,South-West,Ikorodu,07021135331,2023-01-16
+CUS-02001,Garki Ventures,North-Central,Lokoja,08142397292,2021-01-12
+CUS-02002,Salami Hotel,South-South,Yenagoa,08092371735,2022-02-12
+CUS-02003,Abeokuta Superstores,South-West,Oshodi,07077953702,2021-12-04
+CUS-02004,Oladipo Foods,South-West,Abeokuta,09081895460,2020-10-02
+CUS-02005,Adesanya Foods,North-Central,Jos,09033342969,2019-05-12
+CUS-02006,Ikeja Wholesale,South-West,Abeokuta,08167274946,2023-10-21
+CUS-02007,Garki Provisions,North-Central,Minna,09043425940,2024-05-21
+CUS-02008,Epe Mart,South-West,Oshodi,09015888759,2022-09-21
+CUS-02009,Abubakar Enterprises,South-West,Alimosho,09040699959,2020-06-01
+CUS-02010,Lekki Stores,South-West,Surulere,08027716606,2020-04-07
+CUS-02011,Port Harcourt Ventures,South-South,Yenagoa,08167710061,2024-04-20
+CUS-02012,Jabi Superstores,North-Central,Jos,07066186841,2021-10-05
+CUS-02013,Abdullahi Cash & Carry,South-West,Lekki,07021709551,2022-12-11
+CUS-02014,Yenagoa Cash & Carry,South-South,Bonny,08028458598,2023-09-28
+CUS-02015,Gbadamosi Superstores,South-West,Yaba,09098565173,2021-05-10
+CUS-02016,Adewale Superstores,South-West,Surulere,09025549100,2021-04-12
+CUS-02017,Salami Mart,South-West,Badagry,09011502382,2022-05-02
+CUS-02018,Lekki Hotel,South-West,Epe,08188594257,2021-06-11
+CUS-02019,Surulere Trading Co,South-West,Yaba,09038663679,2023-05-12
+CUS-02020,Makinde Stores,North-Central,Gwarinpa,09084226771,2020-11-12
+CUS-02021,Garki Mart,North-Central,Gwarinpa,08019126002,2021-09-27
+CUS-02022,Makurdi Mart,North-Central,Kubwa,09093969764,2022-05-23
+CUS-02023,Calabar Supermarket,South-South,Calabar,07053015114,2020-01-16
+CUS-02024,Suleiman Trading Co,South-West,Mushin,09091394530,2019-09-24
+CUS-02025,Eleme Ventures,South-South,Sapele,09096710149,2019-07-13
+CUS-02026,Garba Hotel,North-Central,Lugbe,09020073766,2021-12-28
+CUS-02027,Musa Stores,North-Central,Gwarinpa,07059596286,2022-11-11
+CUS-02028,Danjuma Trading Co,South-West,Ikorodu,08151358100,2019-08-16
+CUS-02029,Nwachukwu Foods,South-South,Sapele,08072992151,2022-07-12
+CUS-02030,Eze Hotel,South-West,Ogbomoso,07043768232,2020-11-21
+CUS-02031,Olawale Enterprises,South-West,Ogbomoso,08052017078,2019-03-22
+CUS-02032,Sapele Provisions,South-South,Uyo,08135749206,2019-10-15
+CUS-02033,Ikorodu Wholesale,South-West,Abeokuta,09099883548,2020-09-21
+CUS-02034,Oshodi Mart,South-West,Oshodi,08135496811,2020-07-25
+CUS-02035,Jos Trading Co,North-Central,Kubwa,09088081032,2021-07-02
+CUS-02036,Ikorodu Superstores,South-West,Yaba,08090279816,2019-12-28
+CUS-02037,Yakubu Ventures,North-Central,Jabi,08062563720,2021-09-14
+CUS-02038,Minna Hotel,North-Central,Jabi,08044188706,2021-01-07
+CUS-02039,Nwachukwu Hotel,South-West,Mushin,07018931707,2023-05-12
+CUS-02040,Nwankwo Ventures,South-South,Bonny,08178601151,2021-03-27
+CUS-02041,Onyekachi Superstores,South-West,Ibadan North,07073937051,2021-12-19
+CUS-02042,Gbadamosi Stores,South-West,Agege,07015507572,2019-09-01
+CUS-02043,Ugwu Wholesale,South-West,Surulere,07066809516,2023-04-09
+CUS-02044,Ikeja Supermarket,South-West,Lekki,08193800183,2020-05-20
+CUS-02045,Ogunleye Provisions,South-West,Abeokuta,08184170836,2022-06-08
+CUS-02046,Musa Enterprises,South-South,Uyo,08033064287,2019-11-25
+CUS-02047,Ugwu Enterprises,South-South,Port Harcourt,08022237670,2021-03-20
+CUS-02048,Lugbe Ventures,North-Central,Garki,07043043458,2019-09-05
+CUS-02049,Usman Mart,South-West,Surulere,08047509920,2023-10-26
+CUS-02050,Mushin Enterprises,South-West,Alimosho,09069883280,2023-03-22
+CUS-02051,Mushin Foods,South-West,Ibadan North,09030184404,2020-04-10
+CUS-02052,Calabar Supermarket,South-South,Bonny,08137531916,2019-06-23
+CUS-02053,Nnaji Trading Co,North-Central,Jabi,07076978961,2021-07-28
+CUS-02054,Makurdi Provisions,North-Central,Jabi,08020382674,2021-01-18
+CUS-02055,Eleme Cash & Carry,South-South,Warri,08052172791,2022-06-09
+CUS-02056,Olawale Provisions,South-West,Mushin,09013258266,2020-07-27
+CUS-02057,Abdullahi Stores,South-South,Yenagoa,07062193231,2021-03-19
+CUS-02058,Nwankwo Cash & Carry,South-West,Badagry,09066926814,2023-12-01
+CUS-02059,Oladipo Trading Co,South-West,Ikorodu,09031219581,2023-06-22
+CUS-02060,Ogbomoso Enterprises,South-West,Ogbomoso,08014871204,2022-04-12
+CUS-02061,Lekki Foods,South-West,Surulere,07092604294,2020-07-08
+CUS-02062,Nnaji Wholesale,North-Central,Minna,08049346304,2023-08-16
+CUS-02063,Gbadamosi Provisions,South-South,Calabar,08132364538,2021-07-01
+CUS-02064,Abeokuta Supermarket,South-West,Abeokuta,08048687319,2021-05-06
+CUS-02065,Fashola Provisions,South-West,Ikeja,08090884211,2020-06-03
+CUS-02066,Ikorodu Mart,South-West,Ogbomoso,07072080682,2021-04-25
+CUS-02067,Eleme Hotel,South-South,Eleme,08011173934,2022-08-05
+CUS-02068,Bonny Supermarket,South-South,Bonny,07062855703,2023-08-30
+CUS-02069,Balogun Provisions,South-West,Alimosho,08187022789,2020-01-11
+CUS-02070,Gbadamosi Foods,South-West,Lekki,08031754935,2020-10-30
+CUS-02071,Nwachukwu Mart,North-Central,Wuse,08171843865,2021-06-14
+CUS-02072,Calabar Hotel,South-South,Bonny,09080471123,2021-10-20
+CUS-02073,Uyo Enterprises,South-South,Sapele,09043746338,2021-06-25
+CUS-02074,Nwankwo Mart,South-South,Port Harcourt,08019853872,2021-01-20
+CUS-02075,Obio-Akpor Enterprises,South-South,Calabar,09060458379,2022-09-27
+CUS-02076,Lawal Supermarket,South-West,Yaba,09095691801,2020-03-18
+CUS-02077,Oshodi Foods,South-West,Surulere,08163198642,2023-01-18
+CUS-02078,Ibadan North Wholesale,South-West,Ibadan North,09072592309,2020-06-03
+CUS-02079,Ibadan North Mart,South-West,Mushin,07042932467,2019-02-08
+CUS-02080,Lekki Wholesale,South-West,Agege,07057050710,2021-10-23
+CUS-02081,Calabar Stores,South-South,Sapele,08157617011,2019-10-25
+CUS-02082,Anyanwu Stores,North-Central,Jabi,08135968352,2022-09-05
+CUS-02083,Akinola Mart,South-South,Bonny,08118037892,2024-04-12
+CUS-02084,Jabi Supermarket,North-Central,Minna,09054834214,2019-12-10
+CUS-02085,Taiwo Wholesale,North-Central,Jabi,07079390232,2021-02-18
+CUS-02086,Nwankwo Cash & Carry,South-West,Oshodi,07099431958,2020-01-18
+CUS-02087,Jos Stores,North-Central,Gwarinpa,09054312259,2020-09-18
+CUS-02088,Lugbe Mart,North-Central,Gwarinpa,08022507696,2020-12-16
+CUS-02089,Okonkwo Supermarket,South-West,Ikorodu,07027843176,2023-04-30
+CUS-02090,Danjuma Mart,South-West,Mushin,08138268399,2024-05-31
+CUS-02091,Okonkwo Wholesale,South-South,Yenagoa,07039406359,2021-10-16
+CUS-02092,Abubakar Ventures,South-South,Obio-Akpor,07099847647,2021-11-03
+CUS-02093,Suleiman Trading Co,South-South,Yenagoa,08187449461,2021-04-15
+CUS-02094,Jabi Superstores,North-Central,Jabi,08099624137,2020-08-05
+CUS-02095,Asaba Enterprises,South-South,Warri,08012983015,2021-12-26
+CUS-02096,Orji Wholesale,South-West,Ibadan North,09016883566,2019-01-30
+CUS-02097,Lugbe Stores,North-Central,Gwarinpa,08039387314,2019-06-25
+CUS-02098,Dada Stores,South-South,Bonny,08165384277,2020-04-03
+CUS-02099,Ikorodu Stores,South-West,Yaba,08093625448,2021-09-20
+CUS-02100,Uyo Supermarket,South-South,Calabar,09068004568,2023-07-22
+CUS-02101,Agege Trading Co,South-West,Lekki,08141632745,2021-09-09
+CUS-02102,Obi Enterprises,South-South,Warri,09067727800,2019-08-28
+CUS-02103,Danjuma Mart,South-West,Agege,08090259807,2022-08-02
+CUS-02104,Garki Stores,North-Central,Garki,07030138866,2021-05-22
+CUS-02105,Oshodi Foods,South-West,Epe,08016893126,2024-05-28
+CUS-02106,Olawale Trading Co,South-West,Epe,08199396822,2021-03-18
+CUS-02107,Salami Trading Co,South-West,Lekki,07088230615,2023-12-16
+CUS-02108,Warri Mart,South-South,Calabar,09024433569,2022-12-02
+CUS-02109,Jos Stores,North-Central,Makurdi,08128604725,2024-01-20
+CUS-02110,Surulere Superstores,South-West,Oshodi,07076627763,2021-01-06
+CUS-02111,Obi Trading Co,South-West,Epe,08073439392,2019-11-16
+CUS-02112,Ikorodu Wholesale,South-West,Epe,09066098929,2019-11-23
+CUS-02113,Asaba Superstores,South-South,Uyo,08042303694,2021-10-31
+CUS-02114,Afolabi Supermarket,South-West,Abeokuta,07029821270,2023-10-25
+CUS-02115,Suleiman Stores,South-South,Asaba,08152943014,2021-03-03
+CUS-02116,Uba Stores,South-West,Epe,08138155104,2019-05-25
+CUS-02117,Fashola Cash & Carry,South-West,Yaba,08118865799,2024-02-22
+CUS-02118,Ikorodu Cash & Carry,South-West,Surulere,09072210446,2020-09-22
+CUS-02119,Uyo Ventures,South-South,Eleme,08166686642,2020-09-22
+CUS-02120,Abeokuta Foods,South-West,Surulere,07032035748,2019-01-25
+CUS-02121,Eze Mart,South-West,Ikeja,08042215392,2021-07-17
+CUS-02122,Kubwa Foods,North-Central,Gwarinpa,09015160548,2020-02-05
+CUS-02123,Eze Enterprises,South-West,Agege,08110367395,2023-10-31
+CUS-02124,Ogbomoso Provisions,South-West,Yaba,08054629799,2020-08-08
+CUS-02125,Jos Wholesale,North-Central,Jos,09080965631,2021-02-08
+CUS-02126,Lokoja Foods,North-Central,Wuse,09089319341,2021-05-08
+CUS-02127,Ibadan North Supermarket,South-West,Ikorodu,08112404497,2022-02-18
+CUS-02128,Garki Ventures,North-Central,Lokoja,09091706445,2021-03-18
+CUS-02129,Bello Provisions,South-West,Ibadan North,08150303235,2019-06-03
+CUS-02130,Ogunleye Superstores,North-Central,Makurdi,08162990847,2022-12-06
+CUS-02131,Ogunleye Ventures,South-West,Yaba,09010302045,2022-01-03
+CUS-02132,Danjuma Wholesale,South-West,Ogbomoso,09012193574,2021-08-09
+CUS-02133,Asaba Enterprises,South-South,Port Harcourt,09087869937,2023-03-22
+CUS-02134,Garki Provisions,North-Central,Lokoja,08133788309,2021-05-12
+CUS-02135,Onyekachi Stores,North-Central,Jabi,08074406325,2024-04-20
+CUS-02136,Badagry Wholesale,South-West,Surulere,08144506369,2022-02-01
+CUS-02137,Suleiman Mart,South-West,Agege,07048759195,2022-09-07
+CUS-02138,Obio-Akpor Stores,South-South,Eleme,07010446705,2019-01-27
+CUS-02139,Oshodi Wholesale,South-West,Surulere,07070571332,2022-07-11
+CUS-02140,Oshodi Hotel,South-West,Ibadan North,07074591190,2020-09-02
+CUS-02141,Jabi Stores,North-Central,Jabi,08062060463,2019-11-24
+CUS-02142,Badagry Supermarket,South-West,Abeokuta,07018513830,2023-07-05
+CUS-02143,Magaji Foods,South-West,Ogbomoso,08074248731,2019-03-27
+CUS-02144,Eze Cash & Carry,North-Central,Lokoja,07078775814,2020-01-26
+CUS-02145,Lawal Enterprises,South-South,Yenagoa,07040434030,2019-09-27
+CUS-02146,Minna Hotel,North-Central,Minna,09053246831,2020-10-25
+CUS-02147,Ikeja Ventures,South-West,Yaba,07086630175,2022-06-05
+CUS-02148,Agege Superstores,South-West,Agege,09010998284,2022-08-26
+CUS-02149,Rabiu Stores,South-South,Sapele,07089575745,2023-08-28
+CUS-02150,Ogbomoso Foods,South-West,Oshodi,08126072981,2020-11-30
+CUS-02151,Uyo Provisions,South-South,Asaba,09049386369,2024-03-14
+CUS-02152,Salami Superstores,South-South,Eleme,08160946520,2023-07-24
+CUS-02153,Lekki Hotel,South-West,Agege,07076878955,2022-09-09
+CUS-02154,Adebayo Wholesale,North-Central,Jabi,08022492482,2019-07-18
+CUS-02155,Garba Stores,South-West,Agege,07022771791,2022-12-08
+CUS-02156,Adesanya Mart,South-South,Sapele,08088145345,2019-12-06
+CUS-02157,Salami Hotel,South-West,Oshodi,07083677009,2019-03-05
+CUS-02158,Lugbe Hotel,North-Central,Lugbe,07064176956,2020-03-14
+CUS-02159,Uba Stores,South-South,Uyo,08116986498,2023-08-26
+CUS-02160,Abeokuta Supermarket,South-West,Lekki,09015707588,2021-10-15
+CUS-02161,Akinola Wholesale,South-South,Eleme,08021007045,2022-07-18
+CUS-02162,Abeokuta Foods,South-West,Alimosho,07094669760,2019-11-12
+CUS-02163,Haruna Mart,South-West,Surulere,08064748819,2024-05-22
+CUS-02164,Makurdi Foods,North-Central,Kubwa,09083492765,2023-01-31
+CUS-02165,Ibrahim Cash & Carry,South-West,Yaba,08156206851,2023-08-28
+CUS-02166,Abeokuta Wholesale,South-West,Ikorodu,08092729773,2019-08-14
+CUS-02167,Asaba Superstores,South-South,Sapele,09010194969,2023-10-11
+CUS-02168,Okorie Foods,South-West,Surulere,08096009479,2021-03-01
+CUS-02169,Surulere Foods,South-West,Ikeja,08043553891,2020-03-29
+CUS-02170,Obi Mart,South-West,Yaba,08125114735,2021-03-13
+CUS-02171,Adesanya Foods,South-West,Ikeja,09024355076,2022-07-03
+CUS-02172,Suleiman Superstores,South-West,Oshodi,07059493703,2022-08-06
+CUS-02173,Nnaji Superstores,South-South,Asaba,09099002424,2023-04-16
+CUS-02174,Nwachukwu Trading Co,South-South,Warri,08075755054,2021-09-04
+CUS-02175,Okorie Supermarket,South-South,Calabar,09031287616,2024-01-28
+CUS-02176,Yenagoa Hotel,South-South,Asaba,08065486192,2023-10-19
+CUS-02177,Oladipo Mart,South-South,Calabar,07073516387,2020-01-05
+CUS-02178,Igwe Trading Co,South-South,Asaba,08070309806,2023-04-17
+CUS-02179,Anyanwu Cash & Carry,North-Central,Lugbe,08074471524,2023-03-08
+CUS-02180,Yusuf Provisions,South-West,Epe,09061617675,2023-03-11
+CUS-02181,Eleme Stores,South-South,Asaba,08180065443,2022-12-28
+CUS-02182,Ibrahim Hotel,North-Central,Lugbe,09012724561,2024-01-25
+CUS-02183,Kubwa Wholesale,North-Central,Lugbe,08099717427,2019-03-13
+CUS-02184,Jos Mart,North-Central,Minna,07030011366,2019-01-16
+CUS-02185,Oshodi Hotel,South-West,Mushin,08110196027,2021-09-20
+CUS-02186,Salami Foods,South-West,Oshodi,09043711159,2020-07-07
+CUS-02187,Calabar Superstores,South-South,Sapele,08122896972,2022-04-15
+CUS-02188,Okafor Trading Co,South-West,Ikeja,08157899710,2021-10-10
+CUS-02189,Nwankwo Provisions,North-Central,Lokoja,07020236554,2023-11-03
+CUS-02190,Uba Supermarket,North-Central,Kubwa,09065346005,2021-06-02
+CUS-02191,Abubakar Hotel,South-South,Yenagoa,08039626168,2020-04-12
+CUS-02192,Okonkwo Wholesale,South-West,Ikeja,09026143367,2022-11-05
+CUS-02193,Kubwa Stores,North-Central,Jabi,08092110921,2023-10-02
+CUS-02194,Garba Hotel,South-West,Badagry,08015928471,2021-10-01
+CUS-02195,Ibrahim Foods,North-Central,Wuse,09039039152,2019-12-16
+CUS-02196,Afolabi Hotel,South-West,Abeokuta,08087265763,2022-11-11
+CUS-02197,Agege Ventures,South-West,Ogbomoso,08013610372,2020-04-10
+CUS-02198,Ikeja Superstores,South-West,Ikorodu,08033094606,2019-10-22
+CUS-02199,Badagry Mart,South-West,Yaba,08036527418,2023-09-04
+CUS-02200,Uche Provisions,South-West,Abeokuta,08014226637,2023-10-04
+CUS-02201,Jabi Superstores,North-Central,Lugbe,09030660064,2020-07-24
+CUS-02202,Ibadan North Cash & Carry,South-West,Ikeja,08060269323,2024-03-22
+CUS-02203,Lokoja Stores,North-Central,Garki,08038425325,2024-01-04
+CUS-02204,Ogunleye Foods,South-West,Alimosho,08045720719,2020-06-01
+CUS-02205,Jos Enterprises,North-Central,Makurdi,08170808034,2023-07-15
+CUS-02206,Sapele Provisions,South-South,Yenagoa,09033103570,2020-12-28
+CUS-02207,Taiwo Wholesale,South-South,Sapele,08012688078,2023-04-27
+CUS-02208,Ugwu Ventures,South-West,Lekki,07027015981,2019-05-15
+CUS-02209,Ogbomoso Stores,South-West,Ogbomoso,09062963261,2019-04-27
+CUS-02210,Gwarinpa Supermarket,North-Central,Jos,08082346760,2019-07-05
+CUS-02211,Adeleke Hotel,South-West,Alimosho,07042412874,2021-05-25
+CUS-02212,Ugwu Stores,North-Central,Lugbe,08154570467,2021-05-04
+CUS-02213,Onyekachi Ventures,South-West,Alimosho,08028751884,2019-12-01
+CUS-02214,Obio-Akpor Hotel,South-South,Eleme,09019587874,2022-01-19
+CUS-02215,Mohammed Trading Co,North-Central,Minna,08047085870,2019-09-01
+CUS-02216,Adeyemi Supermarket,South-West,Oshodi,07014073160,2023-12-13
+CUS-02217,Oshodi Superstores,South-West,Abeokuta,07021090760,2020-07-24
+CUS-02218,Lekki Ventures,South-West,Oshodi,08117683639,2020-01-02
+CUS-02219,Wuse Foods,North-Central,Gwarinpa,08151989214,2022-04-17
+CUS-02220,Jos Superstores,North-Central,Lugbe,08145004529,2023-07-11
+CUS-02221,Abeokuta Superstores,South-West,Abeokuta,09048545157,2021-08-31
+CUS-02222,Gwarinpa Mart,North-Central,Lugbe,07052159618,2022-04-16
+CUS-02223,Igwe Supermarket,South-West,Ikeja,07010375217,2020-09-15
+CUS-02224,Nwosu Superstores,South-West,Agege,07058515244,2020-05-11
+CUS-02225,Obi Cash & Carry,North-Central,Makurdi,07041648778,2022-02-07
+CUS-02226,Ogunleye Trading Co,South-West,Agege,07059151960,2022-09-05
+CUS-02227,Calabar Foods,South-South,Port Harcourt,07093888349,2021-10-13
+CUS-02228,Uba Enterprises,South-West,Alimosho,09092958783,2022-06-05
+CUS-02229,Usman Superstores,South-South,Bonny,08026880118,2024-01-21
+CUS-02230,Lekki Cash & Carry,South-West,Ikorodu,07084597332,2019-04-15
+CUS-02231,Sani Foods,North-Central,Lugbe,08083481208,2019-02-06
+CUS-02232,Yaba Hotel,South-West,Yaba,09035190520,2021-06-15
+CUS-02233,Okafor Mart,North-Central,Garki,08063698183,2020-12-12
+CUS-02234,Jos Enterprises,North-Central,Lugbe,09049941414,2023-07-13
+CUS-02235,Oshodi Foods,South-West,Surulere,08180910050,2022-01-01
+CUS-02236,Yusuf Wholesale,South-West,Lekki,09015473245,2019-10-23
+CUS-02237,Epe Cash & Carry,South-West,Surulere,08160152461,2020-03-03
+CUS-02238,Surulere Cash & Carry,South-West,Oshodi,08059532732,2022-07-06
+CUS-02239,Lawal Foods,North-Central,Wuse,07073059790,2022-04-21
+CUS-02240,Alimosho Wholesale,South-West,Ogbomoso,07040315274,2020-04-27
+CUS-02241,Abdullahi Hotel,South-West,Ogbomoso,08046968017,2022-07-23
+CUS-02242,Usman Foods,North-Central,Wuse,08115038665,2022-10-17
+CUS-02243,Olawale Provisions,North-Central,Kubwa,08038043072,2020-02-17
+CUS-02244,Nnaji Wholesale,South-South,Sapele,08126398778,2022-03-16
+CUS-02245,Garki Stores,North-Central,Garki,09080626900,2021-10-20
+CUS-02246,Jos Supermarket,North-Central,Makurdi,08042359400,2021-02-02
+CUS-02247,Ibadan North Provisions,South-West,Surulere,09096440006,2022-08-10
+CUS-02248,Uba Supermarket,South-South,Obio-Akpor,07092124494,2020-02-24
+CUS-02249,Jabi Cash & Carry,North-Central,Garki,09077200602,2019-08-10
+CUS-02250,Alimosho Hotel,South-West,Ikeja,07034807303,2023-04-01
+CUS-02251,Port Harcourt Enterprises,South-South,Obio-Akpor,08165703402,2023-10-16
+CUS-02252,Jos Supermarket,North-Central,Kubwa,09054808851,2021-10-08
+CUS-02253,Suleiman Wholesale,North-Central,Makurdi,07065768929,2019-04-12
+CUS-02254,Yaba Cash & Carry,South-West,Agege,08127975283,2019-06-14
+CUS-02255,Adewale Stores,South-West,Alimosho,08124610423,2021-05-24
+CUS-02256,Nnaji Ventures,South-West,Agege,07088726359,2023-08-21
+CUS-02257,Fashola Foods,North-Central,Gwarinpa,08091412223,2021-01-16
+CUS-02258,Uche Wholesale,North-Central,Jabi,08166139112,2023-12-27
+CUS-02259,Badagry Foods,South-West,Alimosho,08127455344,2021-07-03
+CUS-02260,Wuse Trading Co,North-Central,Wuse,08141896662,2021-08-28
+CUS-02261,Idris Foods,South-South,Port Harcourt,07025638062,2020-03-26
+CUS-02262,Ikeja Supermarket,South-West,Yaba,07079827653,2019-06-16
+CUS-02263,Garba Stores,South-West,Alimosho,07061846177,2023-07-22
+CUS-02264,Mohammed Provisions,North-Central,Garki,08039340542,2022-12-29
+CUS-02265,Magaji Cash & Carry,South-South,Bonny,08068551203,2021-03-18
+CUS-02266,Ibadan North Cash & Carry,South-West,Oshodi,08093373189,2023-03-28
+CUS-02267,Asaba Foods,South-South,Port Harcourt,07042494127,2022-09-18
+CUS-02268,Nnaji Ventures,South-South,Warri,08150055973,2023-02-01
+CUS-02269,Ogbomoso Foods,South-West,Ogbomoso,08064687986,2024-02-28
+CUS-02270,Abeokuta Foods,South-West,Lekki,07023753926,2020-09-04
+CUS-02271,Ikeja Enterprises,South-West,Alimosho,07078102004,2022-05-09
+CUS-02272,Obio-Akpor Wholesale,South-South,Asaba,08012117054,2020-05-30
+CUS-02273,Sapele Mart,South-South,Calabar,09093816810,2021-03-17
+CUS-02274,Asaba Hotel,South-South,Sapele,09022033247,2019-06-08
+CUS-02275,Idris Trading Co,North-Central,Makurdi,09095466762,2019-01-30
+CUS-02276,Aliyu Stores,North-Central,Lugbe,07077167702,2019-06-11
+CUS-02277,Alimosho Provisions,South-West,Surulere,08024543144,2023-05-20
+CUS-02278,Warri Wholesale,South-South,Eleme,09064252439,2021-04-04
+CUS-02279,Lokoja Enterprises,North-Central,Wuse,09030803857,2022-03-09
+CUS-02280,Uba Supermarket,North-Central,Minna,08038978527,2022-09-07
+CUS-02281,Kubwa Hotel,North-Central,Makurdi,08053725194,2020-08-29
+CUS-02282,Kubwa Hotel,North-Central,Gwarinpa,07048211978,2019-10-11
+CUS-02283,Uba Superstores,South-West,Lekki,08086003182,2020-12-30
+CUS-02284,Danjuma Mart,South-West,Mushin,08183081609,2020-08-16
+CUS-02285,Lekki Hotel,South-West,Mushin,09056267189,2022-02-19
+CUS-02286,Kubwa Supermarket,North-Central,Jos,09067170552,2023-11-13
+CUS-02287,Gwarinpa Provisions,North-Central,Jos,08186706373,2022-07-13
+CUS-02288,Asaba Provisions,South-South,Asaba,09082674616,2023-08-01
+CUS-02289,Ikorodu Hotel,South-West,Ikorodu,07013953262,2019-10-01
+CUS-02290,Ogunleye Supermarket,South-South,Port Harcourt,09090583309,2022-03-24
+CUS-02291,Adeleke Stores,South-South,Calabar,08020073945,2023-12-18
+CUS-02292,Jabi Supermarket,North-Central,Wuse,07060357342,2021-06-17
+CUS-02293,Lekki Wholesale,South-West,Epe,07053136609,2024-02-11
+CUS-02294,Alimosho Superstores,South-West,Ogbomoso,08088176784,2019-02-04
+CUS-02295,Dada Supermarket,South-West,Badagry,08139596454,2020-11-04
+CUS-02296,Nwankwo Ventures,South-West,Ibadan North,08162443962,2023-07-05
+CUS-02297,Surulere Foods,South-West,Mushin,09027452167,2021-01-27
+CUS-02298,Danjuma Stores,South-West,Badagry,09093938382,2019-10-15
+CUS-02299,Adeleke Mart,South-West,Abeokuta,07045372528,2024-04-16
+CUS-02300,Ugwu Wholesale,South-West,Lekki,08036634065,2023-04-13
+CUS-02301,Balogun Trading Co,South-West,Agege,08037195004,2022-06-26
+CUS-02302,Igwe Hotel,South-South,Obio-Akpor,09011428262,2023-04-09
+CUS-02303,Eleme Superstores,South-South,Obio-Akpor,07090923515,2023-07-03
+CUS-02304,Hassan Cash & Carry,South-West,Yaba,08127764558,2021-10-18
+CUS-02305,Agege Cash & Carry,South-West,Lekki,08039293518,2021-11-28
+CUS-02306,Ikorodu Wholesale,South-West,Ikorodu,07032641668,2019-07-28
+CUS-02307,Obi Wholesale,North-Central,Jos,07022685755,2021-12-31
+CUS-02308,Yaba Ventures,South-West,Yaba,08123638593,2022-03-09
+CUS-02309,Dada Ventures,South-West,Badagry,09099560316,2021-07-16
+CUS-02310,Adeyemi Mart,South-West,Epe,07075978123,2019-05-28
+CUS-02311,Gbadamosi Stores,South-South,Warri,08179715974,2019-03-15
+CUS-02312,Ugwu Trading Co,South-South,Yenagoa,09041388763,2020-03-02
+CUS-02313,Alimosho Hotel,South-West,Yaba,07079162437,2023-06-05
+CUS-02314,Lokoja Supermarket,North-Central,Jabi,08086829631,2020-03-18
+CUS-02315,Ibadan North Foods,South-West,Abeokuta,09064060403,2020-08-07
+CUS-02316,Anyanwu Foods,South-South,Port Harcourt,09076634324,2023-02-04
+CUS-02317,Danjuma Mart,South-South,Port Harcourt,08110302186,2022-04-23
+CUS-02318,Rabiu Mart,North-Central,Gwarinpa,08094446429,2022-06-17
+CUS-02319,Obi Superstores,South-West,Alimosho,08111990737,2020-01-23
+CUS-02320,Lekki Superstores,South-West,Ikorodu,09086427842,2023-07-30
+CUS-02321,Yusuf Mart,North-Central,Garki,08053941883,2021-03-27
+CUS-02322,Garba Supermarket,South-West,Ogbomoso,08141570584,2022-01-03
+CUS-02323,Idris Hotel,North-Central,Wuse,08027028750,2019-06-01
+CUS-02324,Port Harcourt Enterprises,South-South,Warri,09090292116,2020-05-26
+CUS-02325,Olawale Superstores,North-Central,Gwarinpa,08191281938,2022-07-11
+CUS-02326,Bonny Superstores,South-South,Obio-Akpor,07048059575,2022-06-22
+CUS-02327,Igwe Supermarket,South-West,Badagry,09022303163,2022-06-01
+CUS-02328,Ugwu Cash & Carry,South-South,Yenagoa,09074102579,2023-04-27
+CUS-02329,Gwarinpa Supermarket,North-Central,Makurdi,09046896459,2022-04-14
+CUS-02330,Obio-Akpor Foods,South-South,Yenagoa,09091930786,2021-06-08
+CUS-02331,Usman Enterprises,South-West,Mushin,09030658164,2019-09-22
+CUS-02332,Aliyu Provisions,South-South,Yenagoa,07096343023,2021-06-08
+CUS-02333,Obi Superstores,South-West,Surulere,08059483515,2024-02-16
+CUS-02334,Jabi Cash & Carry,North-Central,Lokoja,08171288572,2021-03-24
+CUS-02335,Surulere Wholesale,South-West,Ogbomoso,08055987219,2019-08-22
+CUS-02336,Nnaji Cash & Carry,South-West,Ibadan North,09036321069,2023-08-19
+CUS-02337,Ikorodu Mart,South-West,Epe,08095087196,2019-01-31
+CUS-02338,Aliyu Wholesale,South-West,Oshodi,09039822796,2019-07-24
+CUS-02339,Aliyu Stores,South-South,Uyo,09032068284,2022-12-16
+CUS-02340,Agege Mart,South-West,Ogbomoso,08174867809,2023-06-03
+CUS-02341,Fashola Enterprises,South-South,Eleme,09089070916,2023-03-06
+CUS-02342,Nnaji Enterprises,South-South,Uyo,07040004863,2019-08-05
+CUS-02343,Musa Foods,South-South,Calabar,08159097411,2024-04-10
+CUS-02344,Okorie Cash & Carry,South-South,Bonny,08112098146,2020-12-30
+CUS-02345,Abubakar Wholesale,South-West,Alimosho,08140092515,2024-05-17
+CUS-02346,Lekki Superstores,South-West,Ogbomoso,07025193029,2019-04-18
+CUS-02347,Adeleke Provisions,South-West,Ogbomoso,08188111625,2023-02-04
+CUS-02348,Rabiu Trading Co,South-West,Yaba,09051282753,2023-12-04
+CUS-02349,Taiwo Trading Co,South-West,Yaba,07039071005,2020-05-01
+CUS-02350,Yaba Cash & Carry,South-West,Ibadan North,07041963795,2019-12-10
+CUS-02351,Ikeja Supermarket,South-West,Abeokuta,08130090581,2020-07-05
+CUS-02352,Asaba Stores,South-South,Port Harcourt,08133800125,2021-11-09
+CUS-02353,Adesanya Foods,South-West,Abeokuta,09085361321,2024-01-30
+CUS-02354,Minna Supermarket,North-Central,Lugbe,08127418225,2023-02-06
+CUS-02355,Yusuf Trading Co,South-South,Calabar,08028367664,2019-03-05
+CUS-02356,Oshodi Cash & Carry,South-West,Mushin,07053547635,2019-07-29
+CUS-02357,Idris Ventures,South-South,Bonny,09047518966,2022-09-29
+CUS-02358,Haruna Trading Co,South-South,Bonny,08199833906,2022-11-07
+CUS-02359,Bello Cash & Carry,North-Central,Jabi,08192362416,2022-10-21
+CUS-02360,Usman Stores,South-West,Lekki,09054599850,2024-04-10
+CUS-02361,Ikeja Supermarket,South-West,Surulere,08159996586,2020-10-31
+CUS-02362,Yaba Stores,South-West,Yaba,08096255089,2019-07-02
+CUS-02363,Obio-Akpor Trading Co,South-South,Uyo,07037963448,2024-05-21
+CUS-02364,Nnaji Provisions,South-West,Epe,09084564128,2020-04-12
+CUS-02365,Salami Wholesale,South-West,Alimosho,09061784641,2021-02-16
+CUS-02366,Gwarinpa Ventures,North-Central,Kubwa,09070264344,2019-05-19
+CUS-02367,Olawale Superstores,North-Central,Lokoja,08010854347,2023-09-10
+CUS-02368,Mohammed Foods,South-West,Surulere,08148643064,2023-03-31
+CUS-02369,Makinde Mart,South-South,Bonny,07027948371,2023-05-09
+CUS-02370,Garba Mart,South-South,Port Harcourt,08193760970,2023-11-25
+CUS-02371,Lekki Hotel,South-West,Yaba,09045217439,2021-09-03
+CUS-02372,Ibadan North Trading Co,South-West,Ikeja,08073305233,2022-02-25
+CUS-02373,Igwe Mart,North-Central,Gwarinpa,08174435190,2021-10-25
+CUS-02374,Agege Hotel,South-West,Epe,08174939013,2023-08-29
+CUS-02375,Ikeja Trading Co,South-West,Surulere,07078575617,2019-11-03
+CUS-02376,Yenagoa Cash & Carry,South-South,Bonny,08023723755,2022-03-21
+CUS-02377,Badagry Ventures,South-West,Lekki,09033561787,2024-01-24
+CUS-02378,Uche Foods,South-West,Badagry,08085763872,2020-09-28
+CUS-02379,Rabiu Supermarket,North-Central,Jabi,08033158445,2023-07-20
+CUS-02380,Makurdi Provisions,North-Central,Lokoja,08023530495,2020-04-23
+CUS-02381,Bello Stores,South-West,Epe,08141711899,2021-04-26
+CUS-02382,Fashola Trading Co,North-Central,Jabi,08087524851,2019-08-15
+CUS-02383,Musa Wholesale,South-South,Asaba,09026395574,2021-09-04
+CUS-02384,Mohammed Ventures,North-Central,Kubwa,08062758546,2022-10-17
+CUS-02385,Eze Wholesale,South-West,Alimosho,08187525357,2019-11-15
+CUS-02386,Haruna Foods,South-South,Obio-Akpor,08069972067,2021-01-12
+CUS-02387,Yenagoa Supermarket,South-South,Eleme,08069074819,2024-01-10
+CUS-02388,Ibrahim Enterprises,South-West,Ibadan North,09025101251,2023-03-21
+CUS-02389,Agege Mart,South-West,Abeokuta,08027538006,2023-08-01
+CUS-02390,Lekki Mart,South-West,Oshodi,08163302112,2020-04-30
+CUS-02391,Bonny Provisions,South-South,Eleme,07015968073,2022-12-06
+CUS-02392,Danjuma Superstores,South-South,Yenagoa,09056883986,2020-08-01
+CUS-02393,Badagry Trading Co,South-West,Epe,08134784136,2023-02-03
+CUS-02394,Adeleke Supermarket,North-Central,Kubwa,07047330001,2022-09-22
+CUS-02395,Afolabi Enterprises,South-West,Alimosho,08124694269,2021-11-02
+CUS-02396,Surulere Provisions,South-West,Alimosho,07013065610,2020-01-19
+CUS-02397,Oshodi Foods,South-West,Abeokuta,08199121694,2024-04-13
+CUS-02398,Oladipo Superstores,South-West,Alimosho,08017608620,2020-12-26
+CUS-02399,Sapele Cash & Carry,South-South,Yenagoa,07038241705,2020-07-26
+CUS-02400,Adesanya Mart,North-Central,Lokoja,07094998837,2023-07-28
+CUS-02401,Fashola Stores,North-Central,Minna,09072619658,2020-03-13
+CUS-02402,Garba Foods,North-Central,Garki,07025127624,2022-04-10
+CUS-02403,Gbadamosi Supermarket,South-West,Lekki,07069927008,2023-08-28
+CUS-02404,Jos Ventures,North-Central,Kubwa,08093614156,2020-03-25
+CUS-02405,Aliyu Provisions,North-Central,Lokoja,09055273409,2023-04-02
+CUS-02406,Minna Superstores,North-Central,Lugbe,07030083236,2020-02-18
+CUS-02407,Afolabi Wholesale,South-South,Port Harcourt,09093932840,2021-06-23
+CUS-02408,Adeyemi Enterprises,South-West,Epe,08128070303,2023-07-30
+CUS-02409,Adebayo Enterprises,North-Central,Kubwa,08156972893,2020-05-16
+CUS-02410,Oshodi Foods,South-West,Badagry,07038805562,2020-05-28
+CUS-02411,Gwarinpa Foods,North-Central,Makurdi,09012293584,2020-01-25
+CUS-02412,Lekki Mart,South-West,Ikorodu,08066889810,2019-03-05
+CUS-02413,Chukwu Cash & Carry,South-West,Ikorodu,08038455850,2019-09-03
+CUS-02414,Badagry Mart,South-West,Ikeja,08074673141,2019-03-15
+CUS-02415,Usman Mart,South-West,Ibadan North,08084830195,2021-08-23
+CUS-02416,Usman Supermarket,South-West,Ibadan North,07067877622,2022-01-11
+CUS-02417,Ogunleye Mart,South-South,Eleme,08181275948,2020-10-09
+CUS-02418,Taiwo Wholesale,South-South,Eleme,07039774445,2020-06-26
+CUS-02419,Okafor Supermarket,North-Central,Garki,07092696535,2022-05-20
+CUS-02420,Nwankwo Enterprises,South-South,Yenagoa,08166799483,2019-05-31
+CUS-02421,Uyo Ventures,South-South,Sapele,08159924941,2022-10-27
+CUS-02422,Okafor Wholesale,South-West,Ibadan North,07028368925,2019-09-23
+CUS-02423,Adeyemi Stores,South-South,Port Harcourt,07025906087,2019-12-13
+CUS-02424,Makinde Supermarket,South-South,Calabar,08023472398,2021-11-24
+CUS-02425,Lekki Ventures,South-West,Surulere,09079293917,2024-03-06
+CUS-02426,Danjuma Foods,North-Central,Jabi,09024415273,2023-08-03
+CUS-02427,Garki Trading Co,North-Central,Wuse,09021332672,2023-04-28
+CUS-02428,Akinola Provisions,North-Central,Wuse,09040761227,2022-07-22
+CUS-02429,Olawale Trading Co,South-West,Ogbomoso,08176039568,2022-09-26
+CUS-02430,Adesanya Foods,South-West,Yaba,07012339362,2021-04-01
+CUS-02431,Nnaji Superstores,South-West,Agege,09067164456,2020-06-22
+CUS-02432,Adebayo Provisions,South-West,Lekki,07054796872,2023-04-21
+CUS-02433,Warri Enterprises,South-South,Calabar,08068985501,2019-04-01
+CUS-02434,Obi Cash & Carry,South-West,Alimosho,08020594263,2022-06-09
+CUS-02435,Rabiu Mart,North-Central,Minna,07014306326,2024-02-05
+CUS-02436,Onyekachi Stores,South-South,Asaba,08194132724,2021-02-11
+CUS-02437,Adesanya Supermarket,South-West,Ibadan North,09099461018,2021-10-18
+CUS-02438,Adebayo Foods,South-West,Epe,08188593150,2023-02-04
+CUS-02439,Garki Foods,North-Central,Makurdi,08187063639,2024-05-26
+CUS-02440,Badagry Stores,South-West,Agege,08015676997,2022-12-26
+CUS-02441,Danjuma Enterprises,North-Central,Lugbe,09063016030,2020-01-10
+CUS-02442,Kubwa Superstores,North-Central,Garki,08072176061,2021-02-09
+CUS-02443,Uba Cash & Carry,South-West,Abeokuta,08123697646,2022-02-11
+CUS-02444,Eleme Provisions,South-South,Yenagoa,08116590650,2021-09-12
+CUS-02445,Ogunleye Mart,South-West,Oshodi,08168638880,2023-05-24
+CUS-02446,Ogbomoso Superstores,South-West,Abeokuta,08188230673,2021-03-25
+CUS-02447,Yenagoa Supermarket,South-South,Obio-Akpor,08132165081,2019-06-19
+CUS-02448,Epe Mart,South-West,Ikeja,08072715713,2024-02-18
+CUS-02449,Jos Mart,North-Central,Garki,07065128847,2024-02-10
+CUS-02450,Port Harcourt Superstores,South-South,Asaba,07083249011,2019-02-16
+CUS-02451,Chukwu Superstores,South-South,Sapele,09029677109,2019-05-22
+CUS-02452,Ikeja Foods,South-West,Alimosho,08198783194,2021-07-27
+CUS-02453,Lekki Hotel,South-West,Mushin,08150817500,2021-06-02
+CUS-02454,Ibadan North Trading Co,South-West,Ogbomoso,08086650083,2021-12-13
+CUS-02455,Adeyemi Hotel,South-South,Eleme,07013448448,2022-12-18
+CUS-02456,Taiwo Ventures,North-Central,Garki,08035355653,2022-04-15
+CUS-02457,Obi Stores,North-Central,Garki,08078571606,2019-06-04
+CUS-02458,Ikorodu Mart,South-West,Abeokuta,09085120173,2019-05-08
+CUS-02459,Hassan Cash & Carry,North-Central,Makurdi,09099198877,2020-11-08
+CUS-02460,Nwosu Provisions,South-West,Badagry,07044715608,2019-05-07
+CUS-02461,Calabar Stores,South-South,Uyo,09015908424,2021-08-24
+CUS-02462,Eleme Ventures,South-South,Asaba,08054735696,2020-05-13
+CUS-02463,Igwe Enterprises,South-West,Oshodi,09034390750,2022-10-11
+CUS-02464,Lokoja Foods,North-Central,Lugbe,09061503459,2021-05-09
+CUS-02465,Usman Cash & Carry,South-West,Ikeja,08170808652,2021-07-20
+CUS-02466,Adeyemi Mart,South-West,Ogbomoso,08123718350,2022-04-03
+CUS-02467,Agege Enterprises,South-West,Oshodi,08094599602,2022-02-20
+CUS-02468,Adeyemi Hotel,South-West,Abeokuta,08045690939,2021-06-03
+CUS-02469,Yaba Enterprises,South-West,Ikeja,09028449486,2022-12-20
+CUS-02470,Hassan Hotel,South-West,Ibadan North,07067031050,2024-04-17
+CUS-02471,Salami Stores,North-Central,Kubwa,07088718420,2019-05-24
+CUS-02472,Jabi Superstores,North-Central,Makurdi,08037457064,2020-05-30
+CUS-02473,Anyanwu Foods,South-West,Mushin,07055866092,2023-05-16
+CUS-02474,Okorie Trading Co,South-South,Bonny,07063768735,2022-07-22
+CUS-02475,Eleme Trading Co,South-South,Asaba,08176517227,2023-08-10
+CUS-02476,Mushin Trading Co,South-West,Epe,07035937389,2020-07-05
+CUS-02477,Aliyu Cash & Carry,South-West,Mushin,07073088534,2020-03-07
+CUS-02478,Garki Hotel,North-Central,Gwarinpa,08189798773,2021-05-26
+CUS-02479,Okonkwo Hotel,North-Central,Jos,07063781664,2021-10-30
+CUS-02480,Oladipo Stores,South-South,Yenagoa,08165525803,2021-07-09
+CUS-02481,Ogunleye Trading Co,South-South,Sapele,08062951530,2020-11-26
+CUS-02482,Onyekachi Enterprises,South-West,Epe,08088083792,2022-03-14
+CUS-02483,Salami Hotel,North-Central,Lokoja,08122119306,2022-08-01
+CUS-02484,Taiwo Superstores,South-West,Ikeja,07026658677,2020-12-23
+CUS-02485,Surulere Supermarket,South-West,Alimosho,09058495022,2023-01-14
+CUS-02486,Abdullahi Supermarket,North-Central,Jabi,07019446734,2021-10-04
+CUS-02487,Ikeja Provisions,South-West,Alimosho,09037802066,2022-01-21
+CUS-02488,Haruna Superstores,South-West,Surulere,07079077540,2021-03-03
+CUS-02489,Adeleke Cash & Carry,South-West,Ibadan North,07016597033,2024-04-12
+CUS-02490,Lugbe Mart,North-Central,Lugbe,08134015248,2024-02-26
+CUS-02491,Nwachukwu Superstores,South-West,Alimosho,08184726038,2020-12-23
+CUS-02492,Adeleke Trading Co,South-West,Oshodi,09045182600,2023-07-06
+CUS-02493,Ikorodu Trading Co,South-West,Mushin,08175770619,2020-03-06
+CUS-02494,Adebayo Enterprises,South-West,Ibadan North,08152806362,2023-03-07
+CUS-02495,Garba Supermarket,South-West,Mushin,08042550031,2019-08-12
+CUS-02496,Obi Cash & Carry,South-South,Eleme,08066201522,2022-07-13
+CUS-02497,Obi Superstores,North-Central,Jabi,08140722721,2019-03-25
+CUS-02498,Epe Cash & Carry,South-West,Surulere,08025893296,2023-06-09
+CUS-02499,Hassan Ventures,South-West,Mushin,09098133285,2021-10-05
+CUS-02500,Taiwo Enterprises,South-West,Lekki,09013724394,2023-11-02
