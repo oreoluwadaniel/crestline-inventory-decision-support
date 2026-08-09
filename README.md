@@ -29,13 +29,17 @@ Switching scenarios doesn't just change a number in a cell. It flows through inv
 
 ## The dashboard
 
-Three views from the workbook:
+The KPI band: inventory value, turnover, days of inventory outstanding, fill rate, OTIF, and excess stock, all reacting to whichever scenario is selected.
 
-**KPI band** — inventory value, turnover, days of inventory outstanding, fill rate, OTIF, and excess stock, all in one row, all reacting to the selected scenario.
+![KPI band](screenshots/dashboard_kpi_band.png)
 
-**Scenario switcher** — the control panel. Pick a scenario, see the delta against base case for annual cost, average inventory, and fill rate.
+The scenario switcher, the control panel for the whole model. Pick a scenario and see the delta against base case for annual cost, average inventory, and fill rate.
 
-**What-if table** — the assumptions behind each scenario, laid out so anyone can see exactly what changed and why the numbers moved.
+![Scenario switcher](screenshots/scenario_switcher.png)
+
+And the what-if table underneath it, showing the actual assumptions behind each scenario so anyone reviewing the model can see exactly what changed and why the numbers moved.
+
+![What-if table](screenshots/scenario_whatif_table.png)
 
 ## How it's built
 
