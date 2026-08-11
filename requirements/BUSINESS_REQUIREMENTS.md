@@ -1,7 +1,7 @@
 # Crestline Inventory Decision Support System
 ## Business Requirements & Solution Specification
 
-**Portfolio Case Study — Version 1.0**
+**Portfolio Case Study: Version 1.0**
 
 ---
 
@@ -75,13 +75,13 @@ The solution should enable management to:
 
 # 5. Functional Requirements
 
-## FR-01 — Inventory Visibility
+## FR-01: Inventory Visibility
 
 The solution shall display inventory position across the modeled warehouse network.
 
 ---
 
-## FR-02 — Warehouse Analysis
+## FR-02: Warehouse Analysis
 
 The solution shall allow management to compare inventory and utilization indicators across:
 
@@ -93,25 +93,25 @@ The solution shall allow management to compare inventory and utilization indicat
 
 ---
 
-## FR-03 — Demand Analysis
+## FR-03: Demand Analysis
 
 The solution shall use historical sales information to support demand analysis and planning.
 
 ---
 
-## FR-04 — Stockout Analysis
+## FR-04: Stockout Analysis
 
 The solution shall identify products or conditions associated with elevated stockout exposure.
 
 ---
 
-## FR-05 — Excess Inventory Analysis
+## FR-05: Excess Inventory Analysis
 
 The solution shall identify inventory that may represent excess or slow-moving stock based on the documented methodology.
 
 ---
 
-## FR-06 — Supplier Analysis
+## FR-06: Supplier Analysis
 
 The solution shall support review of supplier-related factors such as:
 
@@ -124,7 +124,7 @@ where the relevant data is available.
 
 ---
 
-## FR-07 — Scenario Analysis
+## FR-07: Scenario Analysis
 
 The solution shall allow the user to select predefined scenarios and recalculate relevant outputs.
 
@@ -140,13 +140,13 @@ Required scenarios:
 
 ---
 
-## FR-08 — Executive Dashboard
+## FR-08: Executive Dashboard
 
 The solution shall provide an executive dashboard showing the most important inventory and scenario KPIs.
 
 ---
 
-## FR-09 — Validation
+## FR-09: Validation
 
 The solution shall include checks confirming that scenario changes propagate correctly through calculations and dashboard outputs.
 

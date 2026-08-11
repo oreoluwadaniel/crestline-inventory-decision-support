@@ -260,27 +260,27 @@ Avoid presenting modeled or illustrative values as realized savings.
 
 Before publishing or presenting the workbook:
 
-### Test 1 — Base Case
+### Test 1: Base Case
 
 Confirm the Base Case loads correctly.
 
-### Test 2 — Scenario Change
+### Test 2: Scenario Change
 
 Select each scenario individually.
 
-### Test 3 — KPI Propagation
+### Test 3: KPI Propagation
 
 Confirm relevant KPIs change where expected.
 
-### Test 4 — Dashboard Consistency
+### Test 4: Dashboard Consistency
 
 Confirm dashboard values match the underlying calculations.
 
-### Test 5 — Reset
+### Test 5: Reset
 
 Return to Base Case and confirm original values return.
 
-### Test 6 — Formula Integrity
+### Test 6: Formula Integrity
 
 Check for:
 
@@ -289,7 +289,7 @@ Check for:
 - Unexpected blanks
 - Circular references
 
-### Test 7 — Refresh
+### Test 7: Refresh
 
 Run the workbook's refresh process and confirm outputs remain valid.
 
