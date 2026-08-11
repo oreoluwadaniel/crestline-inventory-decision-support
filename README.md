@@ -102,4 +102,4 @@ This is portfolio work, and I want to be upfront about the gap between that and 
 
 ## About me
 
-I work as a data analyst, and I build things like this because I'd rather show the thinking than describe it. If you want to talk about the model, the assumptions behind it, or how I'd approach something similar with real data, reach me at oluwafikayore@gmail.com.
+I work as a data analyst, and I build things like this because I'd rather show the thinking than describe it. If you want to talk about the model, the assumptions behind it, or how I'd approach something similar with real data, reach me at danolatunji25@gmail.com.
